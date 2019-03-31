@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="10" tilewidth="32" tileheight="32" nextobjectid="3">
+ <tileset firstgid="1" name="036-Shop01" tilewidth="32" tileheight="32" tilecount="312">
+  <image source="036-Shop01.png" width="256" height="1248"/>
+ </tileset>
+ <layer name="tiled layer1" width="20" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxTYmBgUKIi1qIyZhzFo5gEnIyGmaAYXZxYAAAwzgmZ
+  </data>
+ </layer>
+ <layer name="colliable layer" width="20" height="10">
+  <properties>
+   <property name="colliable" value="true"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJw7zIAK1JDYE4F4EgNpoBmIW4B4MhBPAWI9JLmZQDyLRPO6gbgHiGcD8RwS9eICFljEDIHYCIiNSTRLghFCqwBpVSBWg/ItgdgKiK1JNE8Bql8HSOsCsR6U7wjETkDsTKJ5MGACNMcUiM0YEWLLgXgFieYcBeJjOOTWA/EGslwHAQdwsAcSAABzDBG9
+  </data>
+ </layer>
+ <objectgroup name="object">
+  <object id="1" name="Hero" type="Player" x="128" y="96" width="32" height="32">
+   <properties>
+    <property name="id" value="player"/>
+    <property name="image" value="player.png"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <layer name="tiled layer2" width="20" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIBBLAzNTgTiGBuYOFrADB3s4AQBYeQKP
+  </data>
+ </layer>
+</map>

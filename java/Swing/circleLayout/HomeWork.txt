@@ -1,0 +1,15 @@
+7
+会触发java.lang.StringIndexOutOfBoundsException异常
+因为这时charAt(0)等于String的串长度
+8.编译无法通过，而且str是字符串，无法强制转换成Integer
+改成
+String str="123";
+int i = Integer.parseInt(str);
+9.将会被Exceptionex捕获，因为Exception是所有异常类的祖先类，而且在jdk1.8时无法通过异常，两个catch互换位置即可
+
+10.
+throws是方法可能抛出的异常
+如 public void add(String s1,String s2) throws NumberFormatException
+{
+}
+而throw是抛出一个异常
