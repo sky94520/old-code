@@ -1,0 +1,49 @@
+java创建文件夹
+1.File 的mkdir和mkdirs
+2.java的iterator有next和hasNext，不同于c++，java的next()先返回当前对象，然后指向下一个对象
+3.// 创建BufferedImage对象
+
+BufferedImage image = new BufferedImage(width, height,     BufferedImage.TYPE_INT_RGB);
+4.
+// 获取Graphics2D
+
+Graphics2D g2d = image.createGraphics();
+
+// ---------- 增加下面的代码使得背景透明 -----------------
+
+image = g2d.getDeviceConfiguration().createCompatibleImage(width, height, Transparency.TRANSLUCENT);
+
+g2d.dispose();
+
+g2d = image.createGraphics();
+
+// ---------- 背景透明代码结束 -----------------
+
+// 画图
+
+g2d.setColor(new Color(255,0,0));
+
+g2d.setStroke(new BasicStroke(1));
+
+g2d.draw
+
+//释放对象
+
+g2d.dispose();
+
+// 保存文件  
+
+ImageIO.write(image, "png", new File("c:/test.png"));
+5.java改变风格
+//这里注意，这是字符串
+//三种界面风格
+ String windows="com.sun.java.swing.plaf.windows.WindowsLookAndFeel";
+ //String metal="javax.swing.plaf.metal.MetalLookAndFeel";
+ //String motif="com.sun.java.swing.plaf.motif.MotifLookAndFeel";
+try{
+   UIManager.setLookAndFeel(windows);
+   SwingUtilities.updateComponentTreeUI(this);
+   this.pack();
+}catch(Exception e){
+  System.out.println("不能设置这个界面风格:"+e);
+}

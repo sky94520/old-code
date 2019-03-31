@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:543c68547bdc7b2c09375b12cd506c25$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="cat.png" width="256" height="512">
+    <sprite n="loading_01.png" x="2" y="2" w="126" h="63" oX="13" oY="52" oW="144" oH="143"/>
+    <sprite n="loading_02.png" x="116" y="160" w="128" h="75" oX="5" oY="54" oW="144" oH="143"/>
+    <sprite n="loading_03.png" x="2" y="237" w="130" h="79" oX="5" oY="56" oW="144" oH="143"/>
+    <sprite n="loading_04.png" x="2" y="67" w="124" h="79" oX="11" oY="57" oW="144" oH="143"/>
+    <sprite n="loading_05.png" x="134" y="237" w="112" h="85" oX="22" oY="55" oW="144" oH="143"/>
+    <sprite n="loading_06.png" x="2" y="318" w="116" h="87" oX="18" oY="53" oW="144" oH="143"/>
+    <sprite n="loading_07.png" x="128" y="75" w="120" h="83" oX="13" oY="49" oW="144" oH="143"/>
+    <sprite n="loading_08.png" x="120" y="324" w="112" h="87" oX="21" oY="47" oW="144" oH="143"/>
+    <sprite n="loading_09.png" x="108" y="413" w="102" h="89" oX="31" oY="45" oW="144" oH="143"/>
+    <sprite n="loading_10.png" x="2" y="407" w="104" h="87" oX="32" oY="47" oW="144" oH="143"/>
+    <sprite n="loading_11.png" x="2" y="148" w="112" h="83" oX="24" oY="47" oW="144" oH="143"/>
+    <sprite n="loading_12.png" x="130" y="2" w="122" h="71" oX="19" oY="49" oW="144" oH="143"/>
+</TextureAtlas>
+经我仔细研究发现。oX，oY为在原图中剪切时的位置开始，矩形为w * h
+x，y为在大图中的位置，还有一个就是 “r”，为翻转（rotate）
+这些在百度中我是没找到。。也许是常识吧。我打算在SDL中使用，因为坐标系和SDL相同

@@ -1,0 +1,11 @@
+@echo off
+
+set wlan_profile_folder=.\无线网络配置文件
+
+if not exist %wlan_profile_folder% (
+  md %wlan_profile_folder%
+)
+
+netsh wlan export profile folder=%wlan_profile_folder% key=clear
+
+ping 127.0.0.1>nul
