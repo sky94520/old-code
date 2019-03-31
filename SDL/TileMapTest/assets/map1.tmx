@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="blocks1" tilewidth="32" tileheight="32" spacing="2" margin="2">
+  <image source="blocks1.png" width="614" height="376"/>
+ </tileset>
+ <tileset firstgid="199" name="blocks2" tilewidth="32" tileheight="32" spacing="2" margin="2">
+  <image source="blocks2.png" width="614" height="376"/>
+ </tileset>
+ <layer name="块层 1" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzdzkkKwjAUxvEURY/gfDVrHZaewOEKLjyEtrUeR5fOoODCqQV3/Ytd1NKYhULFBz/ywku+pCqE0FET/1UNNNFK+iMflIF60p/4wVpjg+2X8m5w4SnOLbDESjLfhfqs9lzvb/LOuOAaMxthDBMWbEzgYIoc+XnM6OfBnRT7tPaa8zjXYe2ih77CHgcUUEQJZVSQCbJkBpF32gqnUD+MzI6SOz6UiS6D
+  </data>
+ </layer>
+</map>

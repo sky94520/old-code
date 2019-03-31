@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="15" tilewidth="32" tileheight="32" nextobjectid="14">
+ <properties>
+  <property name="clouds" value="clouds.png"/>
+  <property name="helicopter" value="helicopter.png"/>
+  <property name="helicopter2" value="helicopter2.png"/>
+ </properties>
+ <tileset firstgid="1" name="blocks1" tilewidth="32" tileheight="32" spacing="2" margin="2">
+  <image source="blocks1.png" width="614" height="376"/>
+ </tileset>
+ <tileset firstgid="199" name="blocks2" tilewidth="32" tileheight="32" spacing="2" margin="2">
+  <image source="blocks2.png" width="614" height="376"/>
+ </tileset>
+ <objectgroup name="Object Layer 2">
+  <object id="12" name="scrollBackground" type="ScrollingBackground" x="0" y="0" width="32" height="32">
+   <properties>
+    <property name="numFrames" value="1"/>
+    <property name="textureHeight" value="480"/>
+    <property name="textureID" value="clouds"/>
+    <property name="textureWidth" value="640"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <layer name="Collision Layer" width="60" height="15" visible="0">
+  <properties>
+   <property name="Colliable" value="true"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztw7ENAAAMAiAf9v/V9I5CQgIAAMDpswM7fBmN
+  </data>
+ </layer>
+ <layer name="Tile layer 1" width="60" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztlUEOgkAMRTvRhBNowrn0BsI9exNBvYCKrPnuiGmnjA7CEF7yFmTK/1M2EP0fhidYwHKC/pWVVDg4oqP7LYN7Lhke4FLhAFOHDX3zqcKBxuibGg5UeyekZwxYUOIMK1grGRd4hTdPrpZNJH+nMfi8j9T79g4f8KnMN/AFWyPb6iThOTZaf98N/uNb55/JjPNvjM3Q3h122Rv75DPfN/bd5m4HrNnELA==
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1">
+  <object id="1" name="helicopter1" type="Player" x="64" y="64" width="32" height="32">
+   <properties>
+    <property name="numFrames" value="4"/>
+    <property name="textureHeight" value="55"/>
+    <property name="textureID" value="helicopter"/>
+    <property name="textureWidth" value="128"/>
+   </properties>
+  </object>
+  <object id="8" name="helicopter2" type="Enemy" x="416" y="64" width="32" height="32">
+   <properties>
+    <property name="numFrames" value="5"/>
+    <property name="textureHeight" value="55"/>
+    <property name="textureID" value="helicopter2"/>
+    <property name="textureWidth" value="128"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

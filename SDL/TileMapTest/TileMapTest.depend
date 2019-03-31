@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1434767964 source:f:\c语言\sdl\tilemaptest\main.cpp
+	"SDL2/SDL.h"
+	"TMXTiledMap.h"
+
+1434769063 f:\c语言\sdl\tilemaptest\tmxtiledmap.h
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"tinyxml.h"
+	"base64.h"
+	"zlib.h"
+
+1430456725 f:\c语言\sdl\tilemaptest\tinyxml\include\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1430456714 f:\c语言\sdl\tilemaptest\tinyxml\include\tinystr.h
+	<assert.h>
+	<string.h>
+
+1417584037 f:\c语言\sdl\tilemaptest\zlib\include\zlib.h
+	"zconf.h"
+
+1417584037 f:\c语言\sdl\tilemaptest\zlib\include\zconf.h
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stdarg.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1417584030 f:\c语言\sdl\tilemaptest\base64.h
+	<string>
+	<vector>
+
+1417584030 source:f:\c语言\sdl\tilemaptest\base64.cpp
+	"base64.h"
+	<iostream>
+
+1434769268 source:f:\c语言\sdl\tilemaptest\tmxtiledmap.cpp
+
+1417584030 source:f:\c语言\sdl\我的源码\tilemaptest\base64.cpp
+	"base64.h"
+	<iostream>
+
+1417584030 f:\c语言\sdl\我的源码\tilemaptest\base64.h
+	<string>
+	<vector>
+
+1439728518 source:f:\c语言\sdl\我的源码\tilemaptest\main.cpp
+	"SDL2/SDL.h"
+	"TMXTiledMap.h"
+
+1434769063 f:\c语言\sdl\我的源码\tilemaptest\tmxtiledmap.h
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"tinyxml.h"
+	"base64.h"
+	"zlib.h"
+
+1430456725 f:\c语言\sdl\我的源码\tilemaptest\tinyxml\include\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1430456714 f:\c语言\sdl\我的源码\tilemaptest\tinyxml\include\tinystr.h
+	<assert.h>
+	<string.h>
+
+1417584037 f:\c语言\sdl\我的源码\tilemaptest\zlib\include\zlib.h
+	"zconf.h"
+
+1417584037 f:\c语言\sdl\我的源码\tilemaptest\zlib\include\zconf.h
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stdarg.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1434769268 source:f:\c语言\sdl\我的源码\tilemaptest\tmxtiledmap.cpp
+

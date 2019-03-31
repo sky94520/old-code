@@ -1,0 +1,12 @@
+CPP_FILES := $(wildcard *.c)
+OBJ := $(subst .c,.o,$(CPP_FILES))
+
+SHELL=cmd.exe
+
+libzlib.a:$(OBJ)
+	 ar rs $@ $^
+$(OBJ):%.o :%.c
+	 $(CC) -c $<
+.PNONY : clean
+clean :
+	 rm -f *.o libzlib.a
