@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:4c17548f361f6ad50a96de64aebf5eb1$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="WallNut.png" width="512" height="512">
+    <sprite n="WallNut16.png" x="404" y="377" w="65" h="73"/>
+    <sprite n="WallNut1.png" x="337" y="377" w="65" h="73"/>
+    <sprite n="WallNut10.png" x="404" y="302" w="65" h="73"/>
+    <sprite n="WallNut11.png" x="337" y="302" w="65" h="73"/>
+    <sprite n="WallNut12.png" x="270" y="377" w="65" h="73"/>
+    <sprite n="WallNut13.png" x="270" y="302" w="65" h="73"/>
+    <sprite n="WallNut14.png" x="404" y="227" w="65" h="73"/>
+    <sprite n="WallNut15.png" x="337" y="227" w="65" h="73"/>
+    <sprite n="WallNut2.png" x="270" y="227" w="65" h="73"/>
+    <sprite n="WallNut3.png" x="203" y="377" w="65" h="73"/>
+    <sprite n="WallNut4.png" x="203" y="302" w="65" h="73"/>
+    <sprite n="WallNut5.png" x="203" y="227" w="65" h="73"/>
+    <sprite n="WallNut6.png" x="404" y="152" w="65" h="73"/>
+    <sprite n="WallNut7.png" x="337" y="152" w="65" h="73"/>
+    <sprite n="WallNut8.png" x="270" y="152" w="65" h="73"/>
+    <sprite n="WallNut9.png" x="203" y="152" w="65" h="73"/>
+    <sprite n="Wallnut_cracked1-1.png" x="136" y="377" w="65" h="73"/>
+    <sprite n="Wallnut_cracked1-10.png" x="136" y="302" w="65" h="73"/>
+    <sprite n="Wallnut_cracked1-11.png" x="136" y="227" w="65" h="73"/>
+    <sprite n="Wallnut_cracked1-2.png" x="136" y="152" w="65" h="73"/>
+    <sprite n="Wallnut_cracked1-3.png" x="404" y="77" w="65" h="73"/>
+    <sprite n="Wallnut_cracked1-4.png" x="337" y="77" w="65" h="73"/>
+    <sprite n="Wallnut_cracked1-5.png" x="270" y="77" w="65" h="73"/>
+    <sprite n="Wallnut_cracked1-6.png" x="203" y="77" w="65" h="73"/>
+    <sprite n="Wallnut_cracked1-7.png" x="136" y="77" w="65" h="73"/>
+    <sprite n="Wallnut_cracked1-8.png" x="69" y="377" w="65" h="73"/>
+    <sprite n="Wallnut_cracked1-9.png" x="69" y="302" w="65" h="73"/>
+    <sprite n="Wallnut_cracked2-1.png" x="69" y="227" w="65" h="73"/>
+    <sprite n="Wallnut_cracked2-10.png" x="69" y="152" w="65" h="73"/>
+    <sprite n="Wallnut_cracked2-11.png" x="69" y="77" w="65" h="73"/>
+    <sprite n="Wallnut_cracked2-12.png" x="404" y="2" w="65" h="73"/>
+    <sprite n="Wallnut_cracked2-13.png" x="337" y="2" w="65" h="73"/>
+    <sprite n="Wallnut_cracked2-14.png" x="270" y="2" w="65" h="73"/>
+    <sprite n="Wallnut_cracked2-15.png" x="203" y="2" w="65" h="73"/>
+    <sprite n="Wallnut_cracked2-2.png" x="136" y="2" w="65" h="73"/>
+    <sprite n="Wallnut_cracked2-3.png" x="69" y="2" w="65" h="73"/>
+    <sprite n="Wallnut_cracked2-4.png" x="2" y="377" w="65" h="73"/>
+    <sprite n="Wallnut_cracked2-5.png" x="2" y="302" w="65" h="73"/>
+    <sprite n="Wallnut_cracked2-6.png" x="2" y="227" w="65" h="73"/>
+    <sprite n="Wallnut_cracked2-7.png" x="2" y="152" w="65" h="73"/>
+    <sprite n="Wallnut_cracked2-8.png" x="2" y="77" w="65" h="73"/>
+    <sprite n="Wallnut_cracked2-9.png" x="2" y="2" w="65" h="73"/>
+</TextureAtlas>

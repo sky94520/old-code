@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:68382c07ab86e459b57b305cfc7269b2$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="zombie8.png" width="1024" height="1024">
+    <sprite n="DancingZombieLostHeadSummon_00.png" x="680" y="266" w="76" h="104" oX="16" oY="65" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadSummon_01.png" x="668" y="402" w="80" h="104" oX="11" oY="65" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadSummon_02.png" x="498" y="558" w="86" h="132" oX="0" oY="36" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_00.png" x="488" y="838" w="66" h="134" oX="26" oY="30" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_01.png" x="78" y="2" w="62" h="140" oX="32" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_02.png" x="2" y="722" w="64" h="142" oX="33" oY="22" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_03.png" x="2" y="434" w="66" h="142" oX="31" oY="22" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_04.png" x="222" y="860" w="66" h="140" oX="31" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_05.png" x="218" y="574" w="66" h="140" oX="31" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_06.png" x="364" y="2" w="64" h="138" oX="31" oY="25" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_07.png" x="432" y="560" w="64" h="136" oX="31" oY="23" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_08.png" x="286" y="564" w="68" h="138" oX="33" oY="23" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_09.png" x="78" y="862" w="74" h="140" oX="32" oY="22" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_10.png" x="78" y="862" w="74" h="140" oX="32" oY="22" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_11.png" x="354" y="842" w="66" h="136" oX="32" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_12.png" x="312" y="142" w="64" h="138" oX="30" oY="25" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_13.png" x="290" y="858" w="62" h="140" oX="32" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_14.png" x="282" y="716" w="64" h="140" oX="31" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_15.png" x="2" y="578" w="64" h="142" oX="33" oY="22" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_16.png" x="2" y="578" w="64" h="142" oX="33" oY="22" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_17.png" x="214" y="718" w="66" h="140" oX="31" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_18.png" x="144" y="718" w="68" h="140" oX="30" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_19.png" x="154" y="860" w="66" h="140" oX="31" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_20.png" x="428" y="700" w="64" h="136" oX="30" oY="25" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_21.png" x="294" y="422" w="66" h="138" oX="32" oY="22" oW="184" oH="176"/>
+    <sprite n="DancingZombieLostHeadWalk_22.png" x="68" y="720" w="74" h="140" oX="32" oY="22" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_00.png" x="494" y="698" w="64" h="134" oX="23" oY="37" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_01.png" x="442" y="280" w="62" h="136" oX="25" oY="35" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_02.png" x="438" y="420" w="62" h="136" oX="26" oY="35" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_03.png" x="302" y="282" w="64" h="138" oX="30" oY="33" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_04.png" x="502" y="418" w="80" h="132" oX="22" oY="39" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_05.png" x="586" y="272" w="92" h="128" oX="15" oY="43" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_06.png" x="560" y="692" w="94" h="124" oX="13" oY="47" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_07.png" x="642" y="2" w="88" h="126" oX="15" oY="45" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_08.png" x="584" y="410" w="82" h="130" oX="17" oY="41" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_09.png" x="506" y="276" w="78" h="132" oX="18" oY="39" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_10.png" x="498" y="2" w="72" h="134" oX="20" oY="37" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_11.png" x="378" y="142" w="68" h="136" oX="23" oY="35" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_12.png" x="430" y="2" w="66" h="136" oX="24" oY="35" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_13.png" x="422" y="842" w="64" h="136" oX="27" oY="35" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_14.png" x="294" y="2" w="68" h="138" oX="29" oY="33" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_15.png" x="240" y="142" w="70" h="138" oX="29" oY="33" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_16.png" x="610" y="136" w="84" h="128" oX="17" oY="43" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_17.png" x="586" y="542" w="86" h="124" oX="15" oY="47" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_18.png" x="556" y="834" w="82" h="126" oX="16" oY="45" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_19.png" x="536" y="138" w="72" h="132" oX="20" oY="39" oW="184" oH="176"/>
+    <sprite n="DancingZombieSlidingStep_20.png" x="572" y="2" w="68" h="132" oX="21" oY="39" oW="184" oH="176"/>
+    <sprite n="DancingZombieSummon_00.png" x="348" y="704" w="78" h="136" oX="13" oY="32" oW="184" oH="176"/>
+    <sprite n="DancingZombieSummon_01.png" x="78" y="144" w="84" h="138" oX="4" oY="30" oW="184" oH="176"/>
+    <sprite n="DancingZombieSummon_02.png" x="448" y="140" w="86" h="134" oX="0" oY="34" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_00.png" x="2" y="146" w="74" h="142" oX="34" oY="23" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_01.png" x="2" y="290" w="72" h="142" oX="36" oY="23" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_02.png" x="2" y="2" w="74" h="142" oX="34" oY="23" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_03.png" x="146" y="432" w="72" h="140" oX="35" oY="25" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_04.png" x="76" y="290" w="74" h="140" oX="33" oY="25" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_05.png" x="218" y="2" w="74" h="138" oX="33" oY="26" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_06.png" x="368" y="282" w="72" h="136" oX="35" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_07.png" x="228" y="282" w="72" h="138" oX="36" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_08.png" x="220" y="424" w="72" h="138" oX="36" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_09.png" x="164" y="142" w="74" h="138" oX="34" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_10.png" x="362" y="422" w="74" h="136" oX="33" oY="25" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_11.png" x="152" y="284" w="74" h="138" oX="33" oY="26" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_12.png" x="144" y="576" w="72" h="140" oX="35" oY="25" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_13.png" x="144" y="576" w="72" h="140" oX="35" oY="25" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_14.png" x="2" y="290" w="72" h="142" oX="36" oY="23" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_15.png" x="2" y="290" w="72" h="142" oX="36" oY="23" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_16.png" x="70" y="434" w="74" h="140" oX="34" oY="25" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_17.png" x="68" y="578" w="74" h="140" oX="33" oY="25" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_18.png" x="2" y="866" w="74" h="140" oX="33" oY="25" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_19.png" x="356" y="562" w="74" h="136" oX="33" oY="26" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_20.png" x="142" y="2" w="74" h="138" oX="34" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_21.png" x="220" y="424" w="72" h="138" oX="36" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_22.png" x="164" y="142" w="74" h="138" oX="34" oY="24" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_23.png" x="362" y="422" w="74" h="136" oX="33" oY="25" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_24.png" x="152" y="284" w="74" h="138" oX="33" oY="26" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_25.png" x="144" y="576" w="72" h="140" oX="35" oY="25" oW="184" oH="176"/>
+    <sprite n="DancingZombieWalk_26.png" x="144" y="576" w="72" h="140" oX="35" oY="25" oW="184" oH="176"/>
+</TextureAtlas>

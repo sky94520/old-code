@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:1764dd7d448dce574443501d9ce30132$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="shop_resources.png" width="128" height="512">
+    <sprite n="gold.png" x="32" y="442" w="36" h="41"/>
+    <sprite n="shop_buy_bg.png" x="2" y="32" w="96" h="80" oX="2" oY="57" oW="200" oH="200"/>
+    <sprite n="shop_buy_btn_text.png" x="2" y="442" w="28" h="50" oX="0" oY="12" oW="50" oH="50" r="y"/>
+    <sprite n="shop_player_life_title.png" x="70" y="114" w="30" h="170" oX="11" oY="8" oW="200" oH="50" r="y"/>
+    <sprite n="shop_player_ressurect_title.png" x="34" y="114" w="28" h="198" oX="2" oY="12" oW="200" oH="50" r="y"/>
+    <sprite n="toast_buy_error1.png" x="2" y="114" w="30" h="326" oX="13" oY="11" oW="350" oH="50" r="y"/>
+    <sprite n="toast_buy_error2.png" x="64" y="286" w="28" h="144" oX="4" oY="13" oW="150" oH="50" r="y"/>
+    <sprite n="toast_buy_success.png" x="2" y="2" w="114" h="28" oX="3" oY="13" oW="120" oH="50"/>
+</TextureAtlas>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="150" height="15" tilewidth="32" tileheight="32" nextobjectid="4">
+ <properties>
+  <property name="clouds" value="sprite/clouds2.png"/>
+ </properties>
+ <tileset firstgid="1" name="blocks1" tilewidth="32" tileheight="32" spacing="2" margin="2" tilecount="198" columns="18">
+  <image source="blocks1.png" width="614" height="376"/>
+ </tileset>
+ <objectgroup name="Object Layer 2">
+  <object id="3" name="Level2Boss" type="Level1Boss" x="4769" y="159" width="32" height="32"/>
+ </objectgroup>
+ <layer name="Bottom" width="150" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt1LENgDAQBEGKog5KoQ+6JkcEtqWNPCNd9Onqj2PdNTEYNdqLrpihKwq6oqArCrqioCsKuqKgKwq6oqArCkVX58/YS/mvns9g1r14A/byApBqDq8=
+  </data>
+ </layer>
+ <layer name="Collision" width="150" height="15">
+  <properties>
+   <property name="collidable" value="true"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztlssJgDAQBT1agKVYlWAP/iqyQuMh4MHPru7LRvIGBjSYiDpIqqpsatAc6bpP1zXCdazmERvYFUHArggCdpUfncJcYVcEwZuuLNd905WkGXblC6orzf2jUthV/nh3FbHu6s+Uur9CwK4IAnZFIl7/Onalpz1xVZoKdoXBYn911tGVUlK1xa6uGYNTcA4uwUEwdne+H2taKc2v71o6z2PseNyD9P5+d6KeuU+w/l/cANp1iiU=
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1"/>
+</map>

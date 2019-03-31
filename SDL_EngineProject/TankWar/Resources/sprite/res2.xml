@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:eb6aec7f548bbdd8a07dc2ac502da7c6$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="res2.png" width="128" height="256">
+    <sprite n="brick0.png" x="70" y="104" w="32" h="32"/>
+    <sprite n="brick1.png" x="36" y="104" w="32" h="32"/>
+    <sprite n="brick2.png" x="2" y="104" w="32" h="32"/>
+    <sprite n="brick3.png" x="70" y="70" w="32" h="32"/>
+    <sprite n="grass.png" x="36" y="70" w="32" h="32"/>
+    <sprite n="home.png" x="2" y="138" w="26" h="30" oX="1" oY="3" oW="32" oH="32" r="y"/>
+    <sprite n="mud.png" x="2" y="70" w="32" h="32"/>
+    <sprite n="road.png" x="70" y="36" w="32" h="32"/>
+    <sprite n="sign_bullet.png" x="104" y="2" w="10" h="24" oX="11" oY="5" oW="32" oH="32"/>
+    <sprite n="steel0.png" x="36" y="36" w="32" h="32"/>
+    <sprite n="steel1.png" x="2" y="36" w="32" h="32"/>
+    <sprite n="steel2.png" x="70" y="2" w="32" h="32"/>
+    <sprite n="steel3.png" x="36" y="2" w="32" h="32"/>
+    <sprite n="water.png" x="2" y="2" w="32" h="32"/>
+</TextureAtlas>

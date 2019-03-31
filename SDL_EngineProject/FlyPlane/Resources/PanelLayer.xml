@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layer anchor-point="0,0">
+	<LabelAtlas position="700,20" name="score">
+		<properties>
+			<property name="text" value="score:00"/>
+			<property name="color-key" value="0,255,255"/>
+			<property name="item-width" value="39"/>
+			<property name="item-height" value="55"/>
+			<property name="start-char" value="0"/>
+			<property name="filename" value="lazyfont.png"/>
+			<property name="kerning" value="0.5"/>
+		</properties>
+	</LabelAtlas>
+	<LabelAtlas position="700,60" name="life">
+		<properties>
+			<property name="text" value="life:2"/>
+			<property name="color-key" value="0,255,255"/>
+			<property name="item-width" value="39"/>
+			<property name="item-height" value="55"/>
+			<property name="start-char" value="0"/>
+			<property name="filename" value="lazyfont.png"/>
+			<property name="kerning" value="0.5"/>
+		</properties>
+	</LabelAtlas>
+	<LabelAtlas position="700,100" name="bullet">
+		<properties>
+			<property name="text" value="bullet:2"/>
+			<property name="color-key" value="0,255,255"/>
+			<property name="item-width" value="39"/>
+			<property name="item-height" value="55"/>
+			<property name="start-char" value="0"/>
+			<property name="filename" value="lazyfont.png"/>
+			<property name="kerning" value="0.5"/>
+		</properties>
+	</LabelAtlas>
+	<LabelAtlas position="700,140" name="speed">
+		<properties>
+			<property name="text" value="speed:1"/>
+			<property name="color-key" value="0,255,255"/>
+			<property name="item-width" value="39"/>
+			<property name="item-height" value="55"/>
+			<property name="start-char" value="0"/>
+			<property name="filename" value="lazyfont.png"/>
+			<property name="kerning" value="0.5"/>
+		</properties>
+	</LabelAtlas>
+
+</Layer>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layer anchor-point="0,0">
+	<Button position="400,100" name="start_btn">
+		<properties>
+			<property name="res-type" value="XML"/>
+			<property name="normal-image" value="start_btn.png"/>
+			<property name="selected-image" value="start_btn_selected.png"/>
+		</properties>
+	</Button>
+	<Button position="400,200" name="shop_btn">
+		<properties>
+			<property name="res-type" value="XML"/>
+			<property name="normal-image" value="shop_btn.png"/>
+			<property name="selected-image" value="shop_btn_selected.png"/>
+		</properties>
+	</Button>
+	<Button position="400,300" name="exit_btn">
+		<properties>
+			<property name="res-type" value="XML"/>
+			<property name="normal-image" value="exit_btn.png"/>
+			<property name="selected-image" value="exit_btn_selected.png"/>
+		</properties>
+	</Button>
+
+</Layer>

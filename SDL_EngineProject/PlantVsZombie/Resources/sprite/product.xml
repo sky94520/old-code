@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:293f0ac3e4cd3c3a9fcb73e79bd2daf1$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="product.png" width="512" height="512">
+    <sprite n="Sun_00.png" x="158" y="2" w="75" h="75" oX="1" oY="1" oW="79" oH="79"/>
+    <sprite n="Sun_01.png" x="79" y="391" w="75" h="75" oX="0" oY="0" oW="79" oH="79"/>
+    <sprite n="Sun_02.png" x="79" y="81" w="75" h="77" oX="0" oY="0" oW="79" oH="79" r="y"/>
+    <sprite n="Sun_03.png" x="312" y="2" w="75" h="73" oX="0" oY="1" oW="79" oH="79"/>
+    <sprite n="Sun_04.png" x="79" y="314" w="75" h="75" oX="0" oY="0" oW="79" oH="79"/>
+    <sprite n="Sun_05.png" x="235" y="2" w="75" h="73" oX="0" oY="2" oW="79" oH="79"/>
+    <sprite n="Sun_06.png" x="235" y="77" w="73" h="73" oX="1" oY="2" oW="79" oH="79"/>
+    <sprite n="Sun_07.png" x="156" y="79" w="73" h="71" oX="1" oY="3" oW="79" oH="79"/>
+    <sprite n="Sun_08.png" x="385" y="148" w="71" h="69" oX="3" oY="2" oW="79" oH="79" r="y"/>
+    <sprite n="Sun_09.png" x="310" y="150" w="69" h="69" oX="2" oY="4" oW="79" oH="79"/>
+    <sprite n="Sun_10.png" x="156" y="152" w="67" h="67" oX="4" oY="5" oW="79" oH="79"/>
+    <sprite n="Sun_11.png" x="225" y="219" w="67" h="65" oX="4" oY="6" oW="79" oH="79"/>
+    <sprite n="Sun_12.png" x="225" y="286" w="65" h="63" oX="6" oY="7" oW="79" oH="79"/>
+    <sprite n="Sun_13.png" x="225" y="152" w="67" h="65" oX="5" oY="5" oW="79" oH="79"/>
+    <sprite n="Sun_14.png" x="294" y="221" w="65" h="65" oX="6" oY="6" oW="79" oH="79"/>
+    <sprite n="Sun_15.png" x="156" y="221" w="67" h="65" oX="6" oY="5" oW="79" oH="79" r="y"/>
+    <sprite n="Sun_16.png" x="381" y="219" w="69" h="67" oX="4" oY="4" oW="79" oH="79" r="y"/>
+    <sprite n="Sun_17.png" x="385" y="77" w="71" h="69" oX="3" oY="3" oW="79" oH="79" r="y"/>
+    <sprite n="Sun_18.png" x="310" y="77" w="73" h="71" oX="2" oY="2" oW="79" oH="79" r="y"/>
+    <sprite n="Sun_19.png" x="389" y="2" w="75" h="73" oX="1" oY="1" oW="79" oH="79" r="y"/>
+    <sprite n="Sun_20.png" x="79" y="237" w="75" h="75" oX="0" oY="1" oW="79" oH="79"/>
+    <sprite n="Sun_21.png" x="79" y="160" w="75" h="75" oX="0" oY="1" oW="79" oH="79"/>
+    <sprite n="Sun_22.png" x="2" y="81" w="75" h="77" oX="0" oY="0" oW="79" oH="79"/>
+    <sprite n="Sun_23.png" x="81" y="2" w="75" h="75" oX="0" oY="1" oW="79" oH="79"/>
+    <sprite n="Sun_24.png" x="2" y="397" w="75" h="77" oX="0" oY="2" oW="79" oH="79" r="y"/>
+    <sprite n="Sun_25.png" x="2" y="2" w="77" h="77" oX="0" oY="0" oW="79" oH="79"/>
+    <sprite n="Sun_26.png" x="2" y="318" w="75" h="77" oX="0" oY="1" oW="79" oH="79" r="y"/>
+    <sprite n="Sun_27.png" x="2" y="239" w="75" h="77" oX="0" oY="1" oW="79" oH="79" r="y"/>
+    <sprite n="Sun_28.png" x="2" y="160" w="75" h="77" oX="0" oY="1" oW="79" oH="79" r="y"/>
+</TextureAtlas>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:43eea76f29dc31bf8ea2cc2f21945a6a$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="enemy.png" width="256" height="256">
+    <sprite n="GreenSlime00.png" x="108" y="58" w="37" h="52" oX="4" oY="25" oW="56" oH="63" r="y"/>
+    <sprite n="GreenSlime01.png" x="109" y="112" w="40" h="43" oX="16" oY="19" oW="56" oH="63"/>
+    <sprite n="GreenSlime02.png" x="104" y="173" w="42" h="45" oX="13" oY="8" oW="56" oH="63"/>
+    <sprite n="GreenSlime03.png" x="58" y="117" w="49" h="54" oX="1" oY="9" oW="56" oH="63" r="y"/>
+    <sprite n="GreenSlime04.png" x="58" y="58" w="48" h="57" oX="7" oY="3" oW="56" oH="63"/>
+    <sprite n="GreenSlime05.png" x="58" y="173" w="44" h="51" oX="12" oY="11" oW="56" oH="63"/>
+    <sprite n="GreenSlime06.png" x="2" y="219" w="48" h="35" oX="7" oY="27" oW="56" oH="63"/>
+    <sprite n="GreySlime00.png" x="121" y="2" w="61" h="54" oX="1" oY="20" oW="56" oH="81" r="y"/>
+    <sprite n="GreySlime01.png" x="58" y="2" w="61" h="54" oX="1" oY="20" oW="56" oH="81" r="y"/>
+    <sprite n="GreySlime02.png" x="184" y="2" w="59" h="54" oX="1" oY="22" oW="56" oH="81" r="y"/>
+    <sprite n="GreySlime03.png" x="2" y="2" w="54" h="75" oX="0" oY="2" oW="56" oH="81"/>
+    <sprite n="GreySlime04.png" x="2" y="79" w="54" h="69" oX="0" oY="11" oW="56" oH="81"/>
+    <sprite n="GreySlime05.png" x="2" y="150" w="54" h="67" oX="0" oY="14" oW="56" oH="81"/>
+</TextureAtlas>

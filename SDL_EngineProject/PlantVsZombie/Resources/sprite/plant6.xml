@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:cee67f3385c2e54fa473df1c9591f7c9$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="plant6.png" width="1024" height="1024">
+    <sprite n="CattailAtkEnd_00.png" x="157" y="860" w="74" h="83" oX="47" oY="10" oW="130" oH="97"/>
+    <sprite n="CattailAtkEnd_01.png" x="154" y="945" w="79" h="74" oX="47" oY="14" oW="130" oH="97" r="y"/>
+    <sprite n="CattailAtkEnd_02.png" x="593" y="684" w="74" h="75" oX="47" oY="18" oW="130" oH="97"/>
+    <sprite n="CattailAtkEnd_03.png" x="593" y="607" w="74" h="75" oX="47" oY="18" oW="130" oH="97"/>
+    <sprite n="CattailAtkEnd_04.png" x="486" y="347" w="80" h="75" oX="42" oY="18" oW="130" oH="97"/>
+    <sprite n="CattailAtkEnd_05.png" x="568" y="345" w="84" h="75" oX="38" oY="18" oW="130" oH="97"/>
+    <sprite n="CattailAtk_00.png" x="568" y="345" w="84" h="75" oX="38" oY="18" oW="130" oH="97"/>
+    <sprite n="CattailAtk_01.png" x="790" y="152" w="88" h="71" oX="34" oY="22" oW="130" oH="97"/>
+    <sprite n="CattailAtk_02.png" x="117" y="166" w="94" h="69" oX="28" oY="24" oW="130" oH="97"/>
+    <sprite n="CattailAtk_03.png" x="596" y="81" w="100" h="69" oX="22" oY="24" oW="130" oH="97"/>
+    <sprite n="CattailAtk_04.png" x="259" y="243" w="69" h="106" oX="16" oY="24" oW="130" oH="97" r="y"/>
+    <sprite n="CattailAtk_05.png" x="236" y="95" w="114" h="69" oX="8" oY="24" oW="130" oH="97"/>
+    <sprite n="CattailAtk_06.png" x="409" y="237" w="67" h="108" oX="14" oY="26" oW="130" oH="97" r="y"/>
+    <sprite n="CattailAtk_07.png" x="472" y="426" w="73" h="102" oX="19" oY="20" oW="130" oH="97" r="y"/>
+    <sprite n="CattailAtk_08.png" x="288" y="351" w="86" h="77" oX="35" oY="16" oW="130" oH="97"/>
+    <sprite n="CattailAtk_09.png" x="375" y="720" w="74" h="81" oX="47" oY="12" oW="130" oH="97"/>
+    <sprite n="Cattail_00.png" x="568" y="345" w="84" h="75" oX="38" oY="18" oW="130" oH="97"/>
+    <sprite n="Cattail_01.png" x="372" y="853" w="73" h="84" oX="38" oY="20" oW="130" oH="97" r="y"/>
+    <sprite n="Cattail_02.png" x="233" y="860" w="71" h="82" oX="40" oY="22" oW="130" oH="97" r="y"/>
+    <sprite n="Cattail_03.png" x="539" y="788" w="80" h="69" oX="42" oY="24" oW="130" oH="97"/>
+    <sprite n="Cattail_04.png" x="447" y="853" w="71" h="84" oX="39" oY="23" oW="130" oH="97" r="y"/>
+    <sprite n="Cattail_05.png" x="451" y="706" w="86" h="73" oX="37" oY="21" oW="130" oH="97"/>
+    <sprite n="Cattail_06.png" x="593" y="519" w="73" h="86" oX="37" oY="21" oW="130" oH="97" r="y"/>
+    <sprite n="Cattail_07.png" x="553" y="193" w="73" h="90" oX="34" oY="21" oW="130" oH="97" r="y"/>
+    <sprite n="Cattail_08.png" x="79" y="924" w="73" h="92" oX="32" oY="21" oW="130" oH="97" r="y"/>
+    <sprite n="Cattail_09.png" x="75" y="776" w="75" h="94" oX="30" oY="19" oW="130" oH="97" r="y"/>
+    <sprite n="Cattail_10.png" x="75" y="678" w="73" h="96" oX="28" oY="21" oW="130" oH="97" r="y"/>
+    <sprite n="Cattail_11.png" x="816" y="79" w="98" h="71" oX="26" oY="23" oW="130" oH="97"/>
+    <sprite n="Cattail_12.png" x="716" y="79" w="98" h="71" oX="25" oY="23" oW="130" oH="97"/>
+    <sprite n="Cattail_13.png" x="152" y="764" w="71" h="94" oX="29" oY="23" oW="130" oH="97" r="y"/>
+    <sprite n="Cattail_14.png" x="150" y="670" w="73" h="92" oX="31" oY="21" oW="130" oH="97" r="y"/>
+    <sprite n="Cattail_15.png" x="478" y="193" w="73" h="90" oX="32" oY="20" oW="130" oH="97" r="y"/>
+    <sprite n="Cattail_16.png" x="700" y="152" w="88" h="73" oX="34" oY="20" oW="130" oH="97"/>
+    <sprite n="Cattail_17.png" x="298" y="720" w="75" h="86" oX="36" oY="18" oW="130" oH="97" r="y"/>
+    <sprite n="Cattail_18.png" x="568" y="345" w="84" h="75" oX="38" oY="18" oW="130" oH="97"/>
+    <sprite n="FirePeahooterAtkEnd_00.png" x="2" y="332" w="97" h="104" oX="56" oY="22" oW="203" oH="134"/>
+    <sprite n="FirePeahooterAtkEnd_01.png" x="2" y="224" w="113" h="106" oX="50" oY="20" oW="203" oH="134"/>
+    <sprite n="FirePeahooterAtkEnd_02.png" x="119" y="2" w="115" h="106" oX="52" oY="20" oW="203" oH="134"/>
+    <sprite n="FirePeahooterAtkEnd_03.png" x="2" y="2" w="115" h="108" oX="47" oY="18" oW="203" oH="134"/>
+    <sprite n="FirePeahooterAtkEnd_04.png" x="2" y="112" w="113" h="110" oX="47" oY="16" oW="203" oH="134"/>
+    <sprite n="FirePeahooterAtkEnd_05.png" x="77" y="554" w="81" h="112" oX="49" oY="14" oW="203" oH="134"/>
+    <sprite n="FirePeahooterAtkEnd_06.png" x="476" y="2" w="118" h="79" oX="50" oY="8" oW="203" oH="134" r="y"/>
+    <sprite n="FirePeahooterAtkEnd_07.png" x="352" y="158" w="112" h="77" oX="51" oY="14" oW="203" oH="134" r="y"/>
+    <sprite n="FirePeahooterAtkEnd_08.png" x="834" y="2" w="114" h="75" oX="52" oY="12" oW="203" oH="134" r="y"/>
+    <sprite n="FirePeahooterAtkStart_00.png" x="176" y="243" w="81" h="106" oX="46" oY="20" oW="203" oH="134"/>
+    <sprite n="FirePeahooterAtkStart_01.png" x="376" y="347" w="108" h="77" oX="48" oY="18" oW="203" oH="134" r="y"/>
+    <sprite n="FirePeahooterAtkStart_02.png" x="716" y="2" w="116" h="75" oX="45" oY="10" oW="203" oH="134" r="y"/>
+    <sprite n="FirePeahooterAtkStart_03.png" x="2" y="804" w="71" h="118" oX="47" oY="8" oW="203" oH="134"/>
+    <sprite n="FirePeahooterAtkStart_04.png" x="2" y="554" w="73" h="122" oX="43" oY="4" oW="203" oH="134"/>
+    <sprite n="FirePeahooterAtkStart_05.png" x="89" y="438" w="73" h="114" oX="41" oY="12" oW="203" oH="134"/>
+    <sprite n="FirePeahooterAtkStart_06.png" x="596" y="2" w="118" h="77" oX="38" oY="8" oW="203" oH="134" r="y"/>
+    <sprite n="FirePeahooterAtkStart_07.png" x="354" y="2" w="120" h="81" oX="35" oY="6" oW="203" oH="134" r="y"/>
+    <sprite n="FirePeahooterAtkStart_08.png" x="236" y="2" w="116" h="91" oX="25" oY="9" oW="203" oH="134" r="y"/>
+    <sprite n="FirePeahooterAtkStart_09.png" x="2" y="438" w="85" h="114" oX="52" oY="12" oW="203" oH="134"/>
+    <sprite n="FirePeahooter_00.png" x="330" y="237" w="77" h="108" oX="50" oY="18" oW="203" oH="134"/>
+    <sprite n="FirePeahooter_01.png" x="164" y="438" w="77" h="114" oX="50" oY="12" oW="203" oH="134"/>
+    <sprite n="FirePeahooter_02.png" x="320" y="430" w="75" h="108" oX="53" oY="18" oW="203" oH="134"/>
+    <sprite n="FirePeahooter_03.png" x="176" y="351" w="110" h="77" oX="53" oY="15" oW="203" oH="134" r="y"/>
+    <sprite n="FirePeahooter_04.png" x="916" y="96" w="98" h="75" oX="56" oY="26" oW="203" oH="134" r="y"/>
+    <sprite n="FirePeahooter_05.png" x="397" y="426" w="73" h="108" oX="59" oY="16" oW="203" oH="134"/>
+    <sprite n="FirePeahooter_06.png" x="354" y="85" w="114" h="71" oX="61" oY="10" oW="203" oH="134" r="y"/>
+    <sprite n="FirePeahooter_07.png" x="2" y="678" w="71" h="124" oX="61" oY="0" oW="203" oH="134"/>
+    <sprite n="FirePeahooter_08.png" x="225" y="766" w="71" h="92" oX="61" oY="33" oW="203" oH="134"/>
+    <sprite n="FirePeahooter_09.png" x="2" y="924" w="75" h="98" oX="57" oY="28" oW="203" oH="134"/>
+    <sprite n="FirePeahooter_10.png" x="101" y="332" w="73" h="104" oX="58" oY="22" oW="203" oH="134"/>
+    <sprite n="FirePeahooter_11.png" x="213" y="166" w="112" h="75" oX="55" oY="14" oW="203" oH="134" r="y"/>
+    <sprite n="FirePeahooter_12.png" x="243" y="430" w="75" h="110" oX="53" oY="16" oW="203" oH="134"/>
+    <sprite n="FirePeahooter_13.png" x="160" y="554" w="79" h="114" oX="48" oY="12" oW="203" oH="134"/>
+    <sprite n="FirePeahooter_14.png" x="176" y="243" w="81" h="106" oX="46" oY="20" oW="203" oH="134"/>
+    <sprite n="JalapenoSkill_00.png" x="880" y="173" w="78" h="48" oX="10" oY="15" oW="72" oH="96" r="y"/>
+    <sprite n="JalapenoSkill_01.png" x="75" y="872" w="80" h="50" oX="9" oY="13" oW="72" oH="96" r="y"/>
+    <sprite n="JalapenoSkill_02.png" x="539" y="706" w="52" h="80" oX="8" oY="13" oW="72" oH="96"/>
+    <sprite n="JalapenoSkill_03.png" x="962" y="345" w="54" h="82" oX="7" oY="11" oW="72" oH="96"/>
+    <sprite n="JalapenoSkill_04.png" x="603" y="931" w="56" h="84" oX="7" oY="10" oW="72" oH="96"/>
+    <sprite n="JalapenoSkill_05.png" x="566" y="285" w="84" h="58" oX="6" oY="10" oW="72" oH="96" r="y"/>
+    <sprite n="JalapenoSkill_06.png" x="478" y="285" w="86" h="60" oX="5" oY="8" oW="72" oH="96" r="y"/>
+    <sprite n="JalapenoSkill_07.png" x="960" y="173" w="62" h="86" oX="4" oY="9" oW="72" oH="96"/>
+    <sprite n="JalapenoSkill_08.png" x="700" y="227" w="88" h="64" oX="3" oY="7" oW="72" oH="96" r="y"/>
+    <sprite n="JalapenoSkill_09.png" x="381" y="540" w="68" h="90" oX="1" oY="6" oW="72" oH="96"/>
+    <sprite n="JalapenoSkill_10.png" x="311" y="542" w="68" h="90" oX="2" oY="6" oW="72" oH="96"/>
+    <sprite n="JalapenoSkill_11.png" x="628" y="152" w="70" h="92" oX="1" oY="4" oW="72" oH="96"/>
+    <sprite n="JalapenoSkill_12.png" x="950" y="2" w="72" h="92" oX="0" oY="4" oW="72" oH="96"/>
+    <sprite n="Jalapeno_00.png" x="880" y="173" w="78" h="48" oX="10" oY="15" oW="72" oH="96" r="y"/>
+    <sprite n="Jalapeno_01.png" x="907" y="749" w="48" h="76" oX="10" oY="16" oW="72" oH="96"/>
+    <sprite n="Jalapeno_02.png" x="908" y="827" w="48" h="72" oX="11" oY="19" oW="72" oH="96"/>
+    <sprite n="Jalapeno_03.png" x="298" y="808" w="72" h="50" oX="10" oY="19" oW="72" oH="96" r="y"/>
+    <sprite n="Jalapeno_04.png" x="375" y="803" w="74" h="48" oX="11" oY="17" oW="72" oH="96" r="y"/>
+    <sprite n="Jalapeno_05.png" x="652" y="293" w="76" h="48" oX="10" oY="16" oW="72" oH="96" r="y"/>
+    <sprite n="Jalapeno_06.png" x="880" y="173" w="78" h="48" oX="10" oY="15" oW="72" oH="96" r="y"/>
+    <sprite n="Pumpkin_00.png" x="117" y="237" w="57" h="93" oX="2" oY="9" oW="97" oH="67" r="y"/>
+    <sprite n="Pumpkin_back.png" x="730" y="377" w="53" h="79" oX="6" oY="1" oW="97" oH="67" r="y"/>
+    <sprite n="Pumpkin_damage1.png" x="602" y="422" w="53" h="93" oX="2" oY="12" oW="97" oH="67" r="y"/>
+    <sprite n="Pumpkin_damage2.png" x="547" y="424" w="53" h="93" oX="2" oY="12" oW="97" oH="67" r="y"/>
+    <sprite n="SquashAttackEnd_00.png" x="225" y="670" w="66" h="94" oX="16" oY="6" oW="94" oH="100"/>
+    <sprite n="SquashAttackEnd_01.png" x="241" y="554" w="68" h="90" oX="15" oY="10" oW="94" oH="100"/>
+    <sprite n="SquashAttackEnd_02.png" x="451" y="536" w="68" h="88" oX="15" oY="12" oW="94" oH="100"/>
+    <sprite n="SquashAttackEnd_03.png" x="521" y="530" w="70" h="88" oX="14" oY="12" oW="94" oH="100"/>
+    <sprite n="SquashAttackEnd_04.png" x="882" y="223" w="76" h="76" oX="10" oY="24" oW="94" oH="100"/>
+    <sprite n="SquashAttackEnd_05.png" x="306" y="860" w="64" h="82" oX="7" oY="36" oW="94" oH="100" r="y"/>
+    <sprite n="SquashAttackEnd_06.png" x="119" y="110" w="90" h="54" oX="2" oY="46" oW="94" oH="100"/>
+    <sprite n="SquashAttackEnd_07.png" x="476" y="83" w="94" h="42" oX="0" oY="58" oW="94" oH="100"/>
+    <sprite n="SquashAttack_00.png" x="811" y="583" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="SquashAttack_01.png" x="235" y="944" w="72" h="78" oX="13" oY="22" oW="94" oH="100"/>
+    <sprite n="SquashAttack_02.png" x="309" y="944" w="74" h="76" oX="10" oY="26" oW="94" oH="100" r="y"/>
+    <sprite n="SquashAttack_03.png" x="381" y="632" w="68" h="78" oX="9" oY="32" oW="94" oH="100" r="y"/>
+    <sprite n="SquashAttack_04.png" x="897" y="667" w="64" h="80" oX="8" oY="36" oW="94" oH="100" r="y"/>
+    <sprite n="SquashAttack_05.png" x="730" y="293" w="58" h="82" oX="7" oY="42" oW="94" oH="100" r="y"/>
+    <sprite n="SquashAttack_06.png" x="661" y="931" w="54" h="84" oX="6" oY="46" oW="94" oH="100" r="y"/>
+    <sprite n="SquashAttack_07.png" x="960" y="261" w="58" h="82" oX="7" oY="42" oW="94" oH="100" r="y"/>
+    <sprite n="SquashAttack_08.png" x="883" y="601" w="80" h="64" oX="8" oY="36" oW="94" oH="100"/>
+    <sprite n="SquashAttack_09.png" x="451" y="626" w="68" h="78" oX="9" oY="32" oW="94" oH="100" r="y"/>
+    <sprite n="SquashAttack_10.png" x="654" y="343" w="74" h="74" oX="12" oY="26" oW="94" oH="100"/>
+    <sprite n="SquashAttack_11.png" x="883" y="519" w="72" h="80" oX="13" oY="20" oW="94" oH="100"/>
+    <sprite n="SquashAttack_12.png" x="789" y="927" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="SquashAttack_13.png" x="790" y="225" w="90" h="68" oX="15" oY="10" oW="94" oH="100" r="y"/>
+    <sprite n="SquashAttack_14.png" x="470" y="127" w="94" h="64" oX="17" oY="6" oW="94" oH="100" r="y"/>
+    <sprite n="SquashLeftEnd_00.png" x="764" y="841" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="SquashLeftEnd_01.png" x="761" y="755" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="SquashLeftEnd_02.png" x="751" y="669" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="SquashLeftEnd_03.png" x="739" y="583" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="SquashLeftEnd_04.png" x="738" y="511" w="84" h="70" oX="14" oY="16" oW="94" oH="100" r="y"/>
+    <sprite n="SquashLeftEnd_05.png" x="871" y="447" w="84" h="70" oX="14" oY="16" oW="94" oH="100" r="y"/>
+    <sprite n="SquashLeftEnd_06.png" x="785" y="439" w="84" h="70" oX="14" oY="16" oW="94" oH="100" r="y"/>
+    <sprite n="SquashLeft_00.png" x="785" y="439" w="84" h="70" oX="14" oY="16" oW="94" oH="100" r="y"/>
+    <sprite n="SquashLeft_01.png" x="876" y="375" w="84" h="70" oX="14" oY="16" oW="94" oH="100" r="y"/>
+    <sprite n="SquashLeft_02.png" x="871" y="447" w="84" h="70" oX="14" oY="16" oW="94" oH="100" r="y"/>
+    <sprite n="SquashLeft_03.png" x="739" y="583" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="SquashLeft_04.png" x="751" y="669" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="SquashLeft_05.png" x="761" y="755" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="SquashRightEnd_00.png" x="790" y="367" w="84" h="70" oX="14" oY="16" oW="94" oH="100" r="y"/>
+    <sprite n="SquashRightEnd_01.png" x="717" y="931" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="SquashRightEnd_02.png" x="692" y="845" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="SquashRightEnd_03.png" x="790" y="295" w="84" h="70" oX="14" oY="16" oW="94" oH="100" r="y"/>
+    <sprite n="SquashRightEnd_04.png" x="657" y="419" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="SquashRightEnd_05.png" x="606" y="859" w="84" h="70" oX="14" oY="16" oW="94" oH="100" r="y"/>
+    <sprite n="SquashRightEnd_06.png" x="785" y="439" w="84" h="70" oX="14" oY="16" oW="94" oH="100" r="y"/>
+    <sprite n="SquashRight_00.png" x="785" y="439" w="84" h="70" oX="14" oY="16" oW="94" oH="100" r="y"/>
+    <sprite n="SquashRight_01.png" x="606" y="859" w="84" h="70" oX="14" oY="16" oW="94" oH="100" r="y"/>
+    <sprite n="SquashRight_02.png" x="657" y="419" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="SquashRight_03.png" x="790" y="295" w="84" h="70" oX="14" oY="16" oW="94" oH="100" r="y"/>
+    <sprite n="SquashRight_04.png" x="692" y="845" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="SquashRight_05.png" x="717" y="931" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="Squash_00.png" x="811" y="583" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="Squash_01.png" x="531" y="931" w="70" h="84" oX="13" oY="16" oW="94" oH="100"/>
+    <sprite n="Squash_02.png" x="311" y="634" w="68" h="84" oX="15" oY="16" oW="94" oH="100"/>
+    <sprite n="Squash_03.png" x="691" y="757" w="68" h="86" oX="15" oY="14" oW="94" oH="100"/>
+    <sprite n="Squash_04.png" x="669" y="593" w="68" h="86" oX="15" oY="14" oW="94" oH="100"/>
+    <sprite n="Squash_05.png" x="668" y="505" w="68" h="86" oX="15" oY="14" oW="94" oH="100"/>
+    <sprite n="Squash_06.png" x="621" y="761" w="68" h="86" oX="15" oY="14" oW="94" oH="100"/>
+    <sprite n="Squash_07.png" x="451" y="781" w="86" h="68" oX="15" oY="14" oW="94" oH="100" r="y"/>
+    <sprite n="Squash_08.png" x="520" y="859" w="84" h="70" oX="14" oY="16" oW="94" oH="100" r="y"/>
+    <sprite n="Squash_09.png" x="521" y="620" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+    <sprite n="Squash_10.png" x="861" y="921" w="70" h="82" oX="14" oY="18" oW="94" oH="100"/>
+    <sprite n="Squash_11.png" x="833" y="753" w="72" h="82" oX="13" oY="18" oW="94" oH="100"/>
+    <sprite n="Squash_12.png" x="669" y="681" w="80" h="74" oX="11" oY="20" oW="94" oH="100" r="y"/>
+    <sprite n="Squash_13.png" x="823" y="669" w="72" h="82" oX="13" oY="18" oW="94" oH="100"/>
+    <sprite n="Squash_14.png" x="876" y="301" w="82" h="72" oX="13" oY="18" oW="94" oH="100" r="y"/>
+    <sprite n="Squash_15.png" x="457" y="939" w="72" h="82" oX="12" oY="18" oW="94" oH="100"/>
+    <sprite n="Squash_16.png" x="836" y="837" w="70" h="82" oX="14" oY="18" oW="94" oH="100"/>
+    <sprite n="Squash_17.png" x="385" y="939" w="70" h="82" oX="14" oY="18" oW="94" oH="100"/>
+    <sprite n="Squash_18.png" x="811" y="583" w="70" h="84" oX="14" oY="16" oW="94" oH="100"/>
+</TextureAtlas>

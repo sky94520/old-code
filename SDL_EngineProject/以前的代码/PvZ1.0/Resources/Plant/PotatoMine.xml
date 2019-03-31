@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:729eb8d1cf16e8ebec10c92c2f11ac3d$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="PotatoMine.png" width="256" height="256">
+    <sprite n="ExplosionSpudow.png" x="2" y="2" w="180" h="54" oX="3" oY="2" oW="186" oH="58"/>
+    <sprite n="PotatoMine1.png" x="174" y="79" w="75" h="53" oX="0" oY="2" oW="75" oH="55"/>
+    <sprite n="PotatoMine2.png" x="174" y="134" w="75" h="51" oX="0" oY="4" oW="75" oH="55"/>
+    <sprite n="PotatoMine3.png" x="97" y="58" w="75" h="53" oX="0" oY="2" oW="75" oH="55"/>
+    <sprite n="PotatoMine4.png" x="184" y="2" w="55" h="75" r="y"/>
+    <sprite n="PotatoMine5.png" x="97" y="113" w="75" h="51" oX="0" oY="4" oW="75" oH="55"/>
+    <sprite n="PotatoMine6.png" x="174" y="134" w="75" h="51" oX="0" oY="4" oW="75" oH="55"/>
+    <sprite n="PotatoMine7.png" x="97" y="58" w="75" h="53" oX="0" oY="2" oW="75" oH="55"/>
+    <sprite n="PotatoMine8.png" x="184" y="2" w="55" h="75" r="y"/>
+    <sprite n="PotatoMineNotReady.png" x="2" y="213" w="31" h="37" oX="19" oY="22" oW="75" oH="55" r="y"/>
+    <sprite n="PotatoMine_mashed.png" x="2" y="79" w="93" h="132" r="y"/>
+</TextureAtlas>

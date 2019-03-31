@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="18" height="7" tilewidth="82" tileheight="86" nextobjectid="1">
+ <tileset firstgid="1" name="meta_tiles3" tilewidth="82" tileheight="86" tilecount="3" columns="3">
+  <image source="meta_tiles3.png" width="246" height="86"/>
+ </tileset>
+ <imagelayer name="图像图层 1">
+  <image source="background5.jpg" width="1400" height="600"/>
+ </imagelayer>
+ <layer name="块层 1" width="18" height="7" opacity="0.52">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA9YMaDydVHipkjxRx8AF0dALGEANM=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:f3e6146e7d7cd7068319410840bee4d1$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="Zombie.png" width="1024" height="1024">
+    <sprite n="ZombieAttack1.png" x="570" y="448" w="118" h="86" oX="64" oY="25" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack10.png" x="250" y="332" w="120" h="88" oX="62" oY="24" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack11.png" x="248" y="422" w="120" h="82" oX="68" oY="24" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack12.png" x="872" y="368" w="118" h="84" oX="66" oY="25" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack13.png" x="752" y="358" w="118" h="86" oX="64" oY="25" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack14.png" x="2" y="664" w="116" h="88" oX="62" oY="27" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack15.png" x="570" y="358" w="120" h="88" oX="62" oY="24" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack16.png" x="258" y="172" w="122" h="84" oX="66" oY="22" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack17.png" x="124" y="460" w="120" h="80" oX="70" oY="24" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack18.png" x="246" y="584" w="118" h="78" oX="72" oY="25" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack19.png" x="242" y="664" w="116" h="84" oX="66" oY="27" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack2.png" x="874" y="278" w="118" h="88" oX="62" oY="25" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack20.png" x="2" y="574" w="118" h="88" oX="62" oY="26" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack21.png" x="388" y="134" w="122" h="86" oX="64" oY="22" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack3.png" x="374" y="306" w="120" h="88" oX="62" oY="24" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack4.png" x="752" y="268" w="120" h="88" oX="62" oY="24" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack5.png" x="126" y="216" w="122" h="82" oX="68" oY="22" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack6.png" x="2" y="414" w="120" h="80" oX="70" oY="24" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack7.png" x="120" y="698" w="116" h="82" oX="68" oY="27" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack8.png" x="366" y="646" w="116" h="84" oX="66" oY="27" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieAttack9.png" x="570" y="268" w="120" h="88" oX="62" oY="24" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieDie1.png" x="966" y="534" w="54" h="86" oX="99" oY="58" oW="166" oH="144"/>
+    <sprite n="ZombieDie10.png" x="170" y="2" w="166" h="32" oX="0" oY="112" oW="166" oH="144"/>
+    <sprite n="ZombieDie2.png" x="938" y="876" w="66" h="64" oX="79" oY="80" oW="166" oH="144"/>
+    <sprite n="ZombieDie3.png" x="940" y="808" w="68" h="66" oX="77" oY="78" oW="166" oH="144"/>
+    <sprite n="ZombieDie4.png" x="944" y="622" w="68" h="90" oX="56" oY="76" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieDie5.png" x="238" y="750" w="114" h="66" oX="32" oY="78" oW="166" oH="144"/>
+    <sprite n="ZombieDie6.png" x="752" y="66" w="126" h="64" oX="20" oY="80" oW="166" oH="144"/>
+    <sprite n="ZombieDie7.png" x="170" y="36" w="140" h="48" oX="4" oY="95" oW="166" oH="144"/>
+    <sprite n="ZombieDie8.png" x="338" y="2" w="154" h="34" oX="0" oY="110" oW="166" oH="144"/>
+    <sprite n="ZombieDie9.png" x="2" y="2" w="166" h="34" oX="0" oY="110" oW="166" oH="144"/>
+    <sprite n="ZombieIdle1.png" x="570" y="616" w="116" h="78" oX="66" oY="24" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieIdle10.png" x="124" y="542" w="120" h="76" oX="68" oY="21" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieIdle11.png" x="246" y="506" w="120" h="76" oX="68" oY="20" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieIdle2.png" x="752" y="526" w="116" h="78" oX="66" oY="24" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieIdle3.png" x="368" y="566" w="118" h="78" oX="66" oY="22" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieIdle4.png" x="122" y="620" w="118" h="76" oX="68" oY="22" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieIdle5.png" x="2" y="496" w="120" h="76" oX="68" oY="21" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieIdle6.png" x="570" y="536" w="118" h="78" oX="66" oY="22" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieIdle7.png" x="872" y="454" w="116" h="78" oX="66" oY="24" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieIdle8.png" x="360" y="732" w="114" h="78" oX="66" oY="26" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieIdle9.png" x="2" y="754" w="116" h="78" oX="66" oY="24" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieLostHead1.png" x="570" y="70" w="52" h="92" oX="78" oY="52" oW="166" oH="144"/>
+    <sprite n="ZombieLostHead10.png" x="690" y="486" w="60" h="96" oX="75" oY="48" oW="166" oH="144"/>
+    <sprite n="ZombieLostHead11.png" x="692" y="390" w="58" h="94" oX="74" oY="50" oW="166" oH="144"/>
+    <sprite n="ZombieLostHead12.png" x="690" y="584" w="60" h="94" oX="74" oY="50" oW="166" oH="144"/>
+    <sprite n="ZombieLostHead13.png" x="2" y="834" w="96" h="64" oX="72" oY="48" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieLostHead14.png" x="688" y="680" w="94" h="66" oX="75" oY="50" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieLostHead15.png" x="506" y="230" w="62" h="92" oX="80" oY="52" oW="166" oH="144"/>
+    <sprite n="ZombieLostHead16.png" x="784" y="680" w="60" h="92" oX="81" oY="52" oW="166" oH="144"/>
+    <sprite n="ZombieLostHead17.png" x="844" y="846" w="92" h="58" oX="78" oY="52" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieLostHead18.png" x="694" y="198" w="56" h="94" oX="76" oY="50" oW="166" oH="144"/>
+    <sprite n="ZombieLostHead2.png" x="2" y="900" w="54" h="96" oX="83" oY="48" oW="166" oH="144"/>
+    <sprite n="ZombieLostHead3.png" x="692" y="294" w="58" h="94" oX="84" oY="49" oW="166" oH="144"/>
+    <sprite n="ZombieLostHead4.png" x="846" y="688" w="94" h="64" oX="81" oY="49" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieLostHead5.png" x="752" y="606" w="94" h="72" oX="78" oY="49" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieLostHead6.png" x="496" y="324" w="72" h="94" oX="80" oY="49" oW="166" oH="144"/>
+    <sprite n="ZombieLostHead7.png" x="848" y="618" w="94" h="68" oX="82" oY="49" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieLostHead8.png" x="664" y="836" w="92" h="58" oX="86" oY="51" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieLostHead9.png" x="512" y="134" w="56" h="94" oX="84" oY="50" oW="166" oH="144"/>
+    <sprite n="ZombieLostHeadAttack1.png" x="942" y="714" w="80" h="92" oX="70" oY="52" oW="166" oH="144"/>
+    <sprite n="ZombieLostHeadAttack10.png" x="870" y="534" w="94" h="82" oX="67" oY="50" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieLostHeadAttack11.png" x="120" y="782" w="104" h="78" oX="71" oY="40" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieLostHeadAttack2.png" x="758" y="774" w="84" h="92" oX="65" oY="52" oW="166" oH="144"/>
+    <sprite n="ZombieLostHeadAttack3.png" x="846" y="754" w="92" h="90" oX="59" oY="52" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieLostHeadAttack4.png" x="484" y="662" w="84" h="94" oX="65" oY="50" oW="166" oH="144"/>
+    <sprite n="ZombieLostHeadAttack5.png" x="58" y="900" w="82" h="94" oX="67" oY="50" oW="166" oH="144"/>
+    <sprite n="ZombieLostHeadAttack6.png" x="570" y="786" w="92" h="86" oX="64" oY="52" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieLostHeadAttack7.png" x="476" y="758" w="92" h="88" oX="62" oY="52" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieLostHeadAttack8.png" x="570" y="696" w="92" h="88" oX="61" oY="52" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieLostHeadAttack9.png" x="664" y="748" w="92" h="86" oX="63" oY="52" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk1.png" x="754" y="2" w="128" h="62" oX="71" oY="15" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk10.png" x="2" y="342" w="122" h="70" oX="59" oY="21" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk11.png" x="878" y="210" w="124" h="66" oX="62" oY="19" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk12.png" x="132" y="152" w="124" h="62" oX="65" oY="19" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk13.png" x="442" y="70" w="126" h="62" oX="67" oY="17" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk14.png" x="880" y="146" w="126" h="62" oX="70" oY="17" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk15.png" x="880" y="80" w="126" h="64" oX="72" oY="16" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk16.png" x="312" y="38" w="128" h="66" oX="74" oY="14" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk17.png" x="494" y="2" w="128" h="66" oX="75" oY="14" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk18.png" x="2" y="38" w="128" h="70" oX="74" oY="14" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk19.png" x="884" y="2" w="126" h="76" oX="70" oY="16" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk2.png" x="2" y="110" w="128" h="64" oX="69" oY="15" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk20.png" x="382" y="222" w="122" h="82" oX="66" oY="20" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk21.png" x="2" y="176" w="122" h="88" oX="61" oY="20" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk22.png" x="372" y="396" w="120" h="86" oX="62" oY="22" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk23.png" x="126" y="374" w="120" h="84" oX="62" oY="22" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk24.png" x="370" y="484" w="120" h="80" oX="64" oY="22" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk25.png" x="2" y="266" w="122" h="74" oX="65" oY="21" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk26.png" x="126" y="300" w="122" h="72" oX="65" oY="21" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk27.png" x="570" y="198" w="122" h="68" oX="67" oY="21" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk28.png" x="262" y="106" w="124" h="64" oX="68" oY="19" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk29.png" x="752" y="132" w="126" h="62" oX="68" oY="17" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk3.png" x="132" y="86" w="128" h="64" oX="72" oY="15" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk30.png" x="624" y="136" w="126" h="60" oX="70" oY="17" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk31.png" x="624" y="2" w="128" h="62" oX="70" oY="15" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk4.png" x="624" y="66" w="126" h="68" oX="70" oY="18" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk5.png" x="752" y="196" w="124" h="70" oX="70" oY="19" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk6.png" x="250" y="258" w="122" h="72" oX="67" oY="21" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk7.png" x="494" y="420" w="74" h="120" oX="64" oY="23" oW="166" oH="144"/>
+    <sprite n="ZombieWalk8.png" x="752" y="446" w="118" h="78" oX="59" oY="25" oW="166" oH="144" r="y"/>
+    <sprite n="ZombieWalk9.png" x="492" y="542" w="76" h="118" oX="58" oY="25" oW="166" oH="144"/>
+</TextureAtlas>

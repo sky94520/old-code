@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layer anchor-point="0,0">
+  <!--阳光底部-->
+  <Sprite position="200,20" anchor-point="0.5,0.5" name="sun_bg">
+    <properties>
+      <property name="filename" value="SunBack.png"/>
+    </properties>
+  </Sprite>
+  <!--阳光个数-->
+  <LabelAtlas position="215,20" anchor-point="0.5,0.5" name="sun_label">
+    <properties>
+      <property name="text" value="50"/>
+      <property name="filename" value="sun_number.png"/>
+      <property name="item-width" value="21"/>
+      <property name="item-height" value="21"/>
+      <property name="start-char" value="48"/>
+    </properties>
+  </LabelAtlas>
+  <!--铲子背景-->
+  <Sprite position="400,20" anchor-point="0.5,0.5" name="shovel_bg">
+    <properties>
+      <property name="filename" value="ShovelBack.png"/>
+    </properties>
+  </Sprite>
+</Layer>

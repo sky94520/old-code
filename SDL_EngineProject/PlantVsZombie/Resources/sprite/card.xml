@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:ea6c33f28feedf1fc4e716e87794de10$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="card.png" width="1024" height="1024">
+    <sprite n="BackupDancer.png" x="374" y="476" w="60" h="100" r="y"/>
+    <sprite n="BackupDancerG.png" x="374" y="374" w="60" h="100" r="y"/>
+    <sprite n="Blover.png" x="920" y="312" w="100" h="60"/>
+    <sprite n="BloverG.png" x="818" y="312" w="100" h="60"/>
+    <sprite n="BucketheadZombie.png" x="716" y="312" w="100" h="60"/>
+    <sprite n="BucketheadZombieG.png" x="614" y="312" w="100" h="60"/>
+    <sprite n="Cabbage.png" x="512" y="312" w="100" h="60"/>
+    <sprite n="CabbageG.png" x="410" y="312" w="100" h="60"/>
+    <sprite n="Cactus.png" x="312" y="862" w="60" h="100" r="y"/>
+    <sprite n="CactusG.png" x="312" y="760" w="60" h="100" r="y"/>
+    <sprite n="Cattail.png" x="312" y="658" w="60" h="100" r="y"/>
+    <sprite n="CattailG.png" x="312" y="556" w="60" h="100" r="y"/>
+    <sprite n="CherryBomb.png" x="312" y="454" w="60" h="100" r="y"/>
+    <sprite n="CherryBombG.png" x="312" y="352" w="60" h="100" r="y"/>
+    <sprite n="Chomper.png" x="920" y="250" w="100" h="60"/>
+    <sprite n="ChomperG.png" x="818" y="250" w="100" h="60"/>
+    <sprite n="ClickHigh.png" x="374" y="884" w="98" h="60" oX="0" oY="0" oW="100" oH="60"/>
+    <sprite n="CoffeeBean.png" x="716" y="250" w="100" h="60"/>
+    <sprite n="CoffeeBeanG.png" x="614" y="250" w="100" h="60"/>
+    <sprite n="ConeheadZombie.png" x="512" y="250" w="100" h="60"/>
+    <sprite n="ConeheadZombieG.png" x="312" y="250" w="60" h="100" r="y"/>
+    <sprite n="Cornpult.png" x="410" y="250" w="100" h="60"/>
+    <sprite n="CornpultG.png" x="250" y="862" w="60" h="100" r="y"/>
+    <sprite n="DancingZombie.png" x="250" y="760" w="60" h="100" r="y"/>
+    <sprite n="DancingZombieG.png" x="250" y="658" w="60" h="100" r="y"/>
+    <sprite n="DoomShroom.png" x="250" y="556" w="60" h="100" r="y"/>
+    <sprite n="DoomShroomG.png" x="250" y="454" w="60" h="100" r="y"/>
+    <sprite n="DuckyTubeZombie1.png" x="250" y="352" w="60" h="100" r="y"/>
+    <sprite n="DuckyTubeZombie1G.png" x="250" y="250" w="60" h="100" r="y"/>
+    <sprite n="FirePeashooter.png" x="188" y="863" w="60" h="100" r="y"/>
+    <sprite n="FirePeashooterG.png" x="188" y="761" w="60" h="100" r="y"/>
+    <sprite n="FlagZombie.png" x="188" y="659" w="60" h="100" r="y"/>
+    <sprite n="FlagZombieG.png" x="188" y="557" w="60" h="100" r="y"/>
+    <sprite n="FlowerPot.png" x="188" y="455" w="60" h="100" r="y"/>
+    <sprite n="FlowerPotG.png" x="188" y="353" w="60" h="100" r="y"/>
+    <sprite n="FootballZombie.png" x="104" y="2" w="100" h="61"/>
+    <sprite n="FootballZombieG.png" x="2" y="2" w="100" h="61"/>
+    <sprite n="FumeShroom.png" x="188" y="251" w="60" h="100" r="y"/>
+    <sprite n="FumeShroomG.png" x="126" y="863" w="60" h="100" r="y"/>
+    <sprite n="Garlic.png" x="126" y="761" w="60" h="100" r="y"/>
+    <sprite n="GarlicG.png" x="126" y="659" w="60" h="100" r="y"/>
+    <sprite n="GatlingPea.png" x="126" y="557" w="60" h="100" r="y"/>
+    <sprite n="GatlingPeaG.png" x="126" y="455" w="60" h="100" r="y"/>
+    <sprite n="GloomShroom.png" x="126" y="353" w="60" h="100" r="y"/>
+    <sprite n="GloomShroomG.png" x="126" y="251" w="60" h="100" r="y"/>
+    <sprite n="GraveBuster.png" x="64" y="863" w="60" h="100" r="y"/>
+    <sprite n="GraveBusterG.png" x="64" y="761" w="60" h="100" r="y"/>
+    <sprite n="HypnoShroom.png" x="64" y="659" w="60" h="100" r="y"/>
+    <sprite n="HypnoShroomG.png" x="64" y="557" w="60" h="100" r="y"/>
+    <sprite n="IceShroom.png" x="64" y="455" w="60" h="100" r="y"/>
+    <sprite n="IceShroomG.png" x="64" y="353" w="60" h="100" r="y"/>
+    <sprite n="Jalapeno.png" x="64" y="251" w="60" h="100" r="y"/>
+    <sprite n="JalapenoG.png" x="2" y="863" w="60" h="100" r="y"/>
+    <sprite n="LilyPad.png" x="2" y="761" w="60" h="100" r="y"/>
+    <sprite n="LilyPadG.png" x="2" y="659" w="60" h="100" r="y"/>
+    <sprite n="Magnetshroom.png" x="2" y="557" w="60" h="100" r="y"/>
+    <sprite n="MagnetshroomG.png" x="2" y="455" w="60" h="100" r="y"/>
+    <sprite n="PaperZombie.png" x="2" y="353" w="60" h="100" r="y"/>
+    <sprite n="PaperZombieG.png" x="2" y="251" w="60" h="100" r="y"/>
+    <sprite n="Peashooter.png" x="920" y="188" w="100" h="60"/>
+    <sprite n="PeashooterG.png" x="818" y="188" w="100" h="60"/>
+    <sprite n="Plantern.png" x="716" y="188" w="100" h="60"/>
+    <sprite n="PlanternG.png" x="614" y="188" w="100" h="60"/>
+    <sprite n="PoleVaultingZombie.png" x="512" y="188" w="100" h="60"/>
+    <sprite n="PoleVaultingZombieG.png" x="410" y="188" w="100" h="60"/>
+    <sprite n="PotatoMine.png" x="435" y="578" w="58" h="100" oX="0" oY="2" oW="100" oH="60" r="y"/>
+    <sprite n="PotatoMineG.png" x="308" y="188" w="100" h="60"/>
+    <sprite n="PuffShroom.png" x="494" y="782" w="56" h="100" oX="0" oY="4" oW="100" oH="60" r="y"/>
+    <sprite n="PuffShroomG.png" x="493" y="680" w="56" h="100" oX="0" oY="4" oW="100" oH="60" r="y"/>
+    <sprite n="Pumpkin.png" x="104" y="189" w="100" h="60"/>
+    <sprite n="PumpkinG.png" x="2" y="189" w="100" h="60"/>
+    <sprite n="PumpkinHead.png" x="206" y="188" w="100" h="60"/>
+    <sprite n="PumpkinHeadG.png" x="920" y="126" w="100" h="60"/>
+    <sprite n="Repeater.png" x="818" y="126" w="100" h="60"/>
+    <sprite n="RepeaterG.png" x="716" y="126" w="100" h="60"/>
+    <sprite n="ScaredyShroom.png" x="614" y="126" w="100" h="60"/>
+    <sprite n="ScaredyShroomG.png" x="512" y="126" w="100" h="60"/>
+    <sprite n="ScreenDoorZombie.png" x="410" y="126" w="100" h="60"/>
+    <sprite n="ScreenDoorZombieG.png" x="308" y="126" w="100" h="60"/>
+    <sprite n="SeaShroom.png" x="512" y="944" w="100" h="58" oX="0" oY="2" oW="100" oH="60"/>
+    <sprite n="SeaShroomG.png" x="474" y="884" w="100" h="58" oX="0" oY="2" oW="100" oH="60"/>
+    <sprite n="SnorkelZombie.png" x="410" y="946" w="100" h="58" oX="0" oY="2" oW="100" oH="60"/>
+    <sprite n="SnorkelZombieG.png" x="434" y="782" w="58" h="100" oX="0" oY="2" oW="100" oH="60" r="y"/>
+    <sprite n="SnowPea.png" x="104" y="127" w="100" h="60"/>
+    <sprite n="SnowPeaG.png" x="2" y="127" w="100" h="60"/>
+    <sprite n="Spikerock.png" x="435" y="680" w="56" h="100" oX="0" oY="4" oW="100" oH="60" r="y"/>
+    <sprite n="SpikerockG.png" x="206" y="965" w="100" h="56" oX="0" oY="4" oW="100" oH="60"/>
+    <sprite n="Spikeweed.png" x="104" y="965" w="100" h="56" oX="0" oY="4" oW="100" oH="60"/>
+    <sprite n="SpikeweedG.png" x="2" y="965" w="100" h="56" oX="0" oY="4" oW="100" oH="60"/>
+    <sprite n="SplitPea.png" x="206" y="126" w="100" h="60"/>
+    <sprite n="SplitPeaG.png" x="920" y="64" w="100" h="60"/>
+    <sprite n="Squash.png" x="818" y="64" w="100" h="60"/>
+    <sprite n="SquashG.png" x="716" y="64" w="100" h="60"/>
+    <sprite n="Starfruit.png" x="614" y="64" w="100" h="60"/>
+    <sprite n="StarfruitG.png" x="512" y="64" w="100" h="60"/>
+    <sprite n="SunFlower.png" x="410" y="64" w="100" h="60"/>
+    <sprite n="SunFlowerG.png" x="308" y="64" w="100" h="60"/>
+    <sprite n="SunShroom.png" x="374" y="782" w="58" h="100" oX="0" oY="2" oW="100" oH="60" r="y"/>
+    <sprite n="SunShroomG.png" x="308" y="964" w="100" h="58" oX="0" oY="2" oW="100" oH="60"/>
+    <sprite n="TallNut.png" x="104" y="65" w="100" h="60"/>
+    <sprite n="TallNutG.png" x="2" y="65" w="100" h="60"/>
+    <sprite n="Threepeater.png" x="206" y="64" w="100" h="60"/>
+    <sprite n="ThreepeaterG.png" x="920" y="2" w="100" h="60"/>
+    <sprite n="Torchwood.png" x="818" y="2" w="100" h="60"/>
+    <sprite n="TorchwoodG.png" x="716" y="2" w="100" h="60"/>
+    <sprite n="TwinSunflower.png" x="614" y="2" w="100" h="60"/>
+    <sprite n="TwinSunflowerG.png" x="512" y="2" w="100" h="60"/>
+    <sprite n="WallNut.png" x="374" y="680" w="59" h="100" r="y"/>
+    <sprite n="WallNutG.png" x="374" y="578" w="59" h="100" r="y"/>
+    <sprite n="Zombie.png" x="410" y="2" w="100" h="60"/>
+    <sprite n="ZombieG.png" x="308" y="2" w="100" h="60"/>
+    <sprite n="grey.png" x="206" y="2" w="100" h="60"/>
+</TextureAtlas>

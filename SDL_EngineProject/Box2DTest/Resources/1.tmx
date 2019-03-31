@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="220" height="15" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="block" tilewidth="32" tileheight="32" tilecount="128" columns="16">
+  <image source="block.png" trans="ff00ff" width="512" height="256"/>
+  <tile id="32">
+   <animation>
+    <frame tileid="32" duration="200"/>
+    <frame tileid="33" duration="200"/>
+    <frame tileid="34" duration="200"/>
+   </animation>
+  </tile>
+ </tileset>
+ <layer name="background" width="220" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt1zEKg0AURdHfx6zAuCNNY+f+F+IMMuBAMBJEIZ4Drx1+c4uJAAAA4O7Gqw8AAACgMu4csJiuPgBu4BFLa0383lx543nUUfCncitt2iuti+/NTR+W38i96g22ldbKcnNbf7A+bVjtHXWva/5vcB69wXn0BrUZwKcQUg==
+  </data>
+ </layer>
+ <layer name="collided layer" width="220" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt17EJgEAMBdBb5QrXEJzh9t/FxkKuCijmJO/BJ5DqNynSGgAAANWN7AJQSM8uAADAL4xggOfmP227dvcJACvbpwBx0d/r7UBFR1KgIvcG3zkBrWgecw==
+  </data>
+ </layer>
+</map>

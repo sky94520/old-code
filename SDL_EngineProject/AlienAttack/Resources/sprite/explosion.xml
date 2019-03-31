@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="explosion.png" width="400" height="40">
+	<sprite n="explosion0.png" x="0" y="0" w="40" h="40"/>
+	<sprite n="explosion1.png" x="40" y="0" w="40" h="40"/>
+	<sprite n="explosion2.png" x="80" y="0" w="40" h="40"/>
+	<sprite n="explosion3.png" x="120" y="0" w="40" h="40"/>
+	<sprite n="explosion4.png" x="160" y="0" w="40" h="40"/>
+	<sprite n="explosion5.png" x="200" y="0" w="40" h="40"/>
+	<sprite n="explosion6.png" x="240" y="0" w="40" h="40"/>
+	<sprite n="explosion7.png" x="280" y="0" w="40" h="40"/>
+	<sprite n="explosion8.png" x="320" y="0" w="40" h="40"/>
+</TextureAtlas>
+

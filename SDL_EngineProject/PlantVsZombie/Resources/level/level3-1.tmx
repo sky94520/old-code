@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.4" orientation="orthogonal" renderorder="right-down" width="17" height="7" tilewidth="83" tileheight="86" infinite="0" nextobjectid="122">
+ <properties>
+  <property name="card" value="plant"/>
+  <property name="initial sun" type="int" value="350"/>
+  <property name="produce sun" type="bool" value="true"/>
+  <property name="time" value="day"/>
+  <property name="type" value="object layer"/>
+ </properties>
+ <tileset firstgid="1" name="meta_tiles2" tilewidth="83" tileheight="86" tilecount="3" columns="3">
+  <image source="meta_tiles2.png" width="249" height="86"/>
+  <tile id="0">
+   <properties>
+    <property name="terrain type" value="Lawn"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="terrain type" value="Water"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="terrain type" value="Stone"/>
+   </properties>
+  </tile>
+ </tileset>
+ <imagelayer name="bg">
+  <image source="background3.jpg" width="1400" height="600"/>
+  <properties>
+   <property name="card" value="plant"/>
+   <property name="initial sun" type="int" value="200"/>
+   <property name="produce sun" type="bool" value="true"/>
+  </properties>
+ </imagelayer>
+ <objectgroup name="entity object layer">
+  <object id="66" name="LilyPad" type="plant" x="290" y="304"/>
+  <object id="67" name="LilyPad" type="plant" x="291" y="383"/>
+  <object id="68" name="SunFlower" type="plant" x="297" y="321"/>
+  <object id="69" name="DoomShroom" type="plant" x="783" y="220"/>
+  <object id="70" name="FlowerPot" type="plant" x="867" y="229"/>
+  <object id="71" name="Cornpult" type="plant" x="293" y="221"/>
+  <object id="73" name="Peashooter" type="plant" x="375" y="486"/>
+  <object id="74" name="FumeShroom" type="plant" x="459" y="559"/>
+  <object id="75" name="Repeater" type="plant" x="454" y="226"/>
+  <object id="76" name="PotatoMine" type="plant" x="784" y="487"/>
+  <object id="77" name="SnowPea" type="plant" x="298" y="483"/>
+  <object id="78" name="Cabbage" type="plant" x="382" y="551"/>
+  <object id="79" name="TallNut" type="plant" x="544" y="560"/>
+  <object id="82" name="WallNut" type="plant" x="711" y="564"/>
+  <object id="84" name="WallNut" type="plant" x="704" y="483"/>
+  <object id="85" name="IceShroom" type="plant" x="539" y="234"/>
+  <object id="89" name="Threepeater" type="plant" x="296" y="410"/>
+  <object id="90" name="LilyPad" type="plant" x="625" y="389"/>
+  <object id="91" name="SplitPea" type="plant" x="630" y="392"/>
+  <object id="93" name="PuffShroom" type="plant" x="383" y="218"/>
+  <object id="95" name="SeaShroom" type="plant" x="540" y="316"/>
+  <object id="96" name="CoffeeBean" type="plant" x="539" y="329"/>
+  <object id="97" name="ScaredyShroom" type="plant" x="280" y="147"/>
+  <object id="101" name="Magnetshroom" type="plant" x="642" y="136"/>
+  <object id="103" name="TwinSunflower" type="plant" x="298" y="339"/>
+  <object id="104" name="GatlingPea" type="plant" x="454" y="246"/>
+  <object id="105" name="Chomper" type="plant" x="378" y="138"/>
+  <object id="106" name="FirePeashooter" type="plant" x="305" y="559"/>
+  <object id="107" name="Torchwood" type="plant" x="624" y="562"/>
+  <object id="108" name="SunShroom" type="plant" x="457" y="121"/>
+  <object id="109" name="CoffeeBean" type="plant" x="459" y="142"/>
+  <object id="110" name="LilyPad" type="plant" x="709" y="311"/>
+  <object id="111" name="Squash" type="plant" x="707" y="327"/>
+  <object id="112" name="Jalapeno" type="plant" x="459" y="485"/>
+  <object id="119" name="HypnoShroom" type="plant" x="620" y="214"/>
+  <object id="120" name="CoffeeBean" type="plant" x="623" y="231"/>
+  <object id="121" name="CoffeeBean" type="plant" x="644" y="152"/>
+ </objectgroup>
+ <objectgroup name="zombie path" visible="0">
+  <object id="5" x="992" y="134">
+   <properties>
+    <property name="row" type="int" value="1"/>
+   </properties>
+   <polyline points="0,0 -742,-1"/>
+  </object>
+  <object id="6" x="994" y="221">
+   <properties>
+    <property name="row" type="int" value="2"/>
+   </properties>
+   <polyline points="0,0 -741,-4"/>
+  </object>
+  <object id="7" x="996" y="308">
+   <properties>
+    <property name="row" type="int" value="3"/>
+   </properties>
+   <polyline points="0,0 -746,3"/>
+  </object>
+  <object id="8" x="993" y="391">
+   <properties>
+    <property name="row" type="int" value="4"/>
+   </properties>
+   <polyline points="0,0 -738,1"/>
+  </object>
+  <object id="9" x="990" y="475">
+   <properties>
+    <property name="row" type="int" value="5"/>
+   </properties>
+   <polyline points="0,0 -740,3"/>
+  </object>
+  <object id="10" x="995" y="558">
+   <properties>
+    <property name="row" type="int" value="6"/>
+   </properties>
+   <polyline points="0,0 -744,4"/>
+  </object>
+ </objectgroup>
+ <layer name="terrain tile layer" width="17" height="7" visible="0" opacity="0.55">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAuYCQC08MMJiIwPcwYyPAAADzsAEk=
+  </data>
+ </layer>
+ <objectgroup name="terrain object layer" visible="0">
+  <object id="11" x="257" y="177" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="12" x="257" y="91" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="13" x="337" y="89" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="14" x="337" y="176" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="15" x="418" y="90" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="16" x="417" y="177" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="17" x="501" y="90" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="18" x="500" y="178" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="19" x="584" y="90" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="20" x="583" y="177" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="21" x="666" y="89" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="22" x="665" y="179" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="23" x="747" y="88" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="24" x="741" y="177" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="26" x="825" y="90" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="27" x="818" y="177" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="28" x="899" y="89" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="29" x="898" y="176" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="30" x="263" y="276" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="31" x="263" y="363" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="32" x="342" y="276" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="33" x="340" y="363" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="34" x="419" y="276" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="35" x="419" y="361" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="36" x="499" y="276" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="37" x="499" y="360" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="38" x="582" y="276" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="39" x="580" y="361" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="40" x="662" y="274" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="41" x="662" y="361" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="42" x="746" y="272" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="43" x="743" y="359" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="44" x="827" y="272" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="45" x="826" y="359" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="46" x="901" y="273" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="47" x="902" y="358" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="water"/>
+   </properties>
+  </object>
+  <object id="48" x="258" y="439" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="49" x="258" y="518" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="50" x="335" y="440" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="51" x="421" y="442" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="52" x="501" y="443" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="53" x="584" y="444" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="54" x="664" y="445" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="55" x="744" y="443" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="56" x="823" y="441" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="57" x="907" y="436" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="58" x="906" y="524" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="59" x="826" y="522" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="60" x="744" y="521" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="61" x="664" y="520" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="62" x="582" y="520" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="63" x="502" y="518" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="64" x="421" y="516" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+  <object id="65" x="339" y="515" width="76" height="82">
+   <properties>
+    <property name="terrain type" value="lawn"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <layer name="entity layer" width="17" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwxUAAAHcAAE=
+  </data>
+ </layer>
+</map>

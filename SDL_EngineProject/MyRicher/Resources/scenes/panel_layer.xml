@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layer anchor-point="0,0">
+  <!---------------------------------------------角色1--------------------------------------------->
+  <Sprite position="700,40">
+  	<properties>
+  		<property name="filename" value="player1.png"/>
+  		<property name="res-type" value="XML"/>
+  	</properties>
+  </Sprite>
+  <!--金钱-->
+  <LabelTTF position="730,25"  anchor-point="0,0.4">
+      <properties>
+        <property name="text" value="$"/>
+        <property name="font-size" value="20"/>
+        <property name="font-path" value="fonts/arial.ttf"/>
+        <property name="font-color" value="0,0,0"/>
+      </properties>
+  </LabelTTF>
+    <LabelTTF position="740,25"  anchor-point="0,0.4" name="money1">
+      <properties>
+        <property name="text" value="10000"/>
+        <property name="font-size" value="20"/>
+        <property name="font-path" value="fonts/arial.ttf"/>
+        <property name="font-color" value="0,0,0"/>
+      </properties>
+  </LabelTTF>
+  <!--体力-->
+  <LabelTTF position="730,60"  anchor-point="0,0.4">
+      <properties>
+        <property name="text" value="+"/>
+        <property name="font-size" value="20"/>
+        <property name="font-path" value="fonts/arial.ttf"/>
+        <property name="font-color" value="0,0,0"/>
+      </properties>
+  </LabelTTF>
+    <LabelTTF position="740,60"  anchor-point="0,0.4" name="strength1">
+      <properties>
+        <property name="text" value="10000"/>
+        <property name="font-size" value="20"/>
+        <property name="font-path" value="fonts/arial.ttf"/>
+        <property name="font-color" value="0,0,0"/>
+      </properties>
+  </LabelTTF>
+ <!---------------------------------------------角色2--------------------------------------------->
+  <Sprite position="700,120">
+    <properties>
+      <property name="filename" value="player2.png"/>
+      <property name="res-type" value="XML"/>
+    </properties>
+  </Sprite>
+  <!--金钱-->
+  <LabelTTF position="730,105"  anchor-point="0,0.4">
+      <properties>
+        <property name="text" value="$"/>
+        <property name="font-size" value="20"/>
+        <property name="font-path" value="fonts/arial.ttf"/>
+        <property name="font-color" value="0,0,0"/>
+      </properties>
+  </LabelTTF>
+    <LabelTTF position="740,105"  anchor-point="0,0.4" name="money2">
+      <properties>
+        <property name="text" value="10000"/>
+        <property name="font-size" value="20"/>
+        <property name="font-path" value="fonts/arial.ttf"/>
+        <property name="font-color" value="0,0,0"/>
+      </properties>
+  </LabelTTF>
+  <!--体力-->
+  <LabelTTF position="730,140"  anchor-point="0,0.4">
+      <properties>
+        <property name="text" value="+"/>
+        <property name="font-size" value="20"/>
+        <property name="font-path" value="fonts/arial.ttf"/>
+        <property name="font-color" value="0,0,0"/>
+      </properties>
+  </LabelTTF>
+    <LabelTTF position="740,140"  anchor-point="0,0.4" name="strength2">
+      <properties>
+        <property name="text" value="10000"/>
+        <property name="font-size" value="20"/>
+        <property name="font-path" value="fonts/arial.ttf"/>
+        <property name="font-color" value="0,0,0"/>
+      </properties>
+  </LabelTTF>
+  <!--人物按钮-->
+  <Button position="750,400" name="go_btn">
+    <properties>
+      <property name="normal-image" value="go_normal.png"/>
+      <property name="selected-image" value="go_press.png"/>
+      <property name="disable-image" value="go_disable.png"/>
+      <property name="res-type" value="XML"/>
+    </properties>
+  </Button>
+</Layer>

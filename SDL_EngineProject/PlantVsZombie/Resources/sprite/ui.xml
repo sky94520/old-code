@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:6e5f14c78b8218344a4edd6406531725$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="ui.png" width="256" height="256">
+    <sprite n="SeedChooser_Button.png" x="2" y="46" w="156" h="42"/>
+    <sprite n="SeedChooser_Button_Disabled.png" x="2" y="2" w="156" h="42"/>
+    <sprite n="SeedChooser_Button_Glow.png" x="2" y="90" w="40" h="156" oX="0" oY="0" oW="156" oH="42" r="y"/>
+    <sprite n="Shovel.png" x="160" y="2" w="76" h="34"/>
+    <sprite n="ShovelBack.png" x="160" y="58" w="71" h="35"/>
+    <sprite n="SunBack.png" x="146" y="95" w="34" h="123" r="y"/>
+    <sprite n="card_slot.png" x="44" y="90" w="100" h="56" oX="0" oY="4" oW="100" oH="60"/>
+    <sprite n="start_game_text.png" x="160" y="38" w="72" h="18" oX="41" oY="13" oW="156" oH="42"/>
+</TextureAtlas>

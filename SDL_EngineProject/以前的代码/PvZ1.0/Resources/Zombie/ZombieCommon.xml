@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:b9027031d449a692a94615470e07d5ac$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="ZombieCommon.png" width="512" height="512">
+    <sprite n="BoomDie1.png" x="198" y="160" w="112" h="70" oX="69" oY="29" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie10.png" x="316" y="2" w="114" h="78" oX="68" oY="29" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie11.png" x="200" y="2" w="114" h="78" oX="69" oY="29" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie12.png" x="84" y="2" w="114" h="78" oX="69" oY="29" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie13.png" x="2" y="350" w="80" h="114" oX="68" oY="29" oW="166" oH="144"/>
+    <sprite n="BoomDie14.png" x="2" y="234" w="80" h="114" oX="68" oY="29" oW="166" oH="144"/>
+    <sprite n="BoomDie15.png" x="2" y="118" w="80" h="114" oX="68" oY="29" oW="166" oH="144"/>
+    <sprite n="BoomDie16.png" x="2" y="2" w="80" h="114" oX="68" oY="29" oW="166" oH="144"/>
+    <sprite n="BoomDie17.png" x="426" y="116" w="78" h="88" oX="70" oY="55" oW="166" oH="144"/>
+    <sprite n="BoomDie18.png" x="392" y="260" w="78" h="46" oX="70" oY="97" oW="166" oH="144"/>
+    <sprite n="BoomDie19.png" x="426" y="206" w="78" h="52" oX="70" oY="91" oW="166" oH="144"/>
+    <sprite n="BoomDie2.png" x="84" y="160" w="112" h="70" oX="69" oY="29" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie20.png" x="312" y="226" w="78" h="48" oX="70" oY="95" oW="166" oH="144"/>
+    <sprite n="BoomDie3.png" x="312" y="154" w="112" h="70" oX="69" oY="29" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie4.png" x="198" y="160" w="112" h="70" oX="69" oY="29" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie5.png" x="312" y="82" w="112" h="70" oX="69" oY="29" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie6.png" x="198" y="160" w="112" h="70" oX="69" oY="29" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie7.png" x="198" y="82" w="112" h="76" oX="69" oY="30" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie8.png" x="84" y="82" w="112" h="76" oX="69" oY="30" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie9.png" x="432" y="2" w="78" h="112" oX="68" oY="30" oW="166" oH="144"/>
+    <sprite n="ZombieHead1.png" x="84" y="422" w="48" h="48" oX="11" oY="15" oW="150" oH="186"/>
+    <sprite n="ZombieHead10.png" x="146" y="286" w="50" h="46" oX="73" oY="140" oW="150" oH="186"/>
+    <sprite n="ZombieHead11.png" x="146" y="286" w="50" h="46" oX="85" oY="102" oW="150" oH="186"/>
+    <sprite n="ZombieHead12.png" x="146" y="286" w="50" h="46" oX="99" oY="140" oW="150" oH="186"/>
+    <sprite n="ZombieHead2.png" x="84" y="308" w="60" h="62" oX="9" oY="8" oW="150" oH="186"/>
+    <sprite n="ZombieHead3.png" x="192" y="232" w="52" h="52" oX="25" oY="0" oW="150" oH="186"/>
+    <sprite n="ZombieHead4.png" x="138" y="232" w="52" h="52" oX="34" oY="7" oW="150" oH="186"/>
+    <sprite n="ZombieHead5.png" x="246" y="284" w="50" h="48" oX="44" oY="26" oW="150" oH="186" r="y"/>
+    <sprite n="ZombieHead6.png" x="84" y="372" w="48" h="48" oX="59" oY="55" oW="150" oH="186"/>
+    <sprite n="ZombieHead7.png" x="246" y="232" w="52" h="50" oX="62" oY="85" oW="150" oH="186"/>
+    <sprite n="ZombieHead8.png" x="84" y="232" w="52" h="52" oX="64" oY="96" oW="150" oH="186"/>
+    <sprite n="ZombieHead9.png" x="300" y="276" w="52" h="48" oX="66" oY="110" oW="150" oH="186"/>
+</TextureAtlas>

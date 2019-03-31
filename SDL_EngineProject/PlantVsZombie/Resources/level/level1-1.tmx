@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="17" height="6" tilewidth="82" tileheight="94" nextobjectid="10">
+ <properties>
+  <property name="card" value="plant"/>
+  <property name="initial sun" type="int" value="200"/>
+  <property name="produce sun" type="bool" value="true"/>
+  <property name="type" value="tile layer"/>
+ </properties>
+ <tileset firstgid="1" name="meta_tiles1" tilewidth="82" tileheight="94" tilecount="3" columns="3">
+  <image source="meta_tiles1.png" width="246" height="94"/>
+  <tile id="0">
+   <properties>
+    <property name="terrain type" value="Lawn"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="terrain type" value="Water"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="terrain type" value="Stone"/>
+   </properties>
+  </tile>
+ </tileset>
+ <imagelayer name="bg">
+  <image source="background1.jpg" width="1400" height="600"/>
+ </imagelayer>
+ <objectgroup name="zombie path">
+  <object id="2" x="1034" y="142">
+   <properties>
+    <property name="row" type="int" value="1"/>
+   </properties>
+   <polyline points="0,0 -788,-1"/>
+  </object>
+  <object id="5" x="1029" y="421">
+   <properties>
+    <property name="row" type="int" value="4"/>
+   </properties>
+   <polyline points="0,0 -783,2"/>
+  </object>
+  <object id="6" x="1022" y="518">
+   <properties>
+    <property name="row" type="int" value="5"/>
+   </properties>
+   <polyline points="0,0 -777,-1"/>
+  </object>
+  <object id="8" x="1031" y="235">
+   <properties>
+    <property name="row" type="int" value="2"/>
+   </properties>
+   <polyline points="0,0 -780,-1"/>
+  </object>
+  <object id="9" x="1025" y="332">
+   <properties>
+    <property name="row" type="int" value="3"/>
+   </properties>
+   <polyline points="0,0 -775,-6"/>
+  </object>
+ </objectgroup>
+ <layer name="terrain tile layer" width="17" height="6" visible="0" opacity="0.34">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAuYCQCj5pB2AwAIIgALg==
+  </data>
+ </layer>
+ <layer name="entity layer" width="17" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgxEAAAGYAAE=
+  </data>
+ </layer>
+</map>

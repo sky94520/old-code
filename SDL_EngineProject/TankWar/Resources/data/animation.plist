@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+   <key>animations</key>
+   <dict>
+      <!--坦克 蓝色运动-->
+     <key>tank_blue_run</key>
+     <dict>
+       <key>delay</key>
+       <real>0.1</real>
+       <key>loops</key>
+       <string>-1</string>
+       <key>frames</key>
+       <array>
+         <string>tank_blue_run1.png</string>
+         <string>tank_blue_run2.png</string>
+       </array>
+     </dict>
+     <!--坦克 蓝色射击-->
+     <key>tank_blue_fire</key>
+     <dict>
+       <key>delay</key>
+       <real>0.2</real>
+       <key>loops</key>
+       <string>1</string>
+       <key>frames</key>
+       <array>
+         <string>tank_blue_fire1.png</string>
+       </array>
+     </dict>
+     <!--坦克 绿色运动-->
+     <key>tank_green_run</key>
+     <dict>
+       <key>delay</key>
+       <real>0.1</real>
+       <key>loops</key>
+       <string>-1</string>
+       <key>frames</key>
+       <array>
+         <string>tank_green_run1.png</string>
+         <string>tank_green_run2.png</string>
+       </array>
+     </dict>
+     <!--坦克 绿色射击-->
+     <key>tank_green_fire</key>
+     <dict>
+       <key>delay</key>
+       <real>0.1</real>
+       <key>loops</key>
+       <string>1</string>
+       <key>frames</key>
+       <array>
+         <string>tank_green_fire1.png</string>
+       </array>
+     </dict>
+     <!--坦克 红色运动-->
+     <key>tank_red_run</key>
+     <dict>
+       <key>delay</key>
+       <real>0.1</real>
+       <key>loops</key>
+       <string>-1</string>
+       <key>frames</key>
+       <array>
+         <string>tank_red_run1.png</string>
+         <string>tank_red_run2.png</string>
+       </array>
+     </dict>
+     <!--坦克 红色射击-->
+     <key>tank_red_fire</key>
+     <dict>
+       <key>delay</key>
+       <real>0.1</real>
+       <key>loops</key>
+       <string>1</string>
+       <key>frames</key>
+       <array>
+         <string>tank_red_fire1.png</string>
+       </array>
+     </dict>
+     <!--坦克 黄色运动-->
+     <key>tank_yellow_run</key>
+     <dict>
+       <key>delay</key>
+       <real>0.1</real>
+       <key>loops</key>
+       <string>-1</string>
+       <key>frames</key>
+       <array>
+         <string>tank_yellow_run1.png</string>
+         <string>tank_yellow_run2.png</string>
+       </array>
+     </dict>
+     <!--坦克 黄色射击-->
+     <key>tank_yellow_fire</key>
+     <dict>
+       <key>delay</key>
+       <real>0.1</real>
+       <key>loops</key>
+       <string>1</string>
+       <key>frames</key>
+       <array>
+         <string>tank_yellow_fire1.png</string>
+       </array>
+     </dict>     
+   </dict>
+ </dict>
+</plist>

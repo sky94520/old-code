@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="220" height="15" tilewidth="32" tileheight="32" nextobjectid="51">
+ <properties>
+  <property name="bg_color" value="107,140,255,255"/>
+  <property name="gravity" value="0,5.5"/>
+ </properties>
+ <tileset firstgid="1" name="block" tilewidth="32" tileheight="32" tilecount="128" columns="16">
+  <image source="block.png" trans="ff00ff" width="512" height="256"/>
+  <tile id="32">
+   <properties>
+    <property name="type" value="question block"/>
+   </properties>
+   <animation>
+    <frame tileid="32" duration="200"/>
+    <frame tileid="33" duration="200"/>
+    <frame tileid="34" duration="200"/>
+   </animation>
+  </tile>
+  <tile id="36">
+   <properties>
+    <property name="type" value="dirt block"/>
+   </properties>
+  </tile>
+  <tile id="38">
+   <properties>
+    <property name="type" value="hidden"/>
+   </properties>
+  </tile>
+  <tile id="64">
+   <properties>
+    <property name="friction" value="0.5"/>
+   </properties>
+  </tile>
+  <tile id="66">
+   <properties>
+    <property name="type" value="coin"/>
+   </properties>
+   <animation>
+    <frame tileid="66" duration="100"/>
+    <frame tileid="67" duration="100"/>
+    <frame tileid="68" duration="100"/>
+    <frame tileid="66" duration="100"/>
+   </animation>
+  </tile>
+  <tile id="98">
+   <animation>
+    <frame tileid="98" duration="120"/>
+    <frame tileid="99" duration="120"/>
+    <frame tileid="100" duration="120"/>
+    <frame tileid="101" duration="120"/>
+   </animation>
+  </tile>
+ </tileset>
+ <layer name="background" width="220" height="15">
+  <properties>
+   <property name="type" value="mushroom"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt100KwjAQBtDsrSdQT6DeRN246/0P0gk0UEvrDy0SynvwEQhhmIHpoikBAAAAAAAANXmOMncHAP+yi7SRpj+X1Niv1dSCPpoK+oA5eUcPkWPklD5/c+1Eatjz8Ry/9lLDDGxf2dGSvKvv/sdukXt/l89Het3zofz+HLlEriv0WmpN1Zua45s6pdbcDMP3a8wAALA1HeFwDvY=
+  </data>
+ </layer>
+ <layer name="entity layer" width="220" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5U1/hAFUBAAAAAAAAAAAAAAAArwEzkAAB
+  </data>
+ </layer>
+ <layer name="collided layer" width="220" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt10EKwjAQBVCv0oVWb1CX9v6HsmIXoVAoNZlR+x4MgTCEEPIJGU9AlDF7A3Ag8gZx5A3iyBvEaZm3ruHa8Iu8bxBH3iCOvL312RvgEF55u3y4xvKfdp7nynGP61S3Cj3LXtkiS8b7tjUjw1T3Cj17eqGFjLxtvffyxr+RN4jzUKtV44yglH2nv7lqnBGUnnFINo0=
+  </data>
+ </layer>
+ <layer name="coin layer" width="220" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5U1/hAFUBAAAAAAAAAAAAAAAArwEzkAAB
+  </data>
+ </layer>
+ <objectgroup name="object layer">
+  <object id="32" name="tortoise" type="enemy" x="2893" y="143" width="32" height="32">
+   <properties>
+    <property name="tortoise-behavior" value="kMoveWithTileCollidedAndCanDropType"/>
+    <property name="tortoise-velocity" value="-1.5,0"/>
+   </properties>
+  </object>
+  <object id="37" name="fly-tortoise" type="enemy" x="2869" y="231" width="32" height="32">
+   <properties>
+    <property name="fly-behavior" value="kMoveWithoutGravityType"/>
+    <property name="fly-velocity" value="-1.5,1.5"/>
+    <property name="tortoise-behavior" value="kMoveWithTileCollidedAndCanDropType"/>
+    <property name="tortoise-velocity" value="-1.5,0"/>
+   </properties>
+  </object>
+  <object id="38" name="trimushroom" type="enemy" x="726" y="378" width="32" height="32">
+   <properties>
+    <property name="trimushroom-behavior" value="kMoveWithTileCollidedAndCanDropType"/>
+    <property name="trimushroom-velocity" value="-1.5,0"/>
+   </properties>
+  </object>
+  <object id="39" name="chomper" type="enemy" x="1246" y="282" width="67" height="130">
+   <properties>
+    <property name="chomper-behavior" value="kMoveOnlyWithVelocity"/>
+    <property name="chomper-velocity" value="0,-1"/>
+    <property name="max-jump-height" value="80"/>
+   </properties>
+  </object>
+  <object id="40" name="fly-trimushroom" type="enemy" x="2465" y="228" width="32" height="32">
+   <properties>
+    <property name="fly-behavior" value="kMoveWithoutGravityType"/>
+    <property name="fly-velocity" value="-1.5,1.5"/>
+    <property name="trimushroom-behavior" value="kMoveWithTileCollidedAndCanDropType"/>
+    <property name="trimushroom-velocity" value="-1.5,0"/>
+   </properties>
+  </object>
+  <object id="43" name="trimushroom" type="enemy" x="1382" y="383" width="32" height="32">
+   <properties>
+    <property name="trimushroom-behavior" value="kMoveWithTileCollidedAndCanDropType"/>
+    <property name="trimushroom-velocity" value="-1.5,0"/>
+   </properties>
+  </object>
+  <object id="44" name="trimushroom" type="enemy" x="1633" y="383" width="32" height="32">
+   <properties>
+    <property name="trimushroom-behavior" value="kMoveWithTileCollidedAndCanDropType"/>
+    <property name="trimushroom-velocity" value="-1.5,0"/>
+   </properties>
+  </object>
+  <object id="45" name="trimushroom" type="enemy" x="1731" y="382" width="32" height="32">
+   <properties>
+    <property name="trimushroom-behavior" value="kMoveWithTileCollidedAndCanDropType"/>
+    <property name="trimushroom-velocity" value="-1.5,0"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="tile object layer">
+  <object id="6" name="mushroom" type="item" x="704" y="283" width="32" height="32"/>
+  <object id="41" name="coin" type="item" x="544" y="287" width="32" height="32"/>
+  <object id="47" name="coin" type="item" x="766" y="287" width="32" height="32"/>
+  <object id="46" name="coin" type="item" x="735" y="160" width="32" height="32"/>
+  <object id="48" name="up-mushroom" type="item" x="2110" y="255" width="32" height="32"/>
+  <object id="49" name="up-mushroom" type="item" x="1951" y="290" width="32" height="32"/>
+  <object id="50" name="up-mushroom" type="item" x="32" y="287" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="player object layer">
+  <object id="14" name="player" type="player" x="55" y="355" width="32" height="32"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layer anchor-point="0,0">
+	<!--主角生命-->
+	<LayerColor anchor-point="0,0">
+		<properties>
+			<property name="rect" value="0,0,200,200"/>
+			<property name="color" value="0,0,0,128"/>
+		</properties>
+	</LayerColor>
+	<Sprite anchor-point="0,0">
+		<properties>
+			<property name="filename" value="shop_player_life_title.png"/>
+		</properties>
+	</Sprite>
+	<Xml name="shop_player_life" anchor-point="0,0">
+		<properties>
+			<property name="filename" value="scene/ShopNode.xml"/>
+		</properties>
+	</Xml>
+	<!--主角复活的无敌时间-->
+	<LayerColor anchor-point="0,0" position="300,0">
+		<properties>
+			<property name="rect" value="0,0,200,200"/>
+			<property name="color" value="255,0,0,128"/>
+		</properties>
+	</LayerColor>
+	<Sprite anchor-point="0,0" position="300,0">
+		<properties>
+			<property name="filename" value="shop_player_ressurect_title.png"/>
+		</properties>
+	</Sprite>
+	<Xml name="shop_player_ressurect" anchor-point="0,0" position="300,0">
+		<properties>
+			<property name="filename" value="scene/ShopNode.xml"/>
+		</properties>
+	</Xml>
+	<!--上一级按钮-->
+	<Button position="800,0" anchor-point="1,0" name="back">
+		<properties>
+			<property name="res-type" value="LOCAL"/>
+			<property name="normal-image" value="button/button_back.png"/>
+			<property name="selected-image" value="button/button_back_selected.png"/>
+		</properties>
+	</Button>
+</Layer>

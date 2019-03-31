@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:ea3bcd003fda63bd4e0d50209145bf24$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="plant4.png" width="1024" height="1024">
+    <sprite n="DoomShroomBoom_00.png" x="839" y="578" w="82" h="77" oX="9" oY="14" oW="102" oH="91"/>
+    <sprite n="DoomShroomBoom_01.png" x="672" y="424" w="84" h="77" oX="9" oY="14" oW="102" oH="91"/>
+    <sprite n="DoomShroomBoom_02.png" x="586" y="345" w="84" h="79" oX="9" oY="12" oW="102" oH="91"/>
+    <sprite n="DoomShroomBoom_03.png" x="675" y="262" w="86" h="81" oX="8" oY="10" oW="102" oH="91"/>
+    <sprite n="DoomShroomBoom_04.png" x="801" y="2" w="94" h="87" oX="5" oY="4" oW="102" oH="91"/>
+    <sprite n="DoomShroomBoom_05.png" x="705" y="2" w="94" h="87" oX="4" oY="4" oW="102" oH="91"/>
+    <sprite n="DoomShroomBoom_06.png" x="609" y="2" w="94" h="87" oX="5" oY="4" oW="102" oH="91"/>
+    <sprite n="DoomShroomBoom_07.png" x="511" y="2" w="96" h="91" oX="4" oY="0" oW="102" oH="91"/>
+    <sprite n="DoomShroomBoom_08.png" x="106" y="2" w="102" h="91"/>
+    <sprite n="DoomShroomBoom_09.png" x="2" y="2" w="102" h="91"/>
+    <sprite n="DoomShroomSleep_00.png" x="84" y="620" w="80" h="77" oX="11" oY="14" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_01.png" x="755" y="509" w="82" h="77" oX="10" oY="14" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_02.png" x="338" y="464" w="82" h="75" oX="11" oY="16" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_03.png" x="254" y="448" w="82" h="75" oX="12" oY="16" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_04.png" x="844" y="501" w="84" h="75" oX="12" oY="16" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_05.png" x="930" y="429" w="84" h="75" oX="12" oY="16" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_06.png" x="88" y="220" w="84" h="73" oX="11" oY="18" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_07.png" x="838" y="657" w="82" h="71" oX="12" oY="20" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_08.png" x="671" y="503" w="82" h="77" oX="10" oY="14" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_09.png" x="940" y="267" w="82" h="77" oX="9" oY="14" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_10.png" x="170" y="444" w="82" h="75" oX="9" oY="16" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_11.png" x="170" y="444" w="82" h="75" oX="9" oY="16" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_12.png" x="758" y="432" w="84" h="75" oX="7" oY="16" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_13.png" x="844" y="424" w="84" h="75" oX="7" oY="16" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_14.png" x="758" y="353" w="84" h="77" oX="7" oY="14" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_15.png" x="672" y="345" w="84" h="77" oX="7" oY="14" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_16.png" x="86" y="372" w="82" h="75" oX="9" oY="16" oW="102" oH="91"/>
+    <sprite n="DoomShroomSleep_17.png" x="2" y="372" w="82" h="75" oX="9" oY="16" oW="102" oH="91"/>
+    <sprite n="DoomShroom_00.png" x="332" y="619" w="79" h="78" oX="12" oY="12" oW="102" oH="91" r="y"/>
+    <sprite n="DoomShroom_01.png" x="170" y="367" w="82" h="75" oX="10" oY="16" oW="102" oH="91"/>
+    <sprite n="DoomShroom_02.png" x="2" y="220" w="84" h="73" oX="9" oY="18" oW="102" oH="91"/>
+    <sprite n="DoomShroom_03.png" x="174" y="294" w="84" h="71" oX="9" oY="20" oW="102" oH="91"/>
+    <sprite n="DoomShroom_04.png" x="930" y="506" w="84" h="73" oX="9" oY="18" oW="102" oH="91"/>
+    <sprite n="DoomShroom_05.png" x="86" y="295" w="82" h="75" oX="10" oY="16" oW="102" oH="91"/>
+    <sprite n="DoomShroom_06.png" x="2" y="295" w="82" h="75" oX="10" oY="16" oW="102" oH="91"/>
+    <sprite n="DoomShroom_07.png" x="168" y="578" w="80" h="77" oX="11" oY="14" oW="102" oH="91"/>
+    <sprite n="DoomShroom_08.png" x="251" y="525" w="80" h="77" oX="11" oY="14" oW="102" oH="91"/>
+    <sprite n="DoomShroom_09.png" x="2" y="586" w="80" h="79" oX="10" oY="12" oW="102" oH="91"/>
+    <sprite n="DoomShroom_10.png" x="2" y="449" w="81" h="78" oX="12" oY="10" oW="102" oH="91" r="y"/>
+    <sprite n="DoomShroom_11.png" x="922" y="659" w="81" h="78" oX="12" oY="10" oW="102" oH="91" r="y"/>
+    <sprite n="DoomShroom_12.png" x="506" y="486" w="78" h="81" oX="12" oY="10" oW="102" oH="91"/>
+    <sprite n="GatlingPea_00.png" x="333" y="541" w="80" h="76" oX="7" oY="3" oW="88" oH="84" r="y"/>
+    <sprite n="GatlingPea_01.png" x="110" y="873" w="76" h="78" oX="10" oY="5" oW="88" oH="84"/>
+    <sprite n="GatlingPea_02.png" x="2" y="667" w="80" h="76" oX="8" oY="3" oW="88" oH="84" r="y"/>
+    <sprite n="GatlingPea_03.png" x="923" y="581" w="82" h="76" oX="5" oY="0" oW="88" oH="84" r="y"/>
+    <sprite n="GatlingPea_04.png" x="754" y="588" w="82" h="74" oX="5" oY="0" oW="88" oH="84" r="y"/>
+    <sprite n="GatlingPea_05.png" x="670" y="582" w="82" h="74" oX="4" oY="0" oW="88" oH="84" r="y"/>
+    <sprite n="GatlingPea_06.png" x="166" y="657" w="80" h="74" oX="3" oY="2" oW="88" oH="84" r="y"/>
+    <sprite n="GatlingPea_07.png" x="404" y="792" w="76" h="76" oX="1" oY="6" oW="88" oH="84"/>
+    <sprite n="GatlingPea_08.png" x="467" y="870" w="74" h="76" oX="1" oY="8" oW="88" oH="84" r="y"/>
+    <sprite n="GatlingPea_09.png" x="188" y="873" w="74" h="78" oX="3" oY="4" oW="88" oH="84"/>
+    <sprite n="GatlingPea_10.png" x="586" y="507" w="82" h="74" oX="4" oY="0" oW="88" oH="84" r="y"/>
+    <sprite n="GatlingPea_11.png" x="422" y="472" w="82" h="74" oX="5" oY="0" oW="88" oH="84" r="y"/>
+    <sprite n="GatlingPea_12.png" x="250" y="604" w="80" h="74" oX="7" oY="2" oW="88" oH="84" r="y"/>
+    <sprite n="GloomShroomAttack_00.png" x="897" y="2" w="93" h="81" oX="1" oY="1" oW="95" oH="83"/>
+    <sprite n="GloomShroomAttack_01.png" x="408" y="46" w="95" h="81" oX="0" oY="1" oW="95" oH="83"/>
+    <sprite n="GloomShroomSleep_00.png" x="780" y="141" w="87" h="79" oX="2" oY="4" oW="95" oH="83"/>
+    <sprite n="GloomShroomSleep_01.png" x="99" y="139" w="85" h="79" oX="3" oY="4" oW="95" oH="83"/>
+    <sprite n="GloomShroomSleep_02.png" x="850" y="339" w="85" h="83" oX="3" oY="0" oW="95" oH="83"/>
+    <sprite n="GloomShroomSleep_03.png" x="763" y="268" w="85" h="83" oX="2" oY="0" oW="95" oH="83"/>
+    <sprite n="GloomShroomSleep_04.png" x="853" y="254" w="85" h="83" oX="2" oY="0" oW="95" oH="83"/>
+    <sprite n="GloomShroomSleep_05.png" x="345" y="381" w="83" h="81" oX="3" oY="2" oW="95" oH="83"/>
+    <sprite n="GloomShroomSleep_06.png" x="260" y="365" w="83" h="81" oX="3" oY="2" oW="95" oH="83"/>
+    <sprite n="GloomShroomSleep_07.png" x="196" y="134" w="85" h="81" oX="2" oY="2" oW="95" oH="83"/>
+    <sprite n="GloomShroomSleep_08.png" x="937" y="346" w="85" h="81" oX="3" oY="2" oW="95" oH="83"/>
+    <sprite n="GloomShroomSleep_09.png" x="937" y="346" w="85" h="81" oX="3" oY="2" oW="95" oH="83"/>
+    <sprite n="GloomShroomSleep_10.png" x="283" y="134" w="85" h="77" oX="3" oY="6" oW="95" oH="83"/>
+    <sprite n="GloomShroomSleep_11.png" x="186" y="217" w="85" h="75" oX="3" oY="8" oW="95" oH="83"/>
+    <sprite n="GloomShroomSleep_12.png" x="586" y="187" w="87" h="83" oX="2" oY="0" oW="95" oH="83"/>
+    <sprite n="GloomShroom_00.png" x="869" y="181" w="87" h="71" oX="3" oY="11" oW="95" oH="83"/>
+    <sprite n="GloomShroom_01.png" x="675" y="189" w="87" h="71" oX="3" oY="11" oW="95" oH="83"/>
+    <sprite n="GloomShroom_02.png" x="586" y="272" w="85" h="71" oX="4" oY="11" oW="95" oH="83"/>
+    <sprite n="GloomShroom_03.png" x="457" y="268" w="85" h="73" oX="4" oY="9" oW="95" oH="83"/>
+    <sprite n="GloomShroom_04.png" x="283" y="213" w="85" h="75" oX="3" oY="7" oW="95" oH="83"/>
+    <sprite n="GloomShroom_05.png" x="491" y="191" w="85" h="75" oX="3" oY="7" oW="95" oH="83"/>
+    <sprite n="GloomShroom_06.png" x="586" y="426" w="83" h="79" oX="4" oY="3" oW="95" oH="83"/>
+    <sprite n="GloomShroom_07.png" x="430" y="391" w="83" h="79" oX="4" oY="3" oW="95" oH="83"/>
+    <sprite n="GloomShroom_08.png" x="2" y="141" w="85" h="77" oX="3" oY="5" oW="95" oH="83"/>
+    <sprite n="GloomShroom_09.png" x="404" y="179" w="85" h="75" oX="4" oY="7" oW="95" oH="83"/>
+    <sprite n="GloomShroom_10.png" x="273" y="290" w="85" h="73" oX="4" oY="9" oW="95" oH="83"/>
+    <sprite n="GloomShroom_11.png" x="370" y="256" w="85" h="73" oX="4" oY="9" oW="95" oH="83"/>
+    <sprite n="PuffShroomSleep_00.png" x="584" y="792" w="40" h="66"/>
+    <sprite n="PuffShroomSleep_01.png" x="548" y="929" w="38" h="66" oX="2" oY="0" oW="40" oH="66"/>
+    <sprite n="PuffShroomSleep_02.png" x="638" y="859" w="38" h="64" oX="2" oY="1" oW="40" oH="66"/>
+    <sprite n="PuffShroomSleep_03.png" x="628" y="927" w="38" h="64" oX="2" oY="1" oW="40" oH="66"/>
+    <sprite n="PuffShroomSleep_04.png" x="588" y="927" w="38" h="64" oX="1" oY="1" oW="40" oH="66"/>
+    <sprite n="PuffShroomSleep_05.png" x="835" y="730" w="64" h="36" oX="1" oY="1" oW="40" oH="66" r="y"/>
+    <sprite n="PuffShroomSleep_06.png" x="679" y="792" w="36" h="64" oX="1" oY="1" oW="40" oH="66"/>
+    <sprite n="PuffShroomSleep_07.png" x="747" y="748" w="62" h="36" oX="1" oY="3" oW="40" oH="66" r="y"/>
+    <sprite n="PuffShroomSleep_08.png" x="329" y="730" w="36" h="60" oX="1" oY="5" oW="40" oH="66"/>
+    <sprite n="PuffShroomSleep_09.png" x="543" y="861" w="40" h="66"/>
+    <sprite n="PuffShroomSleep_10.png" x="670" y="658" w="66" h="40" r="y"/>
+    <sprite n="PuffShroomSleep_11.png" x="544" y="336" w="40" h="66"/>
+    <sprite n="PuffShroomSleep_12.png" x="958" y="225" w="64" h="40" oX="0" oY="1" oW="40" oH="66" r="y"/>
+    <sprite n="PuffShroomSleep_13.png" x="958" y="183" w="64" h="40" oX="0" oY="1" oW="40" oH="66" r="y"/>
+    <sprite n="PuffShroomSleep_14.png" x="678" y="859" w="36" h="64" oX="1" oY="1" oW="40" oH="66"/>
+    <sprite n="PuffShroomSleep_15.png" x="668" y="925" w="36" h="64" oX="1" oY="1" oW="40" oH="66"/>
+    <sprite n="PuffShroomSleep_16.png" x="544" y="268" w="40" h="66"/>
+    <sprite n="PuffShroom_00.png" x="370" y="172" w="32" h="36" oX="0" oY="34" oW="40" oH="66" r="y"/>
+    <sprite n="PuffShroom_01.png" x="370" y="134" w="32" h="36" oX="0" oY="34" oW="40" oH="66" r="y"/>
+    <sprite n="PuffShroom_02.png" x="926" y="985" w="34" h="36" oX="0" oY="32" oW="40" oH="66" r="y"/>
+    <sprite n="PuffShroom_03.png" x="888" y="955" w="36" h="34" oX="0" oY="32" oW="40" oH="66"/>
+    <sprite n="PuffShroom_04.png" x="937" y="864" w="36" h="36" oX="0" oY="30" oW="40" oH="66"/>
+    <sprite n="PuffShroom_05.png" x="937" y="826" w="36" h="36" oX="0" oY="30" oW="40" oH="66"/>
+    <sprite n="PuffShroom_06.png" x="937" y="826" w="36" h="36" oX="0" oY="30" oW="40" oH="66"/>
+    <sprite n="PuffShroom_07.png" x="738" y="664" w="38" h="34" oX="1" oY="28" oW="40" oH="66" r="y"/>
+    <sprite n="PuffShroom_08.png" x="367" y="699" w="34" h="38" oX="1" oY="28" oW="40" oH="66"/>
+    <sprite n="PuffShroom_09.png" x="937" y="788" w="36" h="36" oX="0" oY="30" oW="40" oH="66"/>
+    <sprite n="PuffShroom_10.png" x="981" y="777" w="36" h="36" oX="0" oY="30" oW="40" oH="66"/>
+    <sprite n="PuffShroom_11.png" x="981" y="739" w="36" h="36" oX="0" oY="30" oW="40" oH="66"/>
+    <sprite n="PuffShroom_12.png" x="926" y="949" w="36" h="34" oX="0" oY="32" oW="40" oH="66"/>
+    <sprite n="PuffShroom_13.png" x="888" y="919" w="36" h="34" oX="0" oY="32" oW="40" oH="66"/>
+    <sprite n="ScaredyShroomCry_00.png" x="761" y="786" w="37" h="51" oX="0" oY="44" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomCry_01.png" x="759" y="968" w="39" h="51" oX="0" oY="42" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomCry_02.png" x="838" y="890" w="41" h="49" oX="1" oY="40" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomCry_03.png" x="800" y="951" w="41" h="49" oX="1" oY="40" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomCry_04.png" x="843" y="768" w="41" h="49" oX="1" oY="40" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomCry_05.png" x="800" y="786" w="41" h="49" oX="1" oY="40" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomCry_06.png" x="706" y="982" w="51" h="39" oX="0" oY="42" oW="57" oH="81"/>
+    <sprite n="ScaredyShroomCry_07.png" x="706" y="739" w="39" h="51" oX="0" oY="42" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomCry_08.png" x="760" y="847" w="37" h="51" oX="0" oY="44" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomCry_09.png" x="723" y="700" w="51" h="37" oX="0" oY="44" oW="57" oH="81"/>
+    <sprite n="ScaredyShroomCry_10.png" x="670" y="700" w="51" h="37" oX="0" oY="44" oW="57" oH="81"/>
+    <sprite n="ScaredyShroomSleep_00.png" x="85" y="563" w="81" h="55" oX="0" oY="0" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomSleep_01.png" x="168" y="521" w="81" h="55" oX="0" oY="0" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomSleep_02.png" x="168" y="521" w="81" h="55" oX="0" oY="0" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomSleep_03.png" x="166" y="733" w="79" h="57" oX="0" oY="2" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomSleep_04.png" x="2" y="816" w="79" h="55" oX="0" oY="2" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomSleep_05.png" x="57" y="873" w="51" h="79" oX="1" oY="2" oW="57" oH="81"/>
+    <sprite n="ScaredyShroomSleep_06.png" x="57" y="873" w="51" h="79" oX="1" oY="2" oW="57" oH="81"/>
+    <sprite n="ScaredyShroomSleep_07.png" x="2" y="873" w="53" h="79" oX="0" oY="2" oW="57" oH="81"/>
+    <sprite n="ScaredyShroomSleep_08.png" x="413" y="684" w="77" h="53" oX="0" oY="4" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomSleep_09.png" x="492" y="684" w="75" h="53" oX="0" oY="6" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomSleep_10.png" x="2" y="529" w="81" h="55" oX="0" oY="0" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomSleep_11.png" x="85" y="506" w="81" h="55" oX="0" oY="0" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomSleep_12.png" x="85" y="449" w="81" h="55" oX="1" oY="0" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomSleep_13.png" x="248" y="680" w="79" h="57" oX="0" oY="2" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomSleep_14.png" x="84" y="772" w="79" h="55" oX="1" oY="2" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroomSleep_15.png" x="579" y="583" w="79" h="53" oX="1" oY="2" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroom_00.png" x="395" y="952" w="49" h="69" oX="1" oY="12" oW="57" oH="81"/>
+    <sprite n="ScaredyShroom_01.png" x="344" y="952" w="49" h="69" oX="1" oY="12" oW="57" oH="81"/>
+    <sprite n="ScaredyShroom_02.png" x="344" y="952" w="49" h="69" oX="1" oY="12" oW="57" oH="81"/>
+    <sprite n="ScaredyShroom_03.png" x="436" y="739" w="67" h="51" oX="0" oY="14" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroom_04.png" x="367" y="739" w="67" h="51" oX="0" oY="14" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroom_05.png" x="247" y="739" w="67" h="51" oX="0" oY="14" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroom_06.png" x="639" y="739" w="65" h="51" oX="0" oY="16" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroom_07.png" x="626" y="792" w="51" h="65" oX="0" oY="16" oW="57" oH="81"/>
+    <sprite n="ScaredyShroom_08.png" x="585" y="860" w="51" h="65" oX="0" oY="16" oW="57" oH="81"/>
+    <sprite n="ScaredyShroom_09.png" x="572" y="739" w="65" h="51" oX="0" oY="16" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroom_10.png" x="505" y="739" w="65" h="51" oX="0" oY="16" oW="57" oH="81" r="y"/>
+    <sprite n="ScaredyShroom_11.png" x="533" y="792" w="49" h="67" oX="1" oY="14" oW="57" oH="81"/>
+    <sprite n="ScaredyShroom_12.png" x="482" y="792" w="49" h="67" oX="1" oY="14" oW="57" oH="81"/>
+    <sprite n="ScaredyShroom_13.png" x="497" y="948" w="49" h="67" oX="1" oY="14" oW="57" oH="81"/>
+    <sprite n="ScaredyShroom_14.png" x="446" y="952" w="49" h="67" oX="1" oY="14" oW="57" oH="81"/>
+    <sprite n="ScaredyShroom_15.png" x="293" y="952" w="49" h="69" oX="1" oY="12" oW="57" oH="81"/>
+    <sprite n="ScaredyShroom_16.png" x="242" y="953" w="49" h="69" oX="1" oY="12" oW="57" oH="81"/>
+    <sprite n="SeaShroomSleep_00.png" x="2" y="95" w="95" h="44" oX="1" oY="1" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_01.png" x="309" y="44" w="97" h="42" oX="4" oY="1" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_02.png" x="311" y="2" w="99" h="40" oX="5" oY="0" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_03.png" x="99" y="95" w="95" h="42" oX="3" oY="2" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_04.png" x="609" y="91" w="93" h="44" oX="1" oY="2" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_05.png" x="447" y="343" w="85" h="46" oX="1" oY="8" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_06.png" x="505" y="95" w="91" h="46" oX="1" oY="1" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_07.png" x="598" y="137" w="89" h="48" oX="0" oY="1" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_08.png" x="795" y="91" w="89" h="48" oX="0" oY="2" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_09.png" x="689" y="141" w="89" h="46" oX="1" oY="3" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_10.png" x="897" y="85" w="93" h="46" oX="1" oY="1" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_11.png" x="307" y="88" w="95" h="44" oX="1" oY="0" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_12.png" x="210" y="44" w="97" h="42" oX="4" oY="1" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_13.png" x="210" y="2" w="99" h="40" oX="5" oY="0" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_14.png" x="412" y="2" w="97" h="42" oX="3" oY="1" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_15.png" x="210" y="88" w="95" h="44" oX="1" oY="1" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_16.png" x="886" y="133" w="89" h="46" oX="1" oY="4" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_17.png" x="360" y="331" w="85" h="48" oX="0" oY="7" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_18.png" x="704" y="91" w="89" h="48" oX="0" oY="1" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_19.png" x="404" y="129" w="89" h="48" oX="0" oY="2" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_20.png" x="495" y="143" w="89" h="46" oX="1" oY="2" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroomSleep_21.png" x="764" y="222" w="87" h="44" oX="2" oY="7" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_00.png" x="83" y="829" w="55" h="42" oX="3" oY="43" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_01.png" x="776" y="706" w="57" h="40" oX="5" oY="42" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_02.png" x="706" y="925" w="40" h="55" oX="5" oY="44" oW="48" oH="99"/>
+    <sprite n="SeaShroom_03.png" x="778" y="664" w="57" h="40" oX="5" oY="42" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_04.png" x="748" y="913" w="42" h="53" oX="3" oY="45" oW="48" oH="99"/>
+    <sprite n="SeaShroom_05.png" x="717" y="792" w="42" h="53" oX="3" oY="44" oW="48" oH="99"/>
+    <sprite n="SeaShroom_06.png" x="716" y="858" w="42" h="53" oX="3" oY="44" oW="48" oH="99"/>
+    <sprite n="SeaShroom_07.png" x="550" y="638" w="51" h="44" oX="2" oY="44" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_08.png" x="799" y="839" w="44" h="49" oX="2" oY="45" oW="48" oH="99"/>
+    <sprite n="SeaShroom_09.png" x="975" y="863" w="47" h="46" oX="1" oY="46" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_10.png" x="975" y="863" w="47" h="46" oX="1" oY="46" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_11.png" x="886" y="768" w="45" h="48" oX="0" oY="47" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_12.png" x="974" y="911" w="46" h="43" oX="1" oY="49" oW="48" oH="99"/>
+    <sprite n="SeaShroom_13.png" x="892" y="818" w="43" h="48" oX="0" oY="48" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_14.png" x="881" y="869" w="43" h="48" oX="0" oY="47" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_15.png" x="843" y="941" w="43" h="48" oX="0" oY="47" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_16.png" x="845" y="819" w="45" h="48" oX="0" oY="46" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_17.png" x="926" y="902" w="46" h="45" oX="1" oY="47" oW="48" oH="99"/>
+    <sprite n="SeaShroom_18.png" x="977" y="133" w="45" h="48" oX="0" oY="47" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_19.png" x="975" y="815" w="47" h="46" oX="1" oY="46" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_20.png" x="933" y="739" w="46" h="47" oX="1" oY="46" oW="48" oH="99"/>
+    <sprite n="SeaShroom_21.png" x="792" y="900" w="44" h="49" oX="2" oY="45" oW="48" oH="99"/>
+    <sprite n="SeaShroom_22.png" x="497" y="638" w="51" h="44" oX="2" oY="44" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_23.png" x="140" y="829" w="53" h="42" oX="3" oY="43" oW="48" oH="99" r="y"/>
+    <sprite n="SeaShroom_24.png" x="140" y="829" w="53" h="42" oX="3" oY="43" oW="48" oH="99" r="y"/>
+    <sprite n="Threepeater_00.png" x="84" y="699" w="80" h="71" oX="1" oY="0" oW="73" oH="80" r="y"/>
+    <sprite n="Threepeater_01.png" x="195" y="792" w="73" h="78" oX="0" oY="2" oW="73" oH="80"/>
+    <sprite n="Threepeater_02.png" x="2" y="745" w="80" h="69" oX="2" oY="0" oW="73" oH="80" r="y"/>
+    <sprite n="Threepeater_03.png" x="497" y="569" w="80" h="67" oX="3" oY="0" oW="73" oH="80" r="y"/>
+    <sprite n="Threepeater_04.png" x="603" y="638" w="65" h="76" oX="5" oY="3" oW="73" oH="80"/>
+    <sprite n="Threepeater_05.png" x="400" y="872" w="65" h="78" oX="5" oY="1" oW="73" oH="80"/>
+    <sprite n="Threepeater_06.png" x="264" y="872" w="67" h="78" oX="3" oY="1" oW="73" oH="80"/>
+    <sprite n="Threepeater_07.png" x="415" y="548" w="80" h="67" oX="2" oY="0" oW="73" oH="80" r="y"/>
+    <sprite n="Threepeater_08.png" x="82" y="954" w="78" h="67" oX="2" oY="1" oW="73" oH="80" r="y"/>
+    <sprite n="Threepeater_09.png" x="162" y="953" w="78" h="69" oX="0" oY="1" oW="73" oH="80" r="y"/>
+    <sprite n="Threepeater_10.png" x="415" y="617" w="80" h="65" oX="3" oY="0" oW="73" oH="80" r="y"/>
+    <sprite n="Threepeater_11.png" x="337" y="792" w="65" h="78" oX="4" oY="1" oW="73" oH="80"/>
+    <sprite n="Threepeater_12.png" x="333" y="872" w="65" h="78" oX="4" oY="1" oW="73" oH="80"/>
+    <sprite n="Threepeater_13.png" x="270" y="792" w="65" h="78" oX="5" oY="1" oW="73" oH="80"/>
+    <sprite n="Threepeater_14.png" x="2" y="954" w="78" h="67" oX="4" oY="1" oW="73" oH="80" r="y"/>
+    <sprite n="Threepeater_15.png" x="515" y="404" w="69" h="80" oX="2" oY="0" oW="73" oH="80"/>
+</TextureAtlas>

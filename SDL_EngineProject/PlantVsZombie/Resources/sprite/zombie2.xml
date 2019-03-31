@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:c49d679cb47abe325bdb768fbabeed4d$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="zombie2.png" width="2048" height="1024">
+    <sprite n="BoomDie_00.png" x="470" y="910" w="70" h="112" oX="69" oY="29" oW="166" oH="144"/>
+    <sprite n="BoomDie_01.png" x="398" y="910" w="70" h="112" oX="69" oY="29" oW="166" oH="144"/>
+    <sprite n="BoomDie_02.png" x="732" y="366" w="112" h="70" oX="69" oY="29" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie_03.png" x="470" y="910" w="70" h="112" oX="69" oY="29" oW="166" oH="144"/>
+    <sprite n="BoomDie_04.png" x="454" y="586" w="70" h="112" oX="69" oY="29" oW="166" oH="144"/>
+    <sprite n="BoomDie_05.png" x="470" y="910" w="70" h="112" oX="69" oY="29" oW="166" oH="144"/>
+    <sprite n="BoomDie_06.png" x="320" y="910" w="76" h="112" oX="69" oY="30" oW="166" oH="144"/>
+    <sprite n="BoomDie_07.png" x="694" y="724" w="76" h="112" oX="69" oY="30" oW="166" oH="144"/>
+    <sprite n="BoomDie_08.png" x="614" y="722" w="78" h="112" oX="68" oY="30" oW="166" oH="144"/>
+    <sprite n="BoomDie_09.png" x="1504" y="554" w="78" h="114" oX="68" oY="29" oW="166" oH="144"/>
+    <sprite n="BoomDie_10.png" x="1208" y="466" w="78" h="114" oX="69" oY="29" oW="166" oH="144"/>
+    <sprite n="BoomDie_11.png" x="772" y="722" w="78" h="114" oX="69" oY="29" oW="166" oH="144"/>
+    <sprite n="BoomDie_12.png" x="1070" y="802" w="80" h="114" oX="68" oY="29" oW="166" oH="144"/>
+    <sprite n="BoomDie_13.png" x="1042" y="720" w="114" h="80" oX="68" oY="29" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie_14.png" x="1092" y="638" w="114" h="80" oX="68" oY="29" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie_15.png" x="1092" y="556" w="114" h="80" oX="68" oY="29" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie_16.png" x="1208" y="582" w="78" h="88" oX="70" oY="55" oW="166" oH="144"/>
+    <sprite n="BoomDie_17.png" x="1208" y="672" w="78" h="46" oX="70" oY="97" oW="166" oH="144"/>
+    <sprite n="BoomDie_18.png" x="360" y="830" w="52" h="78" oX="70" oY="91" oW="166" oH="144" r="y"/>
+    <sprite n="BoomDie_19.png" x="652" y="388" w="78" h="48" oX="70" oY="95" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieAttack_00.png" x="1544" y="2" w="142" h="84" oX="82" oY="2" oW="166" oH="144" r="y"/>
+    <sprite n="ConeheadZombieAttack_01.png" x="1398" y="2" w="144" h="82" oX="84" oY="0" oW="166" oH="144" r="y"/>
+    <sprite n="ConeheadZombieAttack_02.png" x="98" y="468" w="86" h="144" oX="80" oY="0" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieAttack_03.png" x="820" y="2" w="142" h="88" oX="78" oY="2" oW="166" oH="144" r="y"/>
+    <sprite n="ConeheadZombieAttack_04.png" x="292" y="166" w="82" h="140" oX="84" oY="4" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieAttack_05.png" x="652" y="244" w="78" h="142" oX="88" oY="2" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieAttack_06.png" x="1830" y="84" w="144" h="78" oX="88" oY="0" oW="166" oH="144" r="y"/>
+    <sprite n="ConeheadZombieAttack_07.png" x="1252" y="2" w="144" h="82" oX="84" oY="0" oW="166" oH="144" r="y"/>
+    <sprite n="ConeheadZombieAttack_08.png" x="2" y="628" w="88" h="142" oX="78" oY="2" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieAttack_09.png" x="676" y="2" w="142" h="88" oX="78" oY="2" oW="166" oH="144" r="y"/>
+    <sprite n="ConeheadZombieAttack_10.png" x="1688" y="2" w="140" h="88" oX="78" oY="4" oW="166" oH="144" r="y"/>
+    <sprite n="ConeheadZombieWalk_00.png" x="924" y="92" w="76" h="138" oX="80" oY="5" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieWalk_01.png" x="772" y="438" w="72" h="140" oX="82" oY="3" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieWalk_02.png" x="1976" y="146" w="70" h="142" oX="82" oY="1" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieWalk_03.png" x="204" y="100" w="144" h="64" oX="86" oY="0" oW="166" oH="144" r="y"/>
+    <sprite n="ConeheadZombieWalk_04.png" x="360" y="98" w="144" h="66" oX="85" oY="0" oW="166" oH="144" r="y"/>
+    <sprite n="ConeheadZombieWalk_05.png" x="506" y="98" w="144" h="68" oX="84" oY="0" oW="166" oH="144" r="y"/>
+    <sprite n="ConeheadZombieWalk_06.png" x="1976" y="2" w="70" h="142" oX="84" oY="2" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieWalk_07.png" x="98" y="614" w="142" h="72" oX="83" oY="2" oW="166" oH="144" r="y"/>
+    <sprite n="ConeheadZombieWalk_08.png" x="694" y="438" w="76" h="142" oX="81" oY="2" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieWalk_09.png" x="570" y="168" w="80" h="142" oX="81" oY="2" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieWalk_10.png" x="964" y="2" w="142" h="86" oX="79" oY="2" oW="166" oH="144" r="y"/>
+    <sprite n="ConeheadZombieWalk_11.png" x="2" y="772" w="88" h="140" oX="78" oY="3" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieWalk_12.png" x="1108" y="2" w="142" h="84" oX="80" oY="1" oW="166" oH="144" r="y"/>
+    <sprite n="ConeheadZombieWalk_13.png" x="1830" y="2" w="144" h="80" oX="81" oY="0" oW="166" oH="144" r="y"/>
+    <sprite n="ConeheadZombieWalk_14.png" x="652" y="98" w="76" h="144" oX="82" oY="0" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieWalk_15.png" x="186" y="468" w="72" h="144" oX="81" oY="0" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieWalk_16.png" x="454" y="442" w="68" h="142" oX="82" oY="1" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieWalk_17.png" x="846" y="366" w="66" h="140" oX="82" oY="3" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieWalk_18.png" x="620" y="438" w="72" h="140" oX="82" oY="3" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieWalk_19.png" x="772" y="580" w="74" h="140" oX="81" oY="3" oW="166" oH="144"/>
+    <sprite n="ConeheadZombieWalk_20.png" x="218" y="832" w="140" h="76" oX="80" oY="3" oW="166" oH="144" r="y"/>
+    <sprite n="PaperZombieAttack0_00.png" x="1656" y="184" w="116" h="96" oX="48" oY="41" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieAttack0_01.png" x="1288" y="462" w="90" h="120" oX="54" oY="37" oW="216" oH="164"/>
+    <sprite n="PaperZombieAttack0_02.png" x="1286" y="86" w="94" h="124" oX="50" oY="34" oW="216" oH="164"/>
+    <sprite n="PaperZombieAttack0_03.png" x="288" y="308" w="88" h="132" oX="57" oY="26" oW="216" oH="164"/>
+    <sprite n="PaperZombieAttack0_04.png" x="280" y="688" w="76" h="142" oX="71" oY="15" oW="216" oH="164"/>
+    <sprite n="PaperZombieAttack0_05.png" x="1002" y="90" w="98" h="122" oX="46" oY="36" oW="216" oH="164"/>
+    <sprite n="PaperZombieAttack0_06.png" x="218" y="910" w="100" h="112" oX="44" oY="45" oW="216" oH="164"/>
+    <sprite n="PaperZombieAttack1_00.png" x="694" y="582" w="76" h="140" oX="71" oY="17" oW="216" oH="164"/>
+    <sprite n="PaperZombieAttack1_01.png" x="98" y="914" w="116" h="98" oX="48" oY="41" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieAttack1_02.png" x="542" y="910" w="100" h="110" oX="46" oY="47" oW="216" oH="164"/>
+    <sprite n="PaperZombieAttack1_03.png" x="260" y="570" w="96" h="116" oX="50" oY="41" oW="216" oH="164"/>
+    <sprite n="PaperZombieAttack1_04.png" x="1356" y="212" w="118" h="92" oX="54" oY="39" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieAttack1_05.png" x="444" y="700" w="84" h="132" oX="62" oY="26" oW="216" oH="164"/>
+    <sprite n="PaperZombieAttack1_06.png" x="914" y="364" w="78" h="138" oX="68" oY="19" oW="216" oH="164"/>
+    <sprite n="PaperZombieAttack1_07.png" x="616" y="580" w="76" h="140" oX="72" oY="17" oW="216" oH="164"/>
+    <sprite n="PaperZombieHeadWalk0_00.png" x="524" y="438" w="94" h="126" oX="42" oY="32" oW="216" oH="164"/>
+    <sprite n="PaperZombieHeadWalk0_01.png" x="186" y="688" w="92" h="128" oX="43" oY="30" oW="216" oH="164"/>
+    <sprite n="PaperZombieHeadWalk0_02.png" x="904" y="232" w="88" h="130" oX="44" oY="28" oW="216" oH="164"/>
+    <sprite n="PaperZombieHeadWalk0_03.png" x="376" y="166" w="90" h="136" oX="46" oY="22" oW="216" oH="164"/>
+    <sprite n="PaperZombieHeadWalk0_04.png" x="194" y="166" w="96" h="134" oX="43" oY="24" oW="216" oH="164"/>
+    <sprite n="PaperZombieHeadWalk0_05.png" x="468" y="168" w="100" h="126" oX="41" oY="32" oW="216" oH="164"/>
+    <sprite n="PaperZombieHeadWalk0_06.png" x="822" y="92" w="100" h="122" oX="40" oY="36" oW="216" oH="164"/>
+    <sprite n="PaperZombieHeadWalk0_07.png" x="356" y="442" w="96" h="124" oX="40" oY="34" oW="216" oH="164"/>
+    <sprite n="PaperZombieHeadWalk0_08.png" x="526" y="566" w="88" h="130" oX="43" oY="28" oW="216" oH="164"/>
+    <sprite n="PaperZombieHeadWalk0_09.png" x="358" y="692" w="84" h="136" oX="47" oY="22" oW="216" oH="164"/>
+    <sprite n="PaperZombieHeadWalk0_10.png" x="378" y="304" w="88" h="136" oX="47" oY="22" oW="216" oH="164"/>
+    <sprite n="PaperZombieHeadWalk0_11.png" x="1168" y="214" w="94" h="124" oX="44" oY="34" oW="216" oH="164"/>
+    <sprite n="PaperZombieHeadWalk0_12.png" x="358" y="568" w="94" h="122" oX="43" oY="36" oW="216" oH="164"/>
+    <sprite n="PaperZombieHeadWalk0_13.png" x="852" y="712" w="94" h="124" oX="43" oY="34" oW="216" oH="164"/>
+    <sprite n="PaperZombieHead_00.png" x="1540" y="380" w="52" h="48" oX="69" oY="11" oW="216" oH="164"/>
+    <sprite n="PaperZombieHead_01.png" x="1594" y="380" w="44" h="48" oX="91" oY="0" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieHead_02.png" x="1594" y="380" w="44" h="48" oX="91" oY="0" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieHead_03.png" x="1970" y="376" w="74" h="52" oX="106" oY="0" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieHead_04.png" x="1602" y="180" w="52" h="102" oX="114" oY="0" oW="216" oH="164"/>
+    <sprite n="PaperZombieHead_05.png" x="1476" y="86" w="64" h="92" oX="127" oY="60" oW="216" oH="164"/>
+    <sprite n="PaperZombieHead_06.png" x="600" y="836" w="52" h="72" oX="131" oY="97" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieHead_07.png" x="1026" y="574" w="52" h="76" oX="133" oY="105" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieHead_08.png" x="1024" y="496" w="54" h="76" oX="134" oY="108" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieHead_09.png" x="1502" y="670" w="80" h="52" oX="133" oY="110" oW="216" oH="164"/>
+    <sprite n="PaperZombieIdle_00.png" x="1382" y="86" w="92" h="124" oX="56" oY="34" oW="216" oH="164"/>
+    <sprite n="PaperZombieIdle_01.png" x="1102" y="90" w="92" h="122" oX="56" oY="36" oW="216" oH="164"/>
+    <sprite n="PaperZombieIdle_02.png" x="1102" y="90" w="92" h="122" oX="56" oY="36" oW="216" oH="164"/>
+    <sprite n="PaperZombieIdle_03.png" x="1380" y="554" w="122" h="90" oX="58" oY="36" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieIdle_04.png" x="1380" y="554" w="122" h="90" oX="58" oY="36" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieIdle_05.png" x="1472" y="430" w="90" h="122" oX="58" oY="36" oW="216" oH="164"/>
+    <sprite n="PaperZombieIdle_06.png" x="1472" y="430" w="90" h="122" oX="58" oY="36" oW="216" oH="164"/>
+    <sprite n="PaperZombieIdle_07.png" x="1448" y="306" w="90" h="122" oX="58" oY="36" oW="216" oH="164"/>
+    <sprite n="PaperZombieIdle_08.png" x="1448" y="306" w="90" h="122" oX="58" oY="36" oW="216" oH="164"/>
+    <sprite n="PaperZombieIdle_09.png" x="1380" y="430" w="90" h="122" oX="58" oY="36" oW="216" oH="164"/>
+    <sprite n="PaperZombieIdle_10.png" x="1356" y="306" w="90" h="122" oX="58" oY="36" oW="216" oH="164"/>
+    <sprite n="PaperZombieIdle_11.png" x="1476" y="180" w="124" h="90" oX="58" oY="34" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieIdle_12.png" x="1476" y="180" w="124" h="90" oX="58" oY="34" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieIdle_13.png" x="1668" y="92" w="124" h="90" oX="58" oY="34" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieIdle_14.png" x="1082" y="466" w="124" h="88" oX="60" oY="34" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieIdle_15.png" x="1174" y="340" w="88" h="124" oX="60" oY="34" oW="216" oH="164"/>
+    <sprite n="PaperZombieIdle_16.png" x="1542" y="88" w="124" h="90" oX="58" oY="34" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieIdle_17.png" x="1542" y="88" w="124" h="90" oX="58" oY="34" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieIdle_18.png" x="948" y="708" w="92" h="124" oX="56" oY="34" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadAttack0_00.png" x="932" y="504" w="90" h="74" oX="66" oY="68" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadAttack0_01.png" x="920" y="922" w="80" h="100" oX="61" oY="57" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadAttack0_02.png" x="1772" y="644" w="88" h="98" oX="53" oY="60" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadAttack0_03.png" x="1818" y="824" w="94" h="94" oX="47" oY="64" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadAttack0_04.png" x="1538" y="820" w="92" h="88" oX="52" oY="65" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadAttack0_05.png" x="846" y="508" w="84" h="70" oX="70" oY="73" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadAttack0_06.png" x="510" y="836" w="88" h="72" oX="69" oY="69" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadAttack1_00.png" x="1970" y="290" w="76" h="84" oX="66" oY="73" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadAttack1_01.png" x="1970" y="290" w="76" h="84" oX="66" oY="73" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadAttack1_02.png" x="414" y="834" w="94" h="74" oX="68" oY="63" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadAttack1_03.png" x="1380" y="646" w="120" h="76" oX="68" oY="37" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadAttack1_04.png" x="1438" y="820" w="98" h="88" oX="55" oY="60" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadAttack1_05.png" x="1632" y="820" w="94" h="88" oX="55" oY="64" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadAttack1_06.png" x="1728" y="820" w="80" h="88" oX="63" oY="69" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadAttack1_07.png" x="990" y="834" w="78" h="86" oX="64" oY="71" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk0_00.png" x="1152" y="812" w="98" h="96" oX="46" oY="62" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk0_01.png" x="1152" y="812" w="98" h="96" oX="46" oY="62" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk0_02.png" x="828" y="922" w="90" h="100" oX="43" oY="68" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk0_03.png" x="1380" y="724" w="98" h="92" oX="43" oY="66" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk0_04.png" x="1252" y="812" w="84" h="96" oX="48" oY="62" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk0_05.png" x="1680" y="572" w="84" h="98" oX="52" oY="60" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk0_06.png" x="1772" y="364" w="98" h="90" oX="51" oY="60" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk0_07.png" x="1872" y="164" w="96" h="96" oX="48" oY="62" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk0_08.png" x="1584" y="630" w="94" h="92" oX="47" oY="66" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk0_09.png" x="1860" y="544" w="94" h="94" oX="47" oY="64" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk0_10.png" x="1676" y="724" w="94" h="94" oX="46" oY="64" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk0_11.png" x="1288" y="684" w="90" h="96" oX="48" oY="62" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk0_12.png" x="1540" y="284" w="98" h="94" oX="49" oY="60" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk0_13.png" x="1362" y="910" w="88" h="98" oX="51" oY="60" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk0_14.png" x="1872" y="448" w="96" h="94" oX="48" oY="62" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk0_15.png" x="736" y="922" w="90" h="100" oX="45" oY="68" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk1_00.png" x="1956" y="544" w="90" h="94" oX="50" oY="64" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_01.png" x="1680" y="378" w="90" h="94" oX="50" oY="63" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_02.png" x="1916" y="918" w="88" h="96" oX="51" oY="62" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_03.png" x="1862" y="734" w="96" h="88" oX="51" oY="62" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk1_04.png" x="1772" y="456" w="98" h="86" oX="51" oY="60" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk1_05.png" x="1730" y="910" w="86" h="98" oX="51" oY="60" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_06.png" x="1584" y="530" w="84" h="98" oX="50" oY="60" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_07.png" x="1772" y="282" w="98" h="80" oX="53" oY="60" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk1_08.png" x="890" y="838" w="98" h="82" oX="53" oY="60" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk1_09.png" x="1564" y="430" w="86" h="98" oX="51" oY="60" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_10.png" x="1288" y="584" w="90" h="98" oX="51" oY="60" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_11.png" x="1766" y="544" w="92" h="98" oX="50" oY="60" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_12.png" x="1634" y="910" w="94" h="98" oX="49" oY="60" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_13.png" x="1670" y="474" w="94" h="96" oX="49" oY="62" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_14.png" x="1774" y="184" w="96" h="96" oX="49" oY="62" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_15.png" x="1480" y="724" w="98" h="94" oX="48" oY="64" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_16.png" x="2" y="914" w="94" h="102" oX="44" oY="64" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk1_17.png" x="1092" y="918" w="92" h="102" oX="43" oY="66" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk1_18.png" x="644" y="922" w="90" h="100" oX="44" oY="68" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk1_19.png" x="1158" y="720" w="102" h="90" oX="42" oY="68" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_20.png" x="1338" y="818" w="98" h="90" oX="45" oY="68" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_21.png" x="1338" y="818" w="98" h="90" oX="45" oY="68" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_22.png" x="1862" y="640" w="96" h="92" oX="46" oY="66" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_23.png" x="1580" y="724" w="94" h="94" oX="46" oY="64" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_24.png" x="1818" y="920" w="96" h="92" oX="46" oY="62" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk1_25.png" x="1872" y="358" w="96" h="88" oX="48" oY="62" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk1_26.png" x="1960" y="640" w="86" h="96" oX="48" oY="62" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_27.png" x="1276" y="910" w="84" h="98" oX="51" oY="60" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_28.png" x="790" y="838" w="98" h="82" oX="54" oY="60" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk1_29.png" x="1452" y="910" w="86" h="98" oX="52" oY="60" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_30.png" x="1186" y="910" w="88" h="98" oX="51" oY="60" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_31.png" x="1002" y="922" w="88" h="98" oX="53" oY="60" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_32.png" x="1540" y="910" w="92" h="98" oX="50" oY="60" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_33.png" x="1872" y="262" w="96" h="94" oX="50" oY="61" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk1_34.png" x="1872" y="262" w="96" h="94" oX="50" oY="61" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostHeadWalk1_35.png" x="1680" y="282" w="90" h="94" oX="53" oY="64" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostHeadWalk1_36.png" x="1914" y="824" w="90" h="92" oX="52" oY="65" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostNewspaper_00.png" x="98" y="2" w="104" h="148" oX="33" oY="10" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostNewspaper_01.png" x="204" y="2" w="154" h="96" oX="41" oY="4" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostNewspaper_02.png" x="2" y="2" w="94" h="160" oX="43" oY="0" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostNewspaper_03.png" x="518" y="2" w="156" h="94" oX="43" oY="2" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostNewspaper_04.png" x="98" y="310" w="94" h="156" oX="43" oY="2" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostNewspaper_05.png" x="2" y="322" w="94" h="156" oX="43" oY="2" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostNewspaper_06.png" x="360" y="2" w="156" h="94" oX="43" oY="2" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieLostNewspaper_07.png" x="98" y="152" w="94" h="156" oX="43" oY="2" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostNewspaper_08.png" x="2" y="164" w="94" h="156" oX="43" oY="2" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostNewspaper_09.png" x="2" y="480" w="94" h="146" oX="43" oY="12" oW="216" oH="164"/>
+    <sprite n="PaperZombieLostNewspaper_10.png" x="260" y="442" w="94" h="126" oX="43" oY="32" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_00.png" x="92" y="818" w="124" h="94" oX="47" oY="34" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieWalk1_01.png" x="934" y="580" w="90" h="126" oX="49" oY="32" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_02.png" x="820" y="232" w="82" h="132" oX="51" oY="26" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_03.png" x="530" y="698" w="82" h="136" oX="55" oY="22" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_04.png" x="468" y="296" w="86" h="138" oX="53" oY="20" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_05.png" x="730" y="92" w="90" h="134" oX="53" oY="24" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_06.png" x="92" y="688" w="92" h="128" oX="52" oY="29" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_07.png" x="1082" y="340" w="90" h="124" oX="52" oY="34" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_08.png" x="1264" y="338" w="90" h="122" oX="52" oY="36" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_09.png" x="1264" y="214" w="90" h="122" oX="52" oY="36" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_10.png" x="1076" y="214" w="90" h="124" oX="51" oY="34" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_11.png" x="1196" y="88" w="88" h="124" oX="53" oY="34" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_12.png" x="994" y="366" w="86" h="128" oX="53" oY="30" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_13.png" x="848" y="580" w="84" h="130" oX="54" oY="28" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_14.png" x="994" y="232" w="80" h="132" oX="54" oY="26" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_15.png" x="654" y="838" w="134" h="82" oX="53" oY="24" oW="216" oH="164" r="y"/>
+    <sprite n="PaperZombieWalk1_16.png" x="732" y="228" w="86" h="136" oX="54" oY="22" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_17.png" x="194" y="302" w="92" h="136" oX="51" oY="22" oW="216" oH="164"/>
+    <sprite n="PaperZombieWalk1_18.png" x="556" y="312" w="94" h="124" oX="47" oY="34" oW="216" oH="164"/>
+</TextureAtlas>

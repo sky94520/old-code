@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <!--角色行走动画名称 格式-->
+    <key>character_walking_animation_name_format</key>
+    <string>%s_%s</string>
+    <key>bool</key>
+    <true/>
+    <!--角色行走方向 字符串映射-->
+    <key>character_direction_str_vector</key>
+    <array>
+      <string>Up</string>
+      <string>Down</string>
+      <string>Left</string>
+      <string>Right</string>
+    </array>
+  </dict>
+</plist>

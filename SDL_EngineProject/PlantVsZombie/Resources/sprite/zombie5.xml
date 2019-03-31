@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:7763af3af4472aadc2396c865a5db6d0$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="zombie5.png" width="1024" height="1024">
+    <sprite n="FootballZombieWalk_00.png" x="2" y="2" w="142" h="156" oX="9" oY="4" oW="154" oH="160"/>
+    <sprite n="FootballZombieWalk_01.png" x="2" y="468" w="128" h="146" oX="8" oY="3" oW="154" oH="160" r="y"/>
+    <sprite n="FootballZombieWalk_02.png" x="130" y="616" w="124" h="140" oX="0" oY="28" oW="154" oH="160" r="y"/>
+    <sprite n="FootballZombieWalk_03.png" x="344" y="575" w="126" h="132" oX="5" oY="27" oW="154" oH="160" r="y"/>
+    <sprite n="FootballZombieWalk_04.png" x="218" y="758" w="130" h="138" oX="7" oY="19" oW="154" oH="160"/>
+    <sprite n="FootballZombieWalk_05.png" x="2" y="160" w="138" h="154" oX="9" oY="5" oW="154" oH="160"/>
+    <sprite n="FootballZombieWalk_06.png" x="2" y="760" w="126" h="142" oX="12" oY="0" oW="154" oH="160" r="y"/>
+    <sprite n="FootballZombieWalk_07.png" x="2" y="616" w="126" h="142" oX="6" oY="16" oW="154" oH="160" r="y"/>
+    <sprite n="FootballZombieWalk_08.png" x="324" y="2" w="126" h="132" oX="0" oY="34" oW="154" oH="160" r="y"/>
+    <sprite n="FootballZombieWalk_09.png" x="320" y="139" w="130" h="132" oX="0" oY="28" oW="154" oH="160"/>
+    <sprite n="FootballZombieWalk_10.png" x="2" y="316" w="136" h="150" oX="7" oY="10" oW="154" oH="160"/>
+    <sprite n="ScreenDoorZombieAttack_00.png" x="318" y="280" w="86" h="135" oX="45" oY="22" oW="166" oH="157"/>
+    <sprite n="ScreenDoorZombieAttack_01.png" x="310" y="438" w="86" h="135" oX="45" oY="22" oW="166" oH="157"/>
+    <sprite n="ScreenDoorZombieAttack_02.png" x="256" y="594" w="86" h="135" oX="45" oY="22" oW="166" oH="157"/>
+    <sprite n="ScreenDoorZombieAttack_03.png" x="142" y="160" w="88" h="137" oX="43" oY="20" oW="166" oH="157"/>
+    <sprite n="ScreenDoorZombieAttack_04.png" x="130" y="758" w="86" h="139" oX="45" oY="18" oW="166" oH="157"/>
+    <sprite n="ScreenDoorZombieAttack_05.png" x="232" y="141" w="86" h="137" oX="45" oY="20" oW="166" oH="157"/>
+    <sprite n="ScreenDoorZombieAttack_06.png" x="230" y="299" w="86" h="137" oX="45" oY="20" oW="166" oH="157"/>
+    <sprite n="ScreenDoorZombieAttack_07.png" x="234" y="2" w="88" h="135" oX="43" oY="22" oW="166" oH="157"/>
+    <sprite n="ScreenDoorZombieAttack_08.png" x="140" y="316" w="88" h="137" oX="43" oY="20" oW="166" oH="157"/>
+    <sprite n="ScreenDoorZombieAttack_09.png" x="132" y="468" w="88" h="137" oX="43" oY="20" oW="166" oH="157"/>
+    <sprite n="ScreenDoorZombieAttack_10.png" x="222" y="455" w="86" h="137" oX="45" oY="20" oW="166" oH="157"/>
+    <sprite n="ScreenDoorZombieAttack_11.png" x="146" y="2" w="86" h="137" oX="45" oY="20" oW="166" oH="157"/>
+    <sprite n="ScreenDoorZombieLostHeadAttack_00.png" x="676" y="306" w="86" h="110" oX="49" oY="48" oW="166" oH="158"/>
+    <sprite n="ScreenDoorZombieLostHeadAttack_01.png" x="676" y="194" w="86" h="110" oX="49" oY="48" oW="166" oH="158"/>
+    <sprite n="ScreenDoorZombieLostHeadAttack_02.png" x="764" y="280" w="110" h="88" oX="47" oY="48" oW="166" oH="158" r="y"/>
+    <sprite n="ScreenDoorZombieLostHeadAttack_03.png" x="876" y="266" w="110" h="88" oX="46" oY="48" oW="166" oH="158" r="y"/>
+    <sprite n="ScreenDoorZombieLostHeadAttack_04.png" x="90" y="904" w="86" h="112" oX="48" oY="46" oW="166" oH="158"/>
+    <sprite n="ScreenDoorZombieLostHeadAttack_05.png" x="764" y="190" w="110" h="88" oX="47" oY="48" oW="166" oH="158" r="y"/>
+    <sprite n="ScreenDoorZombieLostHeadAttack_06.png" x="552" y="126" w="86" h="110" oX="49" oY="48" oW="166" oH="158"/>
+    <sprite n="ScreenDoorZombieLostHeadAttack_07.png" x="886" y="176" w="110" h="88" oX="47" oY="48" oW="166" oH="158" r="y"/>
+    <sprite n="ScreenDoorZombieLostHeadAttack_08.png" x="586" y="394" w="88" h="110" oX="47" oY="48" oW="166" oH="158"/>
+    <sprite n="ScreenDoorZombieLostHeadAttack_09.png" x="674" y="911" w="88" h="110" oX="46" oY="48" oW="166" oH="158"/>
+    <sprite n="ScreenDoorZombieLostHeadAttack_10.png" x="562" y="933" w="110" h="88" oX="46" oY="48" oW="166" oH="158" r="y"/>
+    <sprite n="ScreenDoorZombieLostHeadAttack_11.png" x="2" y="904" w="86" h="112" oX="48" oY="46" oW="166" oH="158"/>
+    <sprite n="ScreenDoorZombieLostHeadWalk_00.png" x="640" y="518" w="88" h="98" oX="48" oY="48" oW="166" oH="148"/>
+    <sprite n="ScreenDoorZombieLostHeadWalk_01.png" x="864" y="450" w="98" h="84" oX="48" oY="47" oW="166" oH="148" r="y"/>
+    <sprite n="ScreenDoorZombieLostHeadWalk_02.png" x="698" y="628" w="80" h="98" oX="50" oY="46" oW="166" oH="148"/>
+    <sprite n="ScreenDoorZombieLostHeadWalk_03.png" x="780" y="628" w="78" h="98" oX="50" oY="45" oW="166" oH="148"/>
+    <sprite n="ScreenDoorZombieLostHeadWalk_04.png" x="860" y="700" w="98" h="76" oX="50" oY="45" oW="166" oH="148" r="y"/>
+    <sprite n="ScreenDoorZombieLostHeadWalk_05.png" x="764" y="546" w="98" h="80" oX="49" oY="47" oW="166" oH="148" r="y"/>
+    <sprite n="ScreenDoorZombieLostHeadWalk_06.png" x="676" y="418" w="84" h="98" oX="48" oY="48" oW="166" oH="148"/>
+    <sprite n="ScreenDoorZombieLostHeadWalk_07.png" x="864" y="536" w="98" h="82" oX="49" oY="47" oW="166" oH="148" r="y"/>
+    <sprite n="ScreenDoorZombieLostHeadWalk_08.png" x="764" y="462" w="98" h="82" oX="48" oY="47" oW="166" oH="148" r="y"/>
+    <sprite n="ScreenDoorZombieLostHeadWalk_09.png" x="864" y="620" w="98" h="78" oX="47" oY="46" oW="166" oH="148" r="y"/>
+    <sprite n="ScreenDoorZombieLostHeadWalk_10.png" x="592" y="238" w="82" h="98" oX="47" oY="44" oW="166" oH="148"/>
+    <sprite n="ScreenDoorZombieLostHeadWalk_11.png" x="764" y="370" w="98" h="90" oX="45" oY="43" oW="166" oH="148" r="y"/>
+    <sprite n="ScreenDoorZombieLostHeadWalk_12.png" x="452" y="176" w="98" h="94" oX="46" oY="46" oW="166" oH="148" r="y"/>
+    <sprite n="ScreenDoorZombieLostHeadWalk_13.png" x="452" y="2" w="98" h="98" oX="44" oY="48" oW="166" oH="148"/>
+    <sprite n="ScreenDoorZombieLostHeadWalk_14.png" x="876" y="356" w="98" h="92" oX="46" oY="48" oW="166" oH="148" r="y"/>
+    <sprite n="ScreenDoorZombieWalk_00.png" x="500" y="272" w="90" h="120" oX="42" oY="23" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_01.png" x="552" y="2" w="86" h="122" oX="42" oY="20" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_02.png" x="612" y="659" w="84" h="124" oX="42" oY="18" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_03.png" x="556" y="531" w="82" h="126" oX="44" oY="15" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_04.png" x="524" y="677" w="86" h="126" oX="45" oY="15" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_05.png" x="350" y="709" w="88" h="128" oX="48" oY="12" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_06.png" x="406" y="273" w="92" h="128" oX="47" oY="12" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_07.png" x="398" y="417" w="96" h="128" oX="45" oY="12" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_08.png" x="284" y="898" w="100" h="124" oX="45" oY="16" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_09.png" x="178" y="899" w="104" h="122" oX="43" oY="18" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_10.png" x="764" y="86" w="120" h="102" oX="44" oY="20" oW="166" oH="144" r="y"/>
+    <sprite n="ScreenDoorZombieWalk_11.png" x="640" y="2" w="122" h="96" oX="48" oY="20" oW="166" oH="144" r="y"/>
+    <sprite n="ScreenDoorZombieWalk_12.png" x="764" y="2" w="124" h="82" oX="55" oY="19" oW="166" oH="144" r="y"/>
+    <sprite n="ScreenDoorZombieWalk_13.png" x="642" y="785" w="82" h="124" oX="53" oY="19" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_14.png" x="890" y="2" w="124" h="80" oX="52" oY="17" oW="166" oH="144" r="y"/>
+    <sprite n="ScreenDoorZombieWalk_15.png" x="562" y="805" w="78" h="126" oX="50" oY="15" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_16.png" x="472" y="547" w="82" h="128" oX="47" oY="13" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_17.png" x="440" y="709" w="82" h="128" oX="48" oY="13" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_18.png" x="386" y="839" w="86" h="128" oX="47" oY="13" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_19.png" x="474" y="839" w="86" h="126" oX="49" oY="15" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_20.png" x="496" y="403" w="88" h="126" oX="49" oY="18" oW="166" oH="144"/>
+    <sprite n="ScreenDoorZombieWalk_21.png" x="890" y="84" w="122" h="90" oX="47" oY="21" oW="166" oH="144" r="y"/>
+    <sprite n="ScreenDoorZombieWalk_22.png" x="640" y="100" w="120" h="92" oX="43" oY="23" oW="166" oH="144" r="y"/>
+</TextureAtlas>

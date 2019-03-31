@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="enemy3.png" width="104" height="35">
+	<sprite n="enemy3_0.png" x="0" y="0" w="35" h="35"/>
+	<sprite n="enemy3_1.png" x="35" y="0" w="35" h="35"/>
+	<sprite n="enemy3_2.png" x="70" y="0" w="34" h="35"/>
+</TextureAtlas>
+

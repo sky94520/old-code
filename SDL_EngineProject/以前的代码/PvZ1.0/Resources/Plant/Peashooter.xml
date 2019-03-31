@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:e5d50420da7d318a47bfbd18374a95b3$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="Peashooter.png" width="256" height="512">
+    <sprite n="Peashooter1.png" x="148" y="67" w="71" h="63" oX="3" oY="0" oW="71" oH="71" r="y"/>
+    <sprite n="Peashooter10.png" x="2" y="262" w="61" h="63" oX="0" oY="7" oW="71" oH="71"/>
+    <sprite n="Peashooter11.png" x="138" y="197" w="63" h="63" oX="0" oY="7" oW="71" oH="71"/>
+    <sprite n="Peashooter12.png" x="2" y="132" w="69" h="63" oX="0" oY="1" oW="71" oH="71" r="y"/>
+    <sprite n="Peashooter13.png" x="75" y="67" w="71" h="63" oX="0" oY="0" oW="71" oH="71" r="y"/>
+    <sprite n="Peashooter2.png" x="2" y="67" w="71" h="63" oX="4" oY="0" oW="71" oH="71" r="y"/>
+    <sprite n="Peashooter3.png" x="2" y="197" w="67" h="63" oX="6" oY="4" oW="71" oH="71" r="y"/>
+    <sprite n="Peashooter4.png" x="71" y="197" w="65" h="63" oX="7" oY="6" oW="71" oH="71" r="y"/>
+    <sprite n="Peashooter5.png" x="142" y="132" w="67" h="63" oX="5" oY="4" oW="71" oH="71" r="y"/>
+    <sprite n="Peashooter6.png" x="148" y="2" w="71" h="63" oX="3" oY="0" oW="71" oH="71" r="y"/>
+    <sprite n="Peashooter7.png" x="75" y="2" w="71" h="63" oX="1" oY="0" oW="71" oH="71" r="y"/>
+    <sprite n="Peashooter8.png" x="2" y="2" w="71" h="63" oX="0" oY="0" oW="71" oH="71" r="y"/>
+    <sprite n="Peashooter9.png" x="73" y="132" w="67" h="63" oX="0" oY="3" oW="71" oH="71" r="y"/>
+</TextureAtlas>

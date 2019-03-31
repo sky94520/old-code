@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:de6185a18afbfc0e8988871545e55a11$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="plant3.png" width="1024" height="1024">
+    <sprite n="CoffeeBeanEat_00.png" x="729" y="280" w="51" h="37" oX="0" oY="0" oW="39" oH="97" r="y"/>
+    <sprite n="CoffeeBeanEat_01.png" x="982" y="544" w="37" h="49" oX="0" oY="1" oW="39" oH="97"/>
+    <sprite n="CoffeeBeanEat_02.png" x="982" y="493" w="37" h="49" oX="0" oY="2" oW="39" oH="97"/>
+    <sprite n="CoffeeBeanEat_03.png" x="739" y="126" w="47" h="37" oX="0" oY="3" oW="39" oH="97" r="y"/>
+    <sprite n="CoffeeBeanEat_04.png" x="739" y="87" w="47" h="37" oX="0" oY="2" oW="39" oH="97" r="y"/>
+    <sprite n="CoffeeBeanEat_05.png" x="982" y="442" w="37" h="49" oX="0" oY="0" oW="39" oH="97"/>
+    <sprite n="CoffeeBeanEat_06.png" x="729" y="319" w="49" h="37" oX="0" oY="0" oW="39" oH="97" r="y"/>
+    <sprite n="CoffeeBeanEat_07.png" x="984" y="343" w="37" h="97" oX="0" oY="0" oW="39" oH="97"/>
+    <sprite n="CoffeeBeanEat_08.png" x="737" y="241" w="49" h="37" oX="0" oY="2" oW="39" oH="97" r="y"/>
+    <sprite n="CoffeeBeanEat_09.png" x="737" y="202" w="49" h="37" oX="0" oY="2" oW="39" oH="97" r="y"/>
+    <sprite n="CoffeeBeanEat_10.png" x="739" y="165" w="47" h="35" oX="2" oY="2" oW="39" oH="97" r="y"/>
+    <sprite n="CoffeeBeanEat_11.png" x="157" y="986" w="45" h="35" oX="2" oY="4" oW="39" oH="97" r="y"/>
+    <sprite n="CoffeeBeanEat_12.png" x="979" y="595" w="35" h="63" oX="1" oY="8" oW="39" oH="97"/>
+    <sprite n="CoffeeBeanEat_13.png" x="979" y="595" w="35" h="63" oX="1" oY="8" oW="39" oH="97"/>
+    <sprite n="CoffeeBeanEat_14.png" x="204" y="986" w="75" h="27" oX="10" oY="19" oW="39" oH="97" r="y"/>
+    <sprite n="CoffeeBeanEat_15.png" x="159" y="873" w="73" h="25" oX="11" oY="24" oW="39" oH="97" r="y"/>
+    <sprite n="CoffeeBeanEat_16.png" x="511" y="151" w="1" h="1" oX="0" oY="0" oW="39" oH="97"/>
+    <sprite n="Cornpult0_00.png" x="895" y="267" w="101" h="74" oX="26" oY="65" oW="131" oH="142"/>
+    <sprite n="Cornpult0_01.png" x="895" y="267" w="101" h="74" oX="26" oY="65" oW="131" oH="142"/>
+    <sprite n="Cornpult0_02.png" x="883" y="343" w="99" h="80" oX="27" oY="59" oW="131" oH="142"/>
+    <sprite n="Cornpult0_03.png" x="365" y="619" w="97" h="84" oX="28" oY="55" oW="131" oH="142"/>
+    <sprite n="Cornpult0_04.png" x="260" y="628" w="97" h="80" oX="28" oY="59" oW="131" oH="142"/>
+    <sprite n="Cornpult0_05.png" x="780" y="411" w="99" h="78" oX="27" oY="61" oW="131" oH="142"/>
+    <sprite n="Cornpult0_06.png" x="881" y="425" w="99" h="76" oX="27" oY="63" oW="131" oH="142"/>
+    <sprite n="Cornpult0_07.png" x="706" y="358" w="72" h="99" oX="28" oY="67" oW="131" oH="142" r="y"/>
+    <sprite n="Cornpult0_08.png" x="780" y="491" w="99" h="70" oX="28" oY="69" oW="131" oH="142"/>
+    <sprite n="Cornpult0_09.png" x="575" y="513" w="99" h="66" oX="29" oY="73" oW="131" oH="142"/>
+    <sprite n="Cornpult0_10.png" x="365" y="553" w="101" h="64" oX="28" oY="75" oW="131" oH="142"/>
+    <sprite n="Cornpult0_11.png" x="472" y="505" w="101" h="66" oX="29" oY="74" oW="131" oH="142"/>
+    <sprite n="Cornpult0_12.png" x="367" y="487" w="103" h="64" oX="28" oY="75" oW="131" oH="142"/>
+    <sprite n="Cornpult0_13.png" x="474" y="437" w="103" h="66" oX="28" oY="74" oW="131" oH="142"/>
+    <sprite n="Cornpult0_14.png" x="157" y="493" w="103" h="66" oX="27" oY="74" oW="131" oH="142"/>
+    <sprite n="Cornpult0_15.png" x="262" y="458" w="103" h="66" oX="27" oY="73" oW="131" oH="142"/>
+    <sprite n="Cornpult0_16.png" x="87" y="2" w="68" h="101" oX="28" oY="72" oW="131" oH="142" r="y"/>
+    <sprite n="Cornpult0_17.png" x="579" y="441" w="101" h="70" oX="27" oY="70" oW="131" oH="142"/>
+    <sprite n="Cornpult0_18.png" x="780" y="337" w="101" h="72" oX="27" oY="67" oW="131" oH="142"/>
+    <sprite n="Cornpult0_19.png" x="895" y="267" w="101" h="74" oX="26" oY="65" oW="131" oH="142"/>
+    <sprite n="Cornpult1_00.png" x="268" y="260" w="105" h="96" oX="22" oY="43" oW="131" oH="142"/>
+    <sprite n="Cornpult1_01.png" x="264" y="358" w="103" h="98" oX="23" oY="41" oW="131" oH="142"/>
+    <sprite n="Cornpult1_02.png" x="262" y="526" w="101" h="100" oX="24" oY="39" oW="131" oH="142"/>
+    <sprite n="Cornpult1_03.png" x="157" y="561" w="101" h="98" oX="24" oY="41" oW="131" oH="142"/>
+    <sprite n="Cornpult1_04.png" x="157" y="397" w="103" h="94" oX="23" oY="45" oW="131" oH="142"/>
+    <sprite n="Cornpult1_05.png" x="601" y="347" w="103" h="92" oX="23" oY="47" oW="131" oH="142"/>
+    <sprite n="Cornpult1_06.png" x="788" y="245" w="105" h="90" oX="22" oY="49" oW="131" oH="142"/>
+    <sprite n="Cornpult1_07.png" x="494" y="265" w="105" h="88" oX="22" oY="51" oW="131" oH="142"/>
+    <sprite n="Cornpult1_08.png" x="375" y="333" w="105" h="84" oX="23" oY="55" oW="131" oH="142"/>
+    <sprite n="Cornpult1_09.png" x="620" y="263" w="107" h="82" oX="22" oY="57" oW="131" oH="142"/>
+    <sprite n="Cornpult1_10.png" x="628" y="87" w="109" h="82" oX="21" oY="58" oW="131" oH="142"/>
+    <sprite n="Cornpult1_11.png" x="788" y="163" w="109" h="80" oX="22" oY="59" oW="131" oH="142"/>
+    <sprite n="Cornpult1_12.png" x="157" y="215" w="109" h="84" oX="22" oY="56" oW="131" oH="142"/>
+    <sprite n="Cornpult1_13.png" x="276" y="172" w="109" h="86" oX="21" oY="54" oW="131" oH="142"/>
+    <sprite n="Cornpult1_14.png" x="913" y="85" w="109" h="86" oX="21" oY="53" oW="131" oH="142"/>
+    <sprite n="Cornpult1_15.png" x="511" y="173" w="107" h="90" oX="22" oY="50" oW="131" oH="142"/>
+    <sprite n="Cornpult1_16.png" x="899" y="173" w="105" h="92" oX="23" oY="48" oW="131" oH="142"/>
+    <sprite n="Cornpult1_17.png" x="157" y="301" w="105" h="94" oX="23" oY="45" oW="131" oH="142"/>
+    <sprite n="Cornpult1_18.png" x="268" y="260" w="105" h="96" oX="22" oY="43" oW="131" oH="142"/>
+    <sprite n="Cornpult1_19.png" x="268" y="260" w="105" h="96" oX="22" oY="43" oW="131" oH="142"/>
+    <sprite n="CornpultAttack0_00.png" x="87" y="105" w="68" h="99" oX="27" oY="71" oW="131" oH="142" r="y"/>
+    <sprite n="CornpultAttack0_01.png" x="881" y="503" w="99" h="66" oX="27" oY="73" oW="131" oH="142"/>
+    <sprite n="CornpultAttack0_02.png" x="676" y="548" w="99" h="64" oX="26" oY="75" oW="131" oH="142"/>
+    <sprite n="CornpultAttack0_03.png" x="157" y="661" w="97" h="64" oX="28" oY="75" oW="131" oH="142"/>
+    <sprite n="CornpultAttack0_04.png" x="468" y="573" w="99" h="62" oX="26" oY="77" oW="131" oH="142"/>
+    <sprite n="CornpultAttack0_05.png" x="878" y="571" w="99" h="62" oX="27" oY="77" oW="131" oH="142"/>
+    <sprite n="CornpultAttack0_06.png" x="777" y="563" w="99" h="62" oX="28" oY="77" oW="131" oH="142"/>
+    <sprite n="CornpultAttack0_07.png" x="369" y="419" w="103" h="66" oX="25" oY="73" oW="131" oH="142"/>
+    <sprite n="CornpultAttack0_08.png" x="482" y="355" w="103" h="80" oX="26" oY="59" oW="131" oH="142"/>
+    <sprite n="CornpultAttack0_09.png" x="278" y="87" w="118" h="83" oX="47" oY="22" oW="131" oH="142" r="y"/>
+    <sprite n="CornpultAttack1_00.png" x="628" y="171" w="107" h="90" oX="19" oY="49" oW="131" oH="142"/>
+    <sprite n="CornpultAttack1_01.png" x="515" y="87" w="111" h="84" oX="15" oY="55" oW="131" oH="142"/>
+    <sprite n="CornpultAttack1_02.png" x="398" y="151" w="111" h="76" oX="14" oY="63" oW="131" oH="142"/>
+    <sprite n="CornpultAttack1_03.png" x="85" y="908" w="70" h="113" oX="12" oY="69" oW="131" oH="142" r="y"/>
+    <sprite n="CornpultAttack1_04.png" x="398" y="87" w="115" h="62" oX="10" oY="77" oW="131" oH="142"/>
+    <sprite n="CornpultAttack1_05.png" x="157" y="151" w="117" h="62" oX="9" oY="77" oW="131" oH="142"/>
+    <sprite n="CornpultAttack1_06.png" x="157" y="87" w="119" h="62" oX="8" oY="77" oW="131" oH="142"/>
+    <sprite n="CornpultAttack1_07.png" x="789" y="2" w="123" h="76" oX="5" oY="63" oW="131" oH="142"/>
+    <sprite n="CornpultAttack1_08.png" x="387" y="229" w="105" h="102" oX="24" oY="37" oW="131" oH="142"/>
+    <sprite n="CornpultAttack1_09.png" x="2" y="2" w="83" h="136" oX="47" oY="4" oW="131" oH="142"/>
+    <sprite n="CornpultAttackEnd_00.png" x="157" y="2" w="126" h="83" oX="48" oY="14" oW="131" oH="142" r="y"/>
+    <sprite n="CornpultAttackEnd_01.png" x="663" y="2" w="124" h="83" oX="48" oY="16" oW="131" oH="142" r="y"/>
+    <sprite n="CornpultAttackEnd_02.png" x="537" y="2" w="124" h="83" oX="48" oY="16" oW="131" oH="142" r="y"/>
+    <sprite n="CornpultAttackEnd_03.png" x="411" y="2" w="124" h="83" oX="48" oY="16" oW="131" oH="142" r="y"/>
+    <sprite n="CornpultAttackEnd_04.png" x="285" y="2" w="124" h="83" oX="48" oY="16" oW="131" oH="142" r="y"/>
+    <sprite n="CornpultAttackEnd_05.png" x="2" y="780" w="83" h="126" oX="48" oY="14" oW="131" oH="142"/>
+    <sprite n="CornpultAttackEnd_06.png" x="2" y="652" w="83" h="126" oX="48" oY="14" oW="131" oH="142"/>
+    <sprite n="CornpultAttackEnd_07.png" x="2" y="524" w="83" h="126" oX="48" oY="14" oW="131" oH="142"/>
+    <sprite n="CornpultAttackEnd_08.png" x="2" y="396" w="83" h="126" oX="48" oY="14" oW="131" oH="142"/>
+    <sprite n="CornpultAttackEnd_09.png" x="2" y="268" w="83" h="126" oX="48" oY="14" oW="131" oH="142"/>
+    <sprite n="CornpultAttackEnd_10.png" x="2" y="140" w="83" h="126" oX="48" oY="14" oW="131" oH="142"/>
+    <sprite n="CornpultAttackEnd_11.png" x="789" y="80" w="122" h="81" oX="49" oY="18" oW="131" oH="142" r="y"/>
+    <sprite n="CornpultAttackEnd_12.png" x="2" y="908" w="81" h="114" oX="49" oY="25" oW="131" oH="142"/>
+    <sprite n="CornpultAttackEnd_13.png" x="914" y="2" w="108" h="81" oX="48" oY="32" oW="131" oH="142" r="y"/>
+    <sprite n="CornpultAttackEnd_14.png" x="682" y="459" w="96" h="87" oX="41" oY="44" oW="131" oH="142" r="y"/>
+    <sprite n="CornpultAttackEnd_15.png" x="569" y="581" w="95" h="82" oX="33" oY="57" oW="131" oH="142"/>
+    <sprite n="IceShroomSleep_00.png" x="465" y="853" w="75" h="83" r="y"/>
+    <sprite n="IceShroomSleep_01.png" x="838" y="785" w="81" h="75" oX="1" oY="0" oW="83" oH="75"/>
+    <sprite n="IceShroomSleep_02.png" x="425" y="938" w="75" h="83" r="y"/>
+    <sprite n="IceShroomSleep_03.png" x="388" y="853" w="75" h="83" r="y"/>
+    <sprite n="IceShroomSleep_04.png" x="839" y="710" w="83" h="73" oX="0" oY="1" oW="83" oH="75"/>
+    <sprite n="IceShroomSleep_05.png" x="924" y="660" w="83" h="73" oX="0" oY="1" oW="83" oH="75"/>
+    <sprite n="IceShroomSleep_06.png" x="839" y="635" w="83" h="73" oX="0" oY="1" oW="83" oH="75"/>
+    <sprite n="IceShroomSleep_07.png" x="692" y="761" w="73" h="83" oX="0" oY="1" oW="83" oH="75" r="y"/>
+    <sprite n="IceShroomSleep_08.png" x="660" y="686" w="83" h="73" oX="0" oY="1" oW="83" oH="75"/>
+    <sprite n="IceShroomSleep_09.png" x="754" y="627" w="83" h="73" oX="0" oY="1" oW="83" oH="75"/>
+    <sprite n="IceShroomSleep_10.png" x="652" y="901" w="73" h="83" oX="0" oY="1" oW="83" oH="75" r="y"/>
+    <sprite n="IceShroomSleep_11.png" x="348" y="941" w="75" h="81" oX="1" oY="0" oW="83" oH="75" r="y"/>
+    <sprite n="IceShroom_00.png" x="311" y="856" w="75" h="83" r="y"/>
+    <sprite n="IceShroom_01.png" x="617" y="816" w="73" h="83" oX="0" oY="1" oW="83" oH="75" r="y"/>
+    <sprite n="IceShroom_02.png" x="585" y="731" w="73" h="83" oX="0" oY="1" oW="83" oH="75" r="y"/>
+    <sprite n="IceShroom_03.png" x="577" y="937" w="73" h="83" oX="0" oY="1" oW="83" oH="75" r="y"/>
+    <sprite n="IceShroom_04.png" x="924" y="735" w="83" h="71" oX="0" oY="3" oW="83" oH="75"/>
+    <sprite n="IceShroom_05.png" x="542" y="852" w="73" h="83" oX="0" oY="1" oW="83" oH="75" r="y"/>
+    <sprite n="IceShroom_06.png" x="502" y="938" w="73" h="83" oX="0" oY="1" oW="83" oH="75" r="y"/>
+    <sprite n="IceShroom_07.png" x="234" y="873" w="75" h="83" r="y"/>
+    <sprite n="IceShroom_08.png" x="234" y="873" w="75" h="83" r="y"/>
+    <sprite n="IceShroom_09.png" x="157" y="901" w="75" h="83" r="y"/>
+    <sprite n="IceShroom_10.png" x="157" y="901" w="75" h="83" r="y"/>
+    <sprite n="Repeater_00.png" x="87" y="535" w="67" h="71" oX="4" oY="0" oW="73" oH="71"/>
+    <sprite n="Repeater_01.png" x="794" y="916" w="65" h="71" oX="4" oY="0" oW="73" oH="71"/>
+    <sprite n="Repeater_02.png" x="727" y="916" w="65" h="71" oX="2" oY="0" oW="73" oH="71"/>
+    <sprite n="Repeater_03.png" x="727" y="849" w="71" h="65" oX="1" oY="0" oW="73" oH="71" r="y"/>
+    <sprite n="Repeater_04.png" x="861" y="946" w="65" h="69" oX="0" oY="1" oW="73" oH="71"/>
+    <sprite n="Repeater_05.png" x="928" y="875" w="65" h="63" oX="0" oY="7" oW="73" oH="71"/>
+    <sprite n="Repeater_06.png" x="281" y="958" w="65" h="63" oX="0" oY="7" oW="73" oH="71"/>
+    <sprite n="Repeater_07.png" x="861" y="875" w="65" h="69" oX="0" oY="1" oW="73" oH="71"/>
+    <sprite n="Repeater_08.png" x="87" y="462" w="67" h="71" oX="0" oY="0" oW="73" oH="71"/>
+    <sprite n="Repeater_09.png" x="921" y="808" w="71" h="65" oX="1" oY="0" oW="73" oH="71" r="y"/>
+    <sprite n="Repeater_10.png" x="512" y="785" w="71" h="65" oX="3" oY="0" oW="73" oH="71" r="y"/>
+    <sprite n="Repeater_11.png" x="767" y="782" w="69" h="65" oX="4" oY="1" oW="73" oH="71" r="y"/>
+    <sprite n="Repeater_12.png" x="87" y="746" w="67" h="65" oX="6" oY="6" oW="73" oH="71"/>
+    <sprite n="Repeater_13.png" x="87" y="677" w="67" h="67" oX="6" oY="4" oW="73" oH="71"/>
+    <sprite n="Repeater_14.png" x="87" y="608" w="67" h="67" oX="5" oY="4" oW="73" oH="71"/>
+    <sprite n="SnowMan_00.png" x="87" y="380" w="68" h="80" oX="8" oY="2" oW="80" oH="84"/>
+    <sprite n="SnowMan_01.png" x="767" y="702" w="70" h="78" oX="7" oY="4" oW="80" oH="84"/>
+    <sprite n="SnowMan_02.png" x="87" y="380" w="68" h="80" oX="8" oY="2" oW="80" oH="84"/>
+    <sprite n="SnowMan_03.png" x="430" y="785" w="80" h="66" oX="8" oY="2" oW="80" oH="84" r="y"/>
+    <sprite n="SplitPea_00.png" x="159" y="801" w="84" h="70" oX="1" oY="2" oW="92" oH="72"/>
+    <sprite n="SplitPea_01.png" x="552" y="665" w="86" h="64" oX="0" oY="8" oW="92" oH="72"/>
+    <sprite n="SplitPea_02.png" x="552" y="665" w="86" h="64" oX="0" oY="8" oW="92" oH="72"/>
+    <sprite n="SplitPea_03.png" x="245" y="784" w="84" h="70" oX="1" oY="2" oW="92" oH="72"/>
+    <sprite n="SplitPea_04.png" x="157" y="727" w="86" h="72" oX="0" oY="0" oW="92" oH="72"/>
+    <sprite n="SplitPea_05.png" x="344" y="779" w="84" h="72" oX="3" oY="0" oW="92" oH="72"/>
+    <sprite n="SplitPea_06.png" x="447" y="711" w="84" h="72" oX="4" oY="0" oW="92" oH="72"/>
+    <sprite n="SplitPea_07.png" x="666" y="614" w="86" h="70" oX="4" oY="2" oW="92" oH="72"/>
+    <sprite n="SplitPea_08.png" x="87" y="206" w="68" h="86" oX="6" oY="4" oW="92" oH="72" r="y"/>
+    <sprite n="SplitPea_09.png" x="87" y="294" w="68" h="84" oX="8" oY="4" oW="92" oH="72" r="y"/>
+    <sprite n="SplitPea_10.png" x="87" y="813" w="70" h="86" oX="5" oY="2" oW="92" oH="72" r="y"/>
+    <sprite n="SplitPea_11.png" x="256" y="710" w="86" h="72" oX="3" oY="0" oW="92" oH="72"/>
+    <sprite n="SplitPea_12.png" x="359" y="705" w="86" h="72" oX="2" oY="0" oW="92" oH="72"/>
+    <sprite n="SplitPea_13.png" x="464" y="637" w="86" h="72" oX="0" oY="0" oW="92" oH="72"/>
+</TextureAtlas>

@@ -1,0 +1,4 @@
+name,type,speed,damage,normal_format,normal_count,dead_format,dead_count
+bullet1,bullet1,15,1,sprite/bullet1.png,1,smallexplosion%d.png,2
+bullet2,bullet2,10,2,sprite/bullet2.png,1,smallexplosion%d.png,2
+bullet3,bullet3,8,4,sprite/bullet3.png,1,smallexplosion%d.png,2

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+	<zombie>
+		<name>Zombie</name>
+		<elapsed>5.6</elapsed>
+		<route>3</route>
+	</zombie>
+	<zombie>
+		<name>Zombie</name>
+		<elapsed>12.0</elapsed>
+		<route>4</route>
+	</zombie>
+	<zombie>
+		<name>Zombie</name>
+		<elapsed>20.1</elapsed>
+		<route>1</route>
+	</zombie>
+	<zombie>
+		<name>Zombie</name>
+		<elapsed>20.1</elapsed>
+		<route>2</route>
+	</zombie>
+	<zombie>
+		<name>Zombie</name>
+		<elapsed>20</elapsed>
+		<route>2</route>
+	</zombie>
+</level>

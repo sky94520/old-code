@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:a3243a0535ff6dea7ed6d07d3308eaf0$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="plant7.png" width="512" height="512">
+    <sprite n="HypnoShroomSleep_00.png" x="2" y="244" w="55" h="78" oX="10" oY="2" oW="71" oH="80"/>
+    <sprite n="HypnoShroomSleep_01.png" x="2" y="164" w="55" h="78" oX="10" oY="2" oW="71" oH="80"/>
+    <sprite n="HypnoShroomSleep_02.png" x="61" y="2" w="57" h="76" oX="9" oY="4" oW="71" oH="80"/>
+    <sprite n="HypnoShroomSleep_03.png" x="59" y="242" w="59" h="76" oX="8" oY="4" oW="71" oH="80"/>
+    <sprite n="HypnoShroomSleep_04.png" x="177" y="80" w="59" h="74" oX="8" oY="6" oW="71" oH="80"/>
+    <sprite n="HypnoShroomSleep_05.png" x="120" y="158" w="61" h="74" oX="7" oY="6" oW="71" oH="80"/>
+    <sprite n="HypnoShroomSleep_06.png" x="180" y="234" w="63" h="72" oX="6" oY="8" oW="71" oH="80"/>
+    <sprite n="HypnoShroomSleep_07.png" x="2" y="324" w="63" h="76" oX="6" oY="4" oW="71" oH="80"/>
+    <sprite n="HypnoShroomSleep_08.png" x="65" y="402" w="61" h="76" oX="7" oY="4" oW="71" oH="80"/>
+    <sprite n="HypnoShroomSleep_09.png" x="2" y="402" w="61" h="76" oX="7" oY="4" oW="71" oH="80"/>
+    <sprite n="HypnoShroomSleep_10.png" x="59" y="164" w="59" h="76" oX="8" oY="4" oW="71" oH="80"/>
+    <sprite n="HypnoShroomSleep_11.png" x="2" y="84" w="57" h="78" oX="9" oY="2" oW="71" oH="80"/>
+    <sprite n="HypnoShroomSleep_12.png" x="2" y="2" w="57" h="80" oX="9" oY="0" oW="71" oH="80"/>
+    <sprite n="HypnoShroom_00.png" x="120" y="234" w="58" h="74" oX="8" oY="2" oW="68" oH="76"/>
+    <sprite n="HypnoShroom_01.png" x="178" y="2" w="58" h="74" oX="9" oY="2" oW="68" oH="76"/>
+    <sprite n="HypnoShroom_02.png" x="128" y="386" w="58" h="72" oX="10" oY="4" oW="68" oH="76"/>
+    <sprite n="HypnoShroom_03.png" x="183" y="156" w="58" h="72" oX="9" oY="4" oW="68" oH="76"/>
+    <sprite n="HypnoShroom_04.png" x="120" y="2" w="56" h="76" oX="8" oY="0" oW="68" oH="76"/>
+    <sprite n="HypnoShroom_05.png" x="120" y="2" w="56" h="76" oX="8" oY="0" oW="68" oH="76"/>
+    <sprite n="HypnoShroom_06.png" x="127" y="310" w="56" h="74" oX="5" oY="2" oW="68" oH="76"/>
+    <sprite n="HypnoShroom_07.png" x="188" y="382" w="56" h="72" oX="2" oY="4" oW="68" oH="76"/>
+    <sprite n="HypnoShroom_08.png" x="246" y="450" w="68" h="56" oX="0" oY="8" oW="68" oH="76" r="y"/>
+    <sprite n="HypnoShroom_09.png" x="246" y="380" w="56" h="68" oX="0" oY="8" oW="68" oH="76"/>
+    <sprite n="HypnoShroom_10.png" x="243" y="308" w="56" h="70" oX="2" oY="6" oW="68" oH="76"/>
+    <sprite n="HypnoShroom_11.png" x="185" y="308" w="56" h="72" oX="2" oY="4" oW="68" oH="76"/>
+    <sprite n="HypnoShroom_12.png" x="67" y="320" w="58" h="76" oX="5" oY="0" oW="68" oH="76"/>
+    <sprite n="HypnoShroom_13.png" x="119" y="80" w="56" h="76" oX="7" oY="0" oW="68" oH="76"/>
+    <sprite n="HypnoShroom_14.png" x="61" y="80" w="56" h="76" oX="8" oY="0" oW="68" oH="76"/>
+</TextureAtlas>

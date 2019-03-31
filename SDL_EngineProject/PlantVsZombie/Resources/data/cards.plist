@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <!--豌豆射手-->
+    <key>Peashooter</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>100</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--双发豌豆-->
+    <key>Repeater</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>200</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--三发豌豆-->
+    <key>Threepeater</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>325</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--加特林豌豆-->
+    <key>GatlingPea</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>200</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>all</string>
+      <key>necessary item</key>
+      <string>Repeater</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--分裂豆-->
+    <key>SplitPea</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>125</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+
+    <!--寒冰射手-->
+    <key>SnowPea</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>175</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--火豌豆射手-->
+    <key>FirePeashooter</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>175</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--向日葵-->
+    <key>SunFlower</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>50</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>0</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--双生向日葵-->
+    <key>TwinSunflower</key> 
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>150</integer>
+      <key>CD</key>
+      <real>50</real>
+      <key>ready time</key>
+      <real>20</real>
+      <key>active</key>
+      <string>all</string>
+      <key>necessary item</key>
+      <string>SunFlower</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--阳光菇-->
+    <key>SunShroom</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>25</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>0</real>
+      <key>active</key>
+      <string>night</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--魅惑菇-->
+    <key>HypnoShroom</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>75</integer>
+      <key>CD</key>
+      <real>30</real>
+      <key>ready time</key>
+      <real>30</real>
+      <key>active</key>
+      <string>night</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--窝瓜-->
+    <key>Squash</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>50</integer>
+      <key>CD</key>
+      <real>30</real>
+      <key>ready time</key>
+      <real>30</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--火爆辣椒-->
+    <key>Jalapeno</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>125</integer>
+      <key>CD</key>
+      <real>50</real>
+      <key>ready time</key>
+      <real>50</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--花盆-->
+    <key>FlowerPot</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>25</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>0</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>Stone</string>
+      </array>
+    </dict>
+    <!--睡莲-->
+    <key>LilyPad</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>25</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>0</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Water</string>
+      </array>
+    </dict>
+    <!--土豆雷-->
+    <key>PotatoMine</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>25</integer>
+      <key>CD</key>
+      <real>30</real>
+      <key>ready time</key>
+      <real>0</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--卷心菜-->
+    <key>Cabbage</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>100</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--玉米投手-->
+    <key>Cornpult</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>100</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--坚果-->
+    <key>WallNut</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>50</integer>
+      <key>CD</key>
+      <real>30</real>
+      <key>ready time</key>
+      <real>30</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--高坚果-->
+    <key>TallNut</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>125</integer>
+      <key>CD</key>
+      <real>30</real>
+      <key>ready time</key>
+      <real>30</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--大喷菇-->
+    <key>FumeShroom</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>75</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>night</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--小喷菇-->
+    <key>PuffShroom</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>0</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>night</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--海蘑菇-->
+    <key>SeaShroom</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>0</integer>
+      <key>CD</key>
+      <real>30</real>
+      <key>ready time</key>
+      <real>30</real>
+      <key>active</key>
+      <string>night</string>
+      <key>needful terrain</key>
+      <array>
+        <string>water</string>
+      </array>
+    </dict>
+    <!--胆小蘑菇-->
+    <key>ScaredyShroom</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>100</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>night</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--咖啡豆-->
+    <key>CoffeeBean</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>75</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--猫尾草-->
+    <key>Cattail</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>225</integer>
+      <key>CD</key>
+      <real>50</real>
+      <key>ready time</key>
+      <real>50</real>
+      <key>active</key>
+      <string>all</string>
+      <key>necessary item</key>
+      <string>LilyPad</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Water</string>
+      </array>
+    </dict>
+    <!--南瓜-->
+    <key>Pumpkin</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>125</integer>
+      <key>CD</key>
+      <real>30</real>
+      <key>ready time</key>
+      <real>30</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>   
+    <!--寒冰蘑菇-->
+    <key>IceShroom</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>75</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>night</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--毁灭蘑菇-->
+    <key>DoomShroom</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>75</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>night</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+      </array>
+    </dict>
+    <!--磁力蘑菇-->
+    <key>Magnetshroom</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>100</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>night</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--火炬树桩-->
+    <key>Torchwood</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>175</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>night</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--食人花-->
+    <key>Chomper</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>150</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>7.5</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+        <string>LilyPad</string>
+        <string>FlowerPot</string>
+      </array>
+    </dict>
+    <!--普通僵尸-->
+    <key>Zombie</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>50</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>0</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+      </array>
+    </dict>
+    <!--路障僵尸-->
+    <key>ConeheadZombie</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>75</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>0</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+      </array>
+    </dict>
+    <!--读报纸僵尸-->
+    <key>PaperZombie</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>100</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>0</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+      </array>
+    </dict>
+    <!--撑杆僵尸-->
+    <key>PoleVaultingZombie</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>100</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>0</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+      </array>
+    </dict>
+    <!--铁桶僵尸-->
+    <key>BucketheadZombie</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>150</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>0</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+      </array>
+    </dict>
+    <!--橄榄球僵尸-->
+    <key>FootballZombie</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>175</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>0</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+      </array>
+    </dict>
+    <!--铁网僵尸-->
+    <key>ScreenDoorZombie</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>125</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>0</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+      </array>
+    </dict>
+    <!--伴舞僵尸-->
+    <key>BackupDancer</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>50</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>0</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+      </array>
+    </dict>
+    <!--舞王僵尸-->
+    <key>DancingZombie</key>
+    <dict>
+      <key>desc</key>
+      <string></string>
+      <key>worth</key>
+      <integer>350</integer>
+      <key>CD</key>
+      <real>7.5</real>
+      <key>ready time</key>
+      <real>0</real>
+      <key>active</key>
+      <string>all</string>
+      <key>needful terrain</key>
+      <array>
+        <string>Lawn</string>
+      </array>
+    </dict>
+  </dict>
+</plist>

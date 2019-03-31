@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layer anchor-point="0,0">
+	<Sprite anchor-point="0,0">
+		<properties>
+			<property name="filename" value="shop_buy_bg.png"/>
+		</properties>
+	</Sprite>
+	<LabelAtlas name="curState" anchor-point="0,0.5" position="100,75">
+		<properties>
+			<property name="text" value="3"/>
+			<property name="item-width" value="16"/>
+			<property name="item-height" value="32"/>
+			<property name="start-char" value="46"/>
+			<property name="filename" value="sprite/fps_images.png"/>
+		</properties>
+	</LabelAtlas>
+	<LabelAtlas name="nextState" anchor-point="0,0.5" position="100,125">
+		<properties>
+			<property name="text" value="4"/>
+			<property name="item-width" value="16"/>
+			<property name="item-height" value="32"/>
+			<property name="start-char" value="46"/>
+			<property name="filename" value="sprite/fps_images.png"/>
+		</properties>
+	</LabelAtlas>
+	<Sprite position="120,175">
+		<properties>
+			<property name="filename" value="gold.png"/>
+		</properties>
+	</Sprite>
+	<LabelAtlas name="worth" anchor-point="0.5,0.5" position="160,175">
+		<properties>
+			<property name="text" value="100"/>
+			<property name="item-width" value="16"/>
+			<property name="item-height" value="24"/>
+			<property name="start-char" value="48"/>
+			<property name="filename" value="sprite/common-font.png"/>
+		</properties>
+	</LabelAtlas>
+	<Button position="50,175" name="buy">
+		<properties>
+			<property name="res-type" value="XML"/>
+			<property name="normal-image" value="shop_buy_btn_text.png"/>
+		</properties>
+	</Button>	
+</Layer>

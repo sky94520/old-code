@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <!--卡片正常精灵 格式-->
+    <key>card_normal_sprite_fromat</key>
+    <string>%s.png</string>
+    <!--卡片不可点击精灵 格式-->
+    <key>card_disable_sprite_format</key>
+    <string>%sG.png</string> 
+    
+    <!--饰品精灵 格式-->
+    <key>garnishry_sprite_format</key>
+    <string>Zombie_%s%d.png</string>
+    
+    <key>card_grey_sprite_name</key>
+    <string>grey.png</string>
+    
+    <key>card_plist_path</key>
+    <string>data/cards.plist</string>
+    <key>zombie_csv_path</key>
+    <string>data/zombies.csv</string>
+    <key>plant_csv_path</key>
+    <string>data/plants.csv</string>
+
+    <key>animation_plist_path</key>
+    <string>data/animations.plist</string>
+    <key>plant_shape_plist_path</key>
+    <string>data/plant_shape.plist</string>
+    <!--选中高亮精灵-->
+    <key>selected_high_sprite_name</key>
+    <string>ClickHigh.png</string>
+    <!--铲子精灵图片-->
+    <key>shovel_sprite_name</key>
+    <string>Shovel.png</string>
+    <!--豌豆精灵图片-->
+    <key>pea_bullet_sprite_name</key>
+    <string>PeaBullet.png</string>
+    <!--寒冰豌豆精灵-->
+    <key>snow_pea_bullet_sprite_name</key>
+    <string>SnowPeaBullet.png</string>
+    <!--土豆雷未准备图片-->
+    <key>potato_mine_not_ready_sprite_name</key>
+    <string>PotatoMineNotReady.png</string>
+  </dict>
+</plist>

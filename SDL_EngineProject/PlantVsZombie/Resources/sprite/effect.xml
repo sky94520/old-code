@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:8acc0d35b5a855f8f506c7d53756fdb5$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="effect.png" width="1024" height="1024">
+    <sprite n="Boom_00.png" x="534" y="298" w="257" h="290" oX="12" oY="34" oW="283" oH="324"/>
+    <sprite n="Boom_01.png" x="530" y="614" w="263" h="292" oX="10" oY="32" oW="283" oH="324"/>
+    <sprite n="Boom_02.png" x="530" y="2" w="265" h="294" oX="9" oY="30" oW="283" oH="324"/>
+    <sprite n="Boom_03.png" x="269" y="312" w="263" h="300" oX="7" oY="24" oW="283" oH="324"/>
+    <sprite n="Boom_04.png" x="265" y="640" w="263" h="302" oX="8" oY="22" oW="283" oH="324"/>
+    <sprite n="Boom_05.png" x="2" y="640" w="261" h="304" oX="12" oY="20" oW="283" oH="324"/>
+    <sprite n="Boom_06.png" x="265" y="2" w="263" h="308" oX="9" oY="16" oW="283" oH="324"/>
+    <sprite n="Boom_07.png" x="2" y="322" w="265" h="316" oX="6" oY="8" oW="283" oH="324"/>
+    <sprite n="Boom_08.png" x="2" y="2" w="261" h="318" oX="9" oY="6" oW="283" oH="324"/>
+    <sprite n="crater11_00.png" x="2" y="946" w="88" h="59" oX="1" oY="1" oW="90" oH="61"/>
+    <sprite n="crater11_01.png" x="92" y="946" w="86" h="59" oX="2" oY="1" oW="90" oH="61"/>
+</TextureAtlas>

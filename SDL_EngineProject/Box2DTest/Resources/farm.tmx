@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" renderorder="right-down" width="6" height="3" tilewidth="200" tileheight="100" nextobjectid="1">
+ <tileset firstgid="1" name="farm" tilewidth="200" tileheight="100" tilecount="1" columns="1">
+  <image source="farm.png" trans="ff00ff" width="200" height="100"/>
+ </tileset>
+ <layer name="块层 1" width="6" height="3">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYKQCBgAC9AAT
+  </data>
+ </layer>
+</map>

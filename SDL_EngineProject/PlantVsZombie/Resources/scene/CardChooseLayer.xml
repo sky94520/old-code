@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layer anchor-point="0,0">
+  <!--选择界面bg-->
+  <Sprite position="200,30" anchor-point="0,0" name="bg">
+    <properties>
+      <property name="filename" value="sprite/SeedChooser_Background.png"/>
+    </properties>
+  </Sprite>
+  <!--开始游戏按钮-->
+  <Button position="430,550" name="start_game">
+    <properties>
+      <property name="res-type" value="XML"/>
+      <property name="normal-image" value="SeedChooser_Button.png"/>
+      <property name="selected-image" value="SeedChooser_Button_Glow.png"/>
+      <property name="disabled-image" value="SeedChooser_Button_Disabled.png"/>
+    </properties>
+    <Sprite position="78,21">
+      <properties>
+        <property name="filename" value="start_game_text.png"/>
+      </properties>
+    </Sprite>
+  </Button>
+</Layer>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:8fe0455b65f85885c65ef7ffd8d5d13d$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="SunFlower.png" width="256" height="512">
+    <sprite n="SunFlower1.png" x="2" y="264" w="72" h="63" oX="3" oY="2" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower10.png" x="150" y="262" w="72" h="63" oX="5" oY="2" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower11.png" x="2" y="67" w="74" h="63" oX="3" oY="0" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower12.png" x="154" y="2" w="74" h="63" oX="3" oY="0" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower13.png" x="76" y="199" w="72" h="63" oX="2" oY="1" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower14.png" x="2" y="199" w="72" h="63" oX="1" oY="1" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower15.png" x="67" y="329" w="64" h="63" oX="0" oY="9" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower16.png" x="146" y="327" w="68" h="63" oX="0" oY="5" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower17.png" x="2" y="132" w="72" h="65" oX="0" oY="2" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower18.png" x="78" y="67" w="72" h="65" oX="1" oY="2" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower2.png" x="150" y="197" w="72" h="63" oX="3" oY="2" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower3.png" x="78" y="2" w="74" h="63" oX="5" oY="0" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower4.png" x="2" y="2" w="74" h="63" oX="6" oY="0" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower5.png" x="76" y="134" w="72" h="63" oX="7" oY="2" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower6.png" x="76" y="264" w="68" h="63" oX="9" oY="6" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower7.png" x="2" y="392" w="63" h="64" oX="10" oY="10" oW="73" oH="74"/>
+    <sprite n="SunFlower8.png" x="152" y="132" w="72" h="63" oX="7" oY="2" oW="73" oH="74" r="y"/>
+    <sprite n="SunFlower9.png" x="152" y="67" w="72" h="63" oX="6" oY="2" oW="73" oH="74" r="y"/>
+</TextureAtlas>

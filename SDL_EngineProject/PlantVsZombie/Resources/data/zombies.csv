@@ -1,0 +1,11 @@
+name,speed,hp,garnishry,rect
+名称,速度,血量,饰品,碰撞面积
+Zombie,0.15,200,null,{{80 25} {80 88}}
+ConeheadZombie,0.15,200,cone,{{90 2} {70 84}}
+PaperZombie,0.15,200,paper,{{65 41} {96 96}}
+PoleVaultingZombie,0.3,430,pole,{{210 99} {56 102}}
+BucketheadZombie,0.15,200,bucket,{{95 8} {80 88}}
+FootballZombie,0.4f,200,helmet,{{30 4} {126 128}}
+ScreenDoorZombie,0.2f,200,screendoor,{{60 20} {70 122}}
+BackupDancer,0.3f,200,null,{{57 14} {60 136}}
+DancingZombie,0.3f,430,null,{{23 37} {64 134}}

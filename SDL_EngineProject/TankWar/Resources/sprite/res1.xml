@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:26e7b3e38b18a06550caa82ea0499dc1$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="res1.png" width="128" height="256">
+    <sprite n="bullet1.png" x="104" y="24" w="16" h="12"/>
+    <sprite n="bullet1_explotion1.png" x="104" y="2" w="22" h="20" r="y"/>
+    <sprite n="bullet1_explotion2.png" x="70" y="168" w="32" h="28" r="y"/>
+    <sprite n="bullet1_explotion3.png" x="36" y="104" w="32" h="32"/>
+    <sprite n="bullet1_explotion4.png" x="2" y="104" w="32" h="32"/>
+    <sprite n="bullet1_explotion5.png" x="70" y="70" w="32" h="32"/>
+    <sprite n="tank_blue_fire1.png" x="36" y="138" w="32" h="30"/>
+    <sprite n="tank_blue_run1.png" x="36" y="70" w="32" h="32"/>
+    <sprite n="tank_blue_run2.png" x="2" y="70" w="32" h="32"/>
+    <sprite n="tank_green_fire1.png" x="2" y="138" w="32" h="30"/>
+    <sprite n="tank_green_run1.png" x="70" y="36" w="32" h="32"/>
+    <sprite n="tank_green_run2.png" x="36" y="36" w="32" h="32"/>
+    <sprite n="tank_red_fire1.png" x="70" y="136" w="32" h="30"/>
+    <sprite n="tank_red_run1.png" x="2" y="36" w="32" h="32"/>
+    <sprite n="tank_red_run2.png" x="70" y="2" w="32" h="32"/>
+    <sprite n="tank_yellow_fire1.png" x="70" y="104" w="32" h="30"/>
+    <sprite n="tank_yellow_run1.png" x="36" y="2" w="32" h="32"/>
+    <sprite n="tank_yellow_run2.png" x="2" y="2" w="32" h="32"/>
+</TextureAtlas>

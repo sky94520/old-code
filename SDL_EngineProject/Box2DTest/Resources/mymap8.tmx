@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" renderorder="right-down" width="10" height="10" tilewidth="128" tileheight="64" nextobjectid="1">
+ <tileset firstgid="1" name="iso-test-128" tilewidth="128" tileheight="234" tilecount="24" columns="8">
+  <image source="iso-test-128.png" width="1024" height="705"/>
+ </tileset>
+ <layer name="bgLayer" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYCQBMxEpRixmpkAvue4dDGbhwgBWWABr
+  </data>
+ </layer>
+ <layer name="layer2" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYSAecJCgFhlwATErELMgiXFCMQiwQWlxKM0CxTxo5ggBsTAQiyGJsWJhC0GxKJr96OphQASqhgGHOi4GTMBKwExs7mLFIY4MAADTAU8=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:4dec66d332116a43d29cd9542177345f$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="zombie3.png" width="1024" height="2048">
+    <sprite n="BucketheadZombieAttack_00.png" x="280" y="762" w="136" h="88" oX="47" oY="8" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombieAttack_01.png" x="278" y="852" w="136" h="82" oX="53" oY="8" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombieAttack_02.png" x="690" y="1014" w="134" h="80" oX="55" oY="9" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombieAttack_03.png" x="816" y="1216" w="132" h="82" oX="53" oY="11" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombieAttack_04.png" x="682" y="1188" w="132" h="84" oX="51" oY="11" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombieAttack_05.png" x="278" y="936" w="134" h="88" oX="47" oY="10" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombieAttack_06.png" x="140" y="790" w="136" h="86" oX="49" oY="8" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombieAttack_07.png" x="418" y="806" w="136" h="82" oX="53" oY="8" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombieAttack_08.png" x="2" y="822" w="136" h="84" oX="51" oY="7" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombieAttack_09.png" x="820" y="1126" w="132" h="88" oX="47" oY="11" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombieAttack_10.png" x="694" y="924" w="134" h="88" oX="47" oY="9" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombie_00.png" x="310" y="692" w="140" h="68" oX="64" oY="4" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombie_01.png" x="830" y="750" w="138" h="74" oX="62" oY="6" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombie_02.png" x="554" y="944" w="134" h="80" oX="55" oY="10" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombie_03.png" x="414" y="958" w="134" h="78" oX="51" oY="10" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombie_04.png" x="168" y="622" w="140" h="72" oX="53" oY="4" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombie_05.png" x="584" y="670" w="140" h="66" oX="59" oY="4" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombie_06.png" x="830" y="680" w="142" h="68" oX="65" oY="1" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombie_07.png" x="830" y="608" w="142" h="70" oX="69" oY="1" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombie_08.png" x="168" y="540" w="140" h="80" oX="63" oY="3" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombie_09.png" x="142" y="696" w="136" h="92" oX="54" oY="7" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombie_10.png" x="2" y="732" w="136" h="88" oX="55" oY="7" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombie_11.png" x="140" y="878" w="136" h="78" oX="57" oY="8" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombie_12.png" x="584" y="804" w="138" h="70" oX="60" oY="5" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombie_13.png" x="2" y="666" w="138" h="64" oX="62" oY="5" oW="166" oH="144" r="y"/>
+    <sprite n="BucketheadZombie_14.png" x="584" y="738" w="140" h="64" oX="65" oY="3" oW="166" oH="144" r="y"/>
+    <sprite n="PoleVaultingZombieAttack_00.png" x="136" y="1200" w="132" h="72" oX="194" oY="70" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieAttack_01.png" x="550" y="1026" w="134" h="72" oX="194" oY="68" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieAttack_02.png" x="954" y="1177" w="68" h="132" oX="198" oY="70" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieAttack_03.png" x="270" y="1260" w="130" h="74" oX="192" oY="72" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieAttack_04.png" x="2" y="1390" w="128" h="78" oX="188" oY="74" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieAttack_05.png" x="826" y="1032" w="132" h="92" oX="174" oY="70" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieAttack_06.png" x="686" y="1096" w="132" h="90" oX="176" oY="70" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieAttack_07.png" x="2" y="1138" w="132" h="78" oX="188" oY="70" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieAttack_08.png" x="272" y="1184" w="132" h="74" oX="192" oY="70" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieAttack_09.png" x="138" y="1120" w="132" h="78" oX="188" oY="70" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieAttack_10.png" x="264" y="1336" w="128" h="88" oX="178" oY="74" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieAttack_11.png" x="2" y="1300" w="128" h="88" oX="178" oY="74" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieAttack_12.png" x="408" y="1104" w="132" h="76" oX="190" oY="70" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieAttack_13.png" x="408" y="1182" w="132" h="74" oX="192" oY="70" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieDie_00.png" x="308" y="1672" w="98" h="68" oX="200" oY="100" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieDie_01.png" x="650" y="1688" w="98" h="76" oX="192" oY="99" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieDie_02.png" x="508" y="1782" w="94" h="94" oX="172" oY="100" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieDie_03.png" x="204" y="1750" w="96" h="72" oX="131" oY="112" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieDie_04.png" x="974" y="448" w="48" h="114" oX="125" oY="155" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieDie_05.png" x="394" y="1338" w="122" h="50" oX="123" oY="163" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieDie_06.png" x="786" y="428" w="42" h="124" oX="120" oY="166" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieDie_07.png" x="786" y="298" w="42" h="128" oX="118" oY="168" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieDie_08.png" x="974" y="720" w="44" h="128" oX="119" oY="169" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieHead_00.png" x="974" y="664" w="46" h="54" oX="201" oY="71" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieHead_01.png" x="314" y="1986" w="50" h="52" oX="207" oY="49" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieHead_02.png" x="254" y="1824" w="52" h="52" oX="213" oY="65" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieHead_03.png" x="314" y="1932" w="50" h="52" oX="218" oY="102" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieHead_04.png" x="308" y="1796" w="50" h="52" oX="222" oY="153" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieHead_05.png" x="200" y="1824" w="52" h="52" oX="223" oY="155" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieHead_06.png" x="265" y="1878" w="50" h="52" oX="225" oY="156" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieHead_07.png" x="317" y="1878" w="50" h="52" oX="225" oY="160" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieJump2_00.png" x="830" y="530" w="142" h="76" oX="206" oY="48" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieJump2_01.png" x="548" y="1100" w="132" h="88" oX="216" oY="28" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieJump2_02.png" x="140" y="958" w="134" h="84" oX="211" oY="37" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieJump2_03.png" x="538" y="1272" w="124" h="84" oX="185" oY="78" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieJump2_04.png" x="518" y="1358" w="116" h="90" oX="179" oY="86" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieJump2_05.png" x="664" y="1342" w="120" h="88" oX="182" oY="82" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieJump2_06.png" x="406" y="1258" w="130" h="78" oX="189" oY="72" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieJump_00.png" x="438" y="2" w="196" h="134" oX="153" oY="0" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieJump_01.png" x="832" y="2" w="190" h="94" oX="171" oY="9" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieJump_02.png" x="832" y="98" w="190" h="82" oX="171" oY="9" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieJump_03.png" x="2" y="434" w="188" h="80" oX="172" oY="10" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieJump_04.png" x="196" y="428" w="188" h="110" oX="154" oY="11" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieJump_05.png" x="394" y="416" w="188" h="122" oX="130" oY="11" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieJump_06.png" x="830" y="318" w="188" h="128" oX="118" oY="11" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieJump_07.png" x="2" y="516" w="164" h="148" oX="88" oY="35" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieJump_08.png" x="228" y="2" w="208" h="154" oX="18" oY="45" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieJump_09.png" x="2" y="2" w="224" h="150" oX="0" oY="48" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieLostHeadAttack_00.png" x="908" y="1603" w="100" h="72" oX="194" oY="102" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadAttack_01.png" x="2" y="1554" w="102" h="72" oX="194" oY="100" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadAttack_02.png" x="106" y="1606" w="100" h="68" oX="198" oY="102" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadAttack_03.png" x="420" y="1660" w="98" h="74" oX="192" oY="104" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadAttack_04.png" x="550" y="1638" w="98" h="76" oX="190" oY="104" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadAttack_05.png" x="104" y="1676" w="98" h="92" oX="174" oY="104" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadAttack_06.png" x="728" y="590" w="100" h="90" oX="176" oY="102" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadAttack_07.png" x="394" y="1390" w="116" h="78" oX="188" oY="86" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadAttack_08.png" x="786" y="1368" w="120" h="74" oX="192" oY="82" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadAttack_09.png" x="910" y="1311" w="112" h="78" oX="188" oY="90" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadAttack_10.png" x="2" y="1696" w="98" h="88" oX="178" oY="104" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadAttack_11.png" x="722" y="1516" w="100" h="88" oX="178" oY="102" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadAttack_12.png" x="448" y="1594" w="100" h="64" oX="202" oY="102" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadAttack_13.png" x="578" y="1570" w="100" h="66" oX="200" oY="102" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_00.png" x="728" y="424" w="56" h="102" oX="210" oY="99" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_01.png" x="618" y="1508" w="102" h="60" oX="208" oY="99" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_02.png" x="110" y="1538" w="104" h="66" oX="205" oY="97" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_03.png" x="512" y="1450" w="104" h="70" oX="203" oY="97" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_04.png" x="724" y="850" w="104" h="72" oX="202" oY="97" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_05.png" x="216" y="1584" w="100" h="68" oX="205" oY="100" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_06.png" x="2" y="1786" w="96" h="66" oX="206" oY="105" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_07.png" x="880" y="1677" w="96" h="64" oX="206" oY="105" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_08.png" x="520" y="1716" w="98" h="64" oX="204" oY="103" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_09.png" x="2" y="1628" w="100" h="66" oX="198" oY="101" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_10.png" x="346" y="1540" w="100" h="68" oX="196" oY="101" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_11.png" x="476" y="1522" w="100" h="70" oX="193" oY="101" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_12.png" x="744" y="1444" w="102" h="70" oX="191" oY="99" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_13.png" x="908" y="1471" w="102" h="66" oX="192" oY="99" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_14.png" x="908" y="1539" w="102" h="62" oX="192" oY="99" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_15.png" x="240" y="1514" w="104" h="68" oX="190" oY="97" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_16.png" x="636" y="1432" w="106" h="74" oX="187" oY="95" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_17.png" x="908" y="1391" w="108" h="78" oX="187" oY="93" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_18.png" x="2" y="1470" w="106" h="82" oX="186" oY="95" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_19.png" x="262" y="1426" w="106" h="86" oX="186" oY="94" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_20.png" x="132" y="1452" w="106" h="84" oX="187" oY="94" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_21.png" x="726" y="766" w="102" h="82" oX="189" oY="99" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_22.png" x="780" y="1646" w="98" h="80" oX="192" oY="103" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_23.png" x="102" y="1770" w="96" h="72" oX="198" oY="105" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_24.png" x="750" y="1728" w="96" h="60" oX="206" oY="105" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_25.png" x="408" y="1736" w="98" h="58" oX="207" oY="103" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_26.png" x="308" y="1742" w="98" h="52" oX="208" oY="103" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_27.png" x="974" y="564" w="48" h="98" oX="210" oY="103" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieLostHeadWalk_28.png" x="970" y="952" w="52" h="100" oX="209" oY="101" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieLostHead_00.png" x="970" y="850" w="52" h="100" oX="210" oY="100" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieLostHead_01.png" x="370" y="1470" w="104" h="68" oX="202" oY="97" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHead_02.png" x="680" y="1606" w="98" h="80" oX="197" oY="97" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHead_03.png" x="824" y="1548" w="82" h="96" oX="196" oY="110" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieLostHead_04.png" x="620" y="1766" w="96" h="58" oX="205" oY="111" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHead_05.png" x="848" y="1444" w="58" h="102" oX="205" oY="105" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieLostHead_06.png" x="726" y="682" w="102" h="82" oX="193" oY="101" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHead_07.png" x="208" y="1654" w="98" h="94" oX="188" oY="102" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieLostHead_08.png" x="2" y="1878" w="76" h="92" oX="202" oY="112" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombieLostHead_09.png" x="318" y="1610" w="100" h="60" oX="209" oY="100" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_00.png" x="452" y="720" w="130" h="84" oX="195" oY="71" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_01.png" x="134" y="1274" w="128" h="88" oX="190" oY="74" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_02.png" x="132" y="1364" w="128" h="86" oX="189" oY="74" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_03.png" x="542" y="1190" w="130" h="80" oX="190" oY="72" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_04.png" x="274" y="1104" w="132" h="78" oX="193" oY="70" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_05.png" x="2" y="1062" w="134" h="74" oX="196" oY="68" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_06.png" x="416" y="890" w="136" h="66" oX="199" oY="66" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_07.png" x="830" y="964" w="136" h="66" oX="197" oY="66" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_08.png" x="830" y="896" w="138" h="66" oX="197" oY="64" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_09.png" x="310" y="616" w="140" h="74" oX="195" oY="62" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_10.png" x="830" y="448" w="142" h="80" oX="193" oY="60" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_11.png" x="584" y="514" w="142" h="84" oX="192" oY="59" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_12.png" x="584" y="424" w="142" h="88" oX="193" oY="59" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_13.png" x="2" y="978" w="134" h="82" oX="196" oY="68" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_14.png" x="452" y="540" w="130" h="90" oX="189" oY="72" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_15.png" x="452" y="632" w="130" h="86" oX="189" oY="72" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_16.png" x="2" y="1218" w="130" h="80" oX="193" oY="72" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_17.png" x="138" y="1044" w="134" h="74" oX="195" oY="68" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_18.png" x="412" y="1038" w="134" h="64" oX="200" oY="68" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_19.png" x="2" y="908" w="136" h="68" oX="201" oY="66" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_20.png" x="556" y="876" w="136" h="66" oX="205" oY="66" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_21.png" x="830" y="826" w="138" h="68" oX="208" oY="64" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_22.png" x="584" y="600" w="140" h="68" oX="211" oY="62" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_23.png" x="310" y="540" w="140" h="74" oX="207" oY="62" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombieWalk_24.png" x="276" y="1026" w="134" h="76" oX="205" oY="67" oW="348" oH="218" r="y"/>
+    <sprite n="PoleVaultingZombie_00.png" x="830" y="182" w="192" h="134" oX="97" oY="69" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombie_01.png" x="438" y="138" w="194" h="144" oX="99" oY="59" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombie_02.png" x="636" y="2" w="194" h="150" oX="95" oY="55" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombie_03.png" x="200" y="296" w="192" h="130" oX="93" oY="77" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombie_04.png" x="396" y="284" w="194" h="130" oX="89" oY="79" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombie_05.png" x="200" y="158" w="194" h="136" oX="98" oY="71" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombie_06.png" x="634" y="154" w="194" h="142" oX="101" oY="65" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombie_07.png" x="2" y="154" w="196" h="148" oX="95" oY="61" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombie_08.png" x="592" y="298" w="192" h="124" oX="91" oY="82" oW="348" oH="218"/>
+    <sprite n="PoleVaultingZombie_09.png" x="2" y="304" w="192" h="128" oX="95" oY="74" oW="348" oH="218"/>
+    <sprite n="Zombie_bucket1.png" x="148" y="1878" w="62" h="67"/>
+    <sprite n="Zombie_bucket2.png" x="138" y="1949" w="62" h="67"/>
+    <sprite n="Zombie_bucket3.png" x="728" y="528" w="55" h="60" oX="2" oY="0" oW="62" oH="67" r="y"/>
+    <sprite n="Zombie_cone1.png" x="257" y="1939" w="55" h="57" oX="0" oY="0" oW="59" oH="57"/>
+    <sprite n="Zombie_cone2.png" x="202" y="1947" w="53" h="59" oX="0" oY="4" oW="59" oH="57" r="y"/>
+    <sprite n="Zombie_cone3.png" x="212" y="1878" w="51" h="59" oX="0" oY="6" oW="59" oH="57" r="y"/>
+    <sprite n="Zombie_football_helmet1.png" x="70" y="1972" w="66" h="73"/>
+    <sprite n="Zombie_football_helmet2.png" x="80" y="1878" w="66" h="69" oX="0" oY="0" oW="66" oH="73"/>
+    <sprite n="Zombie_football_helmet3.png" x="2" y="1972" w="66" h="73"/>
+    <sprite n="Zombie_screendoor1.png" x="960" y="1054" w="62" h="121" oX="3" oY="2" oW="66" oH="123"/>
+    <sprite n="Zombie_screendoor2.png" x="787" y="1300" w="121" h="66" oX="0" oY="2" oW="66" oH="123" r="y"/>
+    <sprite n="Zombie_screendoor3.png" x="664" y="1274" w="121" h="66" oX="0" oY="1" oW="66" oH="123" r="y"/>
+</TextureAtlas>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:424f0f86625b1c3736e5010f0b7dfd12$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="plant5.png" width="1024" height="1024">
+    <sprite n="ChomperAtkEnd_00.png" x="2" y="2" w="134" h="85" oX="7" oY="54" oW="144" oH="147"/>
+    <sprite n="ChomperAtkEnd_01.png" x="2" y="89" w="130" h="81" oX="9" oY="58" oW="144" oH="147"/>
+    <sprite n="ChomperAtkEnd_02.png" x="271" y="2" w="122" h="85" oX="8" oY="54" oW="144" oH="147"/>
+    <sprite n="ChomperAtkEnd_03.png" x="847" y="146" w="104" h="87" oX="8" oY="52" oW="144" oH="147"/>
+    <sprite n="ChomperAtkEnd_04.png" x="546" y="497" w="85" h="82" oX="7" oY="54" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperAtkStart_00.png" x="271" y="183" w="95" h="82" oX="7" oY="44" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperAtkStart_01.png" x="189" y="476" w="80" h="89" oX="7" oY="49" oW="144" oH="147"/>
+    <sprite n="ChomperAtkStart_02.png" x="445" y="632" w="83" h="78" oX="7" oY="55" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperAtkStart_03.png" x="875" y="686" w="76" h="81" oX="7" oY="56" oW="144" oH="147"/>
+    <sprite n="ChomperAtkStart_04.png" x="195" y="234" w="74" h="77" oX="8" oY="59" oW="144" oH="147"/>
+    <sprite n="ChomperAtkStart_05.png" x="192" y="313" w="77" h="76" oX="6" oY="60" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperAtkStart_06.png" x="460" y="331" w="91" h="80" oX="8" oY="46" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperAtkStart_07.png" x="138" y="2" w="131" h="100" oX="7" oY="7" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperDigest_00.png" x="804" y="501" w="85" h="82" oX="7" oY="54" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperDigest_01.png" x="633" y="532" w="83" h="82" oX="7" oY="55" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperDigest_02.png" x="360" y="562" w="83" h="82" oX="7" oY="55" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperDigest_03.png" x="709" y="646" w="81" h="80" oX="8" oY="56" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperDigest_04.png" x="189" y="567" w="80" h="79" oX="7" oY="57" oW="144" oH="147"/>
+    <sprite n="ChomperDigest_05.png" x="155" y="885" w="78" h="79" oX="8" oY="58" oW="144" oH="147"/>
+    <sprite n="ChomperDigest_06.png" x="75" y="885" w="78" h="79" oX="8" oY="58" oW="144" oH="147"/>
+    <sprite n="ChomperDigest_07.png" x="781" y="745" w="81" h="78" oX="7" oY="57" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperDigest_08.png" x="698" y="728" w="81" h="78" oX="8" oY="57" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperDigest_09.png" x="539" y="581" w="83" h="78" oX="8" oY="56" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperDigest_10.png" x="803" y="585" w="83" h="78" oX="8" oY="56" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperDigest_11.png" x="792" y="665" w="81" h="78" oX="8" oY="58" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperDigest_12.png" x="615" y="689" w="81" h="78" oX="8" oY="58" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperDigest_13.png" x="191" y="391" w="78" h="83" oX="8" oY="56" oW="144" oH="147"/>
+    <sprite n="ChomperDigest_14.png" x="718" y="564" w="83" h="80" oX="7" oY="55" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperSuccess_00.png" x="804" y="501" w="85" h="82" oX="7" oY="54" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperSuccess_01.png" x="553" y="409" w="87" h="86" oX="7" oY="52" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperSuccess_02.png" x="96" y="427" w="91" h="90" oX="8" oY="47" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperSuccess_03.png" x="804" y="324" w="90" h="85" oX="7" oY="52" oW="144" oH="147"/>
+    <sprite n="ChomperSuccess_04.png" x="675" y="392" w="90" h="83" oX="8" oY="54" oW="144" oH="147"/>
+    <sprite n="ChomperSuccess_05.png" x="99" y="192" w="94" h="85" oX="7" oY="51" oW="144" oH="147"/>
+    <sprite n="ChomperSuccess_06.png" x="2" y="344" w="92" h="85" oX="8" oY="51" oW="144" oH="147"/>
+    <sprite n="ChomperSuccess_07.png" x="271" y="420" w="90" h="89" oX="8" oY="48" oW="144" oH="147"/>
+    <sprite n="ChomperSuccess_08.png" x="2" y="254" w="93" h="88" oX="8" oY="45" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperSuccess_09.png" x="271" y="267" w="93" h="88" oX="8" oY="45" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperSuccess_10.png" x="365" y="398" w="90" h="89" oX="9" oY="50" oW="144" oH="147"/>
+    <sprite n="ChomperSuccess_11.png" x="97" y="338" w="92" h="87" oX="9" oY="52" oW="144" oH="147"/>
+    <sprite n="ChomperSuccess_12.png" x="804" y="411" w="89" h="88" oX="9" oY="50" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperSuccess_13.png" x="2" y="431" w="91" h="86" oX="7" oY="48" oW="144" oH="147" r="y"/>
+    <sprite n="ChomperSuccess_14.png" x="2" y="172" w="95" h="80" oX="8" oY="44" oW="144" oH="147" r="y"/>
+    <sprite n="Chomper_00.png" x="368" y="247" w="95" h="80" oX="8" oY="44" oW="144" oH="147" r="y"/>
+    <sprite n="Chomper_01.png" x="134" y="104" w="95" h="86" oX="7" oY="43" oW="144" oH="147" r="y"/>
+    <sprite n="Chomper_02.png" x="271" y="89" w="101" h="92" oX="8" oY="37" oW="144" oH="147" r="y"/>
+    <sprite n="Chomper_03.png" x="705" y="294" w="97" h="96" oX="7" oY="40" oW="144" oH="147" r="y"/>
+    <sprite n="Chomper_04.png" x="719" y="199" w="100" h="93" oX="7" oY="43" oW="144" oH="147"/>
+    <sprite n="Chomper_05.png" x="476" y="240" w="98" h="89" oX="7" oY="48" oW="144" oH="147"/>
+    <sprite n="Chomper_06.png" x="615" y="136" w="102" h="85" oX="7" oY="52" oW="144" oH="147"/>
+    <sprite n="Chomper_07.png" x="821" y="235" w="98" h="87" oX="8" oY="51" oW="144" oH="147"/>
+    <sprite n="Chomper_08.png" x="374" y="150" w="100" h="95" oX="7" oY="44" oW="144" oH="147"/>
+    <sprite n="Chomper_09.png" x="576" y="313" w="97" h="94" oX="9" oY="42" oW="144" oH="147" r="y"/>
+    <sprite n="Chomper_10.png" x="501" y="146" w="101" h="92" oX="8" oY="38" oW="144" oH="147" r="y"/>
+    <sprite n="Chomper_11.png" x="604" y="223" w="99" h="88" oX="7" oY="40" oW="144" oH="147" r="y"/>
+    <sprite n="Chomper_12.png" x="271" y="183" w="95" h="82" oX="7" oY="44" oW="144" oH="147" r="y"/>
+    <sprite n="FirePeaBulletHit_00.png" x="97" y="279" w="93" h="57" oX="0" oY="90" oW="95" oH="147"/>
+    <sprite n="FirePeaBulletHit_01.png" x="530" y="661" w="83" h="51" oX="4" oY="96" oW="95" oH="147"/>
+    <sprite n="FirePeaBulletHit_02.png" x="642" y="477" w="87" h="53" oX="2" oY="94" oW="95" oH="147"/>
+    <sprite n="FirePeaBulletHit_03.png" x="953" y="753" w="67" h="75" oX="12" oY="80" oW="95" oH="147" r="y"/>
+    <sprite n="FirePeaBulletHit_04.png" x="222" y="825" w="71" h="57" oX="19" oY="69" oW="95" oH="147" r="y"/>
+    <sprite n="FirePeaBulletHit_05.png" x="142" y="712" w="65" h="55" oX="22" oY="66" oW="95" oH="147" r="y"/>
+    <sprite n="FirePeaBulletHit_06.png" x="363" y="720" w="53" h="47" oX="25" oY="60" oW="95" oH="147" r="y"/>
+    <sprite n="FirePeaBulletHit_07.png" x="2" y="519" w="43" h="63" oX="24" oY="50" oW="95" oH="147"/>
+    <sprite n="FirePeaBulletHit_08.png" x="767" y="392" w="35" h="49" oX="29" oY="42" oW="95" oH="147"/>
+    <sprite n="FirePeaBulletHit_09.png" x="576" y="240" w="25" h="53" oX="34" oY="19" oW="95" oH="147"/>
+    <sprite n="FirePeaBulletHit_10.png" x="719" y="136" w="13" h="33" oX="39" oY="34" oW="95" oH="147"/>
+    <sprite n="FirePeaBulletHit_11.png" x="953" y="146" w="5" h="21" oX="44" oY="31" oW="95" oH="147"/>
+    <sprite n="FirePeaBullet_00.png" x="406" y="947" w="38" h="60" oX="0" oY="20" oW="80" oH="80" r="y"/>
+    <sprite n="FirePeaBullet_01.png" x="271" y="584" w="42" h="60" oX="0" oY="18" oW="80" oH="80" r="y"/>
+    <sprite n="FirePeaBullet_02.png" x="324" y="957" w="40" h="60" oX="0" oY="19" oW="80" oH="80" r="y"/>
+    <sprite n="FirePeaBullet_03.png" x="385" y="885" w="38" h="60" oX="0" oY="20" oW="80" oH="80" r="y"/>
+    <sprite n="FirePeaBullet_04.png" x="227" y="648" w="42" h="60" oX="0" oY="18" oW="80" oH="80" r="y"/>
+    <sprite n="FirePeaBullet_05.png" x="90" y="584" w="42" h="60" oX="0" oY="18" oW="80" oH="80" r="y"/>
+    <sprite n="FirePeaBullet_06.png" x="282" y="959" w="40" h="60" oX="0" oY="18" oW="80" oH="80" r="y"/>
+    <sprite n="FirePeaBullet_07.png" x="46" y="584" w="42" h="60" oX="0" oY="17" oW="80" oH="80" r="y"/>
+    <sprite n="FirePeaBullet_08.png" x="2" y="584" w="42" h="60" oX="0" oY="18" oW="80" oH="80" r="y"/>
+    <sprite n="FirePeaBullet_09.png" x="315" y="584" w="40" h="60" oX="0" oY="18" oW="80" oH="80" r="y"/>
+    <sprite n="FirePeaBullet_10.png" x="891" y="570" w="60" h="42" oX="0" oY="17" oW="80" oH="80"/>
+    <sprite n="FirePeaBullet_11.png" x="891" y="526" w="60" h="42" oX="0" oY="18" oW="80" oH="80"/>
+    <sprite n="FirePeaBullet_12.png" x="366" y="947" w="38" h="60" oX="0" oY="20" oW="80" oH="80" r="y"/>
+    <sprite n="MagnetshroomAtkStart_00.png" x="167" y="808" w="53" h="74" oX="30" oY="29" oW="127" oH="118"/>
+    <sprite n="MagnetshroomAtkStart_01.png" x="2" y="808" w="53" h="74" oX="29" oY="29" oW="127" oH="118"/>
+    <sprite n="MagnetshroomAtkStart_02.png" x="947" y="830" w="74" h="53" oX="28" oY="29" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtkStart_03.png" x="112" y="807" w="53" h="76" oX="27" oY="27" oW="127" oH="118"/>
+    <sprite n="MagnetshroomAtkStart_04.png" x="57" y="807" w="53" h="76" oX="26" oY="27" oW="127" oH="118"/>
+    <sprite n="MagnetshroomAtkStart_05.png" x="209" y="714" w="78" h="53" oX="26" oY="25" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtkStart_06.png" x="134" y="519" w="53" h="80" oX="25" oY="24" oW="127" oH="118"/>
+    <sprite n="MagnetshroomAtkStart_07.png" x="134" y="601" w="53" h="78" oX="24" oY="25" oW="127" oH="118"/>
+    <sprite n="MagnetshroomAtkStart_08.png" x="235" y="885" w="53" h="72" oX="33" oY="32" oW="127" oH="118"/>
+    <sprite n="MagnetshroomAtkStart_09.png" x="74" y="712" w="66" h="55" oX="42" oY="38" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtking_00.png" x="953" y="462" w="68" h="65" oX="47" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtking_01.png" x="953" y="395" w="68" h="65" oX="47" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtking_02.png" x="953" y="328" w="68" h="65" oX="47" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtking_03.png" x="953" y="395" w="68" h="65" oX="47" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtking_04.png" x="953" y="462" w="68" h="65" oX="47" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtking_05.png" x="953" y="395" w="68" h="65" oX="47" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtking_06.png" x="953" y="328" w="68" h="65" oX="47" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtking_07.png" x="953" y="395" w="68" h="65" oX="47" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtking_08.png" x="953" y="462" w="68" h="65" oX="47" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtking_09.png" x="953" y="395" w="68" h="65" oX="47" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtking_10.png" x="953" y="328" w="68" h="65" oX="47" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtking_11.png" x="953" y="395" w="68" h="65" oX="47" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtking_12.png" x="953" y="462" w="68" h="65" oX="47" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomAtking_13.png" x="888" y="614" w="63" h="70" oX="42" oY="33" oW="127" oH="118"/>
+    <sprite n="MagnetshroomAtking_14.png" x="381" y="646" w="61" h="72" oX="32" oY="31" oW="127" oH="118"/>
+    <sprite n="MagnetshroomDigesting_00.png" x="470" y="712" w="57" h="64" oX="51" oY="39" oW="127" oH="118"/>
+    <sprite n="MagnetshroomDigesting_01.png" x="295" y="825" w="64" h="57" oX="50" oY="39" oW="127" oH="118" r="y"/>
+    <sprite n="MagnetshroomDigesting_02.png" x="61" y="646" w="57" h="64" oX="49" oY="39" oW="127" oH="118"/>
+    <sprite n="MagnetshroomDigesting_03.png" x="2" y="646" w="57" h="64" oX="50" oY="39" oW="127" oH="118"/>
+    <sprite n="MagnetshroomDigesting_04.png" x="470" y="712" w="57" h="64" oX="51" oY="39" oW="127" oH="118"/>
+    <sprite n="MagnetshroomSleep_00.png" x="366" y="329" w="92" h="67" oX="16" oY="19" oW="127" oH="126" r="y"/>
+    <sprite n="MagnetshroomSleep_01.png" x="737" y="63" w="110" h="69" oX="16" oY="1" oW="127" oH="126" r="y"/>
+    <sprite n="MagnetshroomSleep_02.png" x="623" y="2" w="112" h="65" oX="22" oY="0" oW="127" oH="126" r="y"/>
+    <sprite n="MagnetshroomSleep_03.png" x="509" y="71" w="104" h="73" oX="15" oY="7" oW="127" oH="126" r="y"/>
+    <sprite n="MagnetshroomSleep_04.png" x="395" y="2" w="112" h="73" oX="16" oY="0" oW="127" oH="126" r="y"/>
+    <sprite n="MagnetshroomSleep_05.png" x="851" y="2" w="110" h="73" oX="15" oY="1" oW="127" oH="126" r="y"/>
+    <sprite n="MagnetshroomSleep_06.png" x="395" y="77" w="104" h="71" oX="15" oY="7" oW="127" oH="126" r="y"/>
+    <sprite n="MagnetshroomSleep_07.png" x="509" y="2" w="112" h="67" oX="16" oY="0" oW="127" oH="126" r="y"/>
+    <sprite n="MagnetshroomSleep_08.png" x="849" y="77" w="110" h="67" oX="14" oY="1" oW="127" oH="126" r="y"/>
+    <sprite n="MagnetshroomSleep_09.png" x="623" y="69" w="110" h="65" oX="14" oY="1" oW="127" oH="126" r="y"/>
+    <sprite n="MagnetshroomSleep_10.png" x="961" y="110" w="61" h="110" oX="16" oY="1" oW="127" oH="126"/>
+    <sprite n="MagnetshroomSleep_11.png" x="271" y="357" w="92" h="61" oX="16" oY="19" oW="127" oH="126" r="y"/>
+    <sprite n="MagnetshroomSleep_12.png" x="735" y="134" w="110" h="63" oX="15" oY="1" oW="127" oH="126" r="y"/>
+    <sprite n="MagnetshroomSleep_13.png" x="737" y="2" w="112" h="59" oX="22" oY="0" oW="127" oH="126" r="y"/>
+    <sprite n="MagnetshroomSleep_14.png" x="953" y="222" w="69" h="104" oX="14" oY="7" oW="127" oH="126"/>
+    <sprite n="Magnetshroom_00.png" x="167" y="808" w="53" h="74" oX="30" oY="29" oW="127" oH="118"/>
+    <sprite n="Magnetshroom_01.png" x="350" y="769" w="70" h="53" oX="32" oY="33" oW="127" oH="118" r="y"/>
+    <sprite n="Magnetshroom_02.png" x="953" y="698" w="68" h="53" oX="34" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="Magnetshroom_03.png" x="326" y="646" w="53" h="66" oX="36" oY="37" oW="127" oH="118"/>
+    <sprite n="Magnetshroom_04.png" x="271" y="646" w="53" h="66" oX="36" oY="37" oW="127" oH="118"/>
+    <sprite n="Magnetshroom_05.png" x="953" y="643" w="68" h="53" oX="35" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="Magnetshroom_06.png" x="290" y="885" w="53" h="70" oX="33" oY="33" oW="127" oH="118"/>
+    <sprite n="Magnetshroom_07.png" x="167" y="808" w="53" h="74" oX="30" oY="29" oW="127" oH="118"/>
+    <sprite n="Magnetshroom_08.png" x="289" y="714" w="72" h="53" oX="28" oY="31" oW="127" oH="118" r="y"/>
+    <sprite n="Magnetshroom_09.png" x="2" y="712" w="70" h="55" oX="24" oY="33" oW="127" oH="118" r="y"/>
+    <sprite n="Magnetshroom_10.png" x="953" y="586" w="68" h="55" oX="23" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="Magnetshroom_11.png" x="953" y="529" w="68" h="55" oX="22" oY="35" oW="127" oH="118" r="y"/>
+    <sprite n="Magnetshroom_12.png" x="896" y="398" w="55" h="70" oX="24" oY="33" oW="127" oH="118"/>
+    <sprite n="Magnetshroom_13.png" x="896" y="324" w="55" h="72" oX="26" oY="31" oW="127" oH="118"/>
+    <sprite n="Magnetshroom_14.png" x="167" y="808" w="53" h="74" oX="30" oY="29" oW="127" oH="118"/>
+    <sprite n="SunShroom2_00.png" x="200" y="769" w="40" h="36" oX="24" oY="26" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroom2_01.png" x="555" y="836" w="38" h="36" oX="24" oY="27" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroom2_02.png" x="498" y="939" w="36" h="36" oX="24" oY="29" oW="80" oH="80"/>
+    <sprite n="SunShroom2_03.png" x="654" y="807" w="38" h="36" oX="24" oY="28" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroom2_04.png" x="654" y="769" w="38" h="36" oX="22" oY="29" oW="80" oH="80"/>
+    <sprite n="SunShroom2_05.png" x="574" y="798" w="38" h="36" oX="23" oY="29" oW="80" oH="80"/>
+    <sprite n="SunShroom2_06.png" x="195" y="192" w="34" h="40" oX="21" oY="31" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroom2_07.png" x="614" y="769" w="38" h="36" oX="23" oY="30" oW="80" oH="80"/>
+    <sprite n="SunShroom2_08.png" x="529" y="714" w="38" h="36" oX="23" oY="30" oW="80" oH="80"/>
+    <sprite n="SunShroom2_09.png" x="574" y="758" w="38" h="38" oX="22" oY="28" oW="80" oH="80"/>
+    <sprite n="SunShroom2_10.png" x="614" y="807" w="38" h="36" oX="24" oY="28" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroom2_11.png" x="200" y="769" w="40" h="36" oX="24" oY="26" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroomGrowing_00.png" x="200" y="769" w="40" h="36" oX="24" oY="26" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroomGrowing_01.png" x="465" y="842" w="38" h="40" oX="23" oY="26" oW="80" oH="80"/>
+    <sprite n="SunShroomGrowing_02.png" x="574" y="714" w="38" h="42" oX="23" oY="24" oW="80" oH="80"/>
+    <sprite n="SunShroomGrowing_03.png" x="419" y="842" w="44" h="40" oX="22" oY="22" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroomGrowing_04.png" x="422" y="768" w="46" h="42" oX="21" oY="21" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroomGrowing_05.png" x="505" y="836" w="48" h="44" oX="20" oY="19" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroomGrowing_06.png" x="418" y="720" w="50" h="46" oX="19" oY="17" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroomGrowing_07.png" x="524" y="778" w="48" h="50" oX="18" oY="17" oW="80" oH="80"/>
+    <sprite n="SunShroomGrowing_08.png" x="479" y="885" w="48" h="52" oX="19" oY="15" oW="80" oH="80"/>
+    <sprite n="SunShroomGrowing_09.png" x="298" y="769" w="50" h="54" oX="17" oY="13" oW="80" oH="80"/>
+    <sprite n="SunShroomGrowing_10.png" x="174" y="966" w="52" h="56" oX="16" oY="12" oW="80" oH="80"/>
+    <sprite n="SunShroomGrowing_11.png" x="963" y="2" w="58" h="54" oX="15" oY="10" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroomSleep_00.png" x="134" y="769" w="64" h="36" oX="24" oY="1" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroomSleep_01.png" x="189" y="648" w="36" h="62" oX="24" oY="3" oW="80" oH="80"/>
+    <sprite n="SunShroomSleep_02.png" x="68" y="769" w="64" h="36" oX="24" oY="2" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroomSleep_03.png" x="47" y="519" w="38" h="62" oX="23" oY="3" oW="80" oH="80"/>
+    <sprite n="SunShroomSleep_04.png" x="231" y="104" w="38" h="64" oX="23" oY="1" oW="80" oH="80"/>
+    <sprite n="SunShroomSleep_05.png" x="361" y="842" w="56" h="40" oX="21" oY="9" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroomSleep_06.png" x="345" y="885" w="38" h="60" oX="23" oY="5" oW="80" oH="80"/>
+    <sprite n="SunShroomSleep_07.png" x="231" y="170" w="38" h="62" oX="22" oY="3" oW="80" oH="80"/>
+    <sprite n="SunShroomSleep_08.png" x="87" y="519" w="36" h="62" oX="24" oY="3" oW="80" oH="80"/>
+    <sprite n="SunShroomSleep_09.png" x="2" y="769" w="64" h="36" oX="24" oY="2" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroom_00.png" x="963" y="2" w="58" h="54" oX="15" oY="10" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroom_01.png" x="118" y="966" w="54" h="56" oX="15" oY="12" oW="80" oH="80"/>
+    <sprite n="SunShroom_02.png" x="242" y="769" w="54" h="54" oX="15" oY="14" oW="80" oH="80"/>
+    <sprite n="SunShroom_03.png" x="2" y="968" w="56" h="54" oX="14" oY="14" oW="80" oH="80"/>
+    <sprite n="SunShroom_04.png" x="470" y="778" w="52" h="56" oX="14" oY="16" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroom_05.png" x="425" y="885" w="52" h="56" oX="14" oY="16" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroom_06.png" x="963" y="58" w="58" h="50" oX="13" oY="18" oW="80" oH="80"/>
+    <sprite n="SunShroom_07.png" x="446" y="943" w="50" h="56" oX="14" oY="18" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroom_08.png" x="228" y="966" w="52" h="56" oX="14" oY="16" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroom_09.png" x="895" y="470" w="56" h="54" oX="14" oY="14" oW="80" oH="80"/>
+    <sprite n="SunShroom_10.png" x="60" y="968" w="56" h="54" oX="15" oY="12" oW="80" oH="80" r="y"/>
+    <sprite n="SunShroom_11.png" x="963" y="2" w="58" h="54" oX="15" oY="10" oW="80" oH="80" r="y"/>
+    <sprite n="Torchwood_00.png" x="624" y="616" w="83" h="71" oX="0" oY="3" oW="73" oH="87" r="y"/>
+    <sprite n="Torchwood_01.png" x="2" y="885" w="71" h="81" oX="0" oY="5" oW="73" oH="87"/>
+    <sprite n="Torchwood_02.png" x="271" y="511" w="87" h="71" oX="0" oY="0" oW="73" oH="87" r="y"/>
+    <sprite n="Torchwood_03.png" x="452" y="559" w="85" h="71" oX="0" oY="1" oW="73" oH="87" r="y"/>
+    <sprite n="Torchwood_04.png" x="363" y="489" w="87" h="71" oX="0" oY="0" oW="73" oH="87" r="y"/>
+    <sprite n="Torchwood_05.png" x="457" y="486" w="87" h="71" oX="0" oY="0" oW="73" oH="87" r="y"/>
+    <sprite n="Torchwood_06.png" x="731" y="477" w="71" h="85" oX="0" oY="1" oW="73" oH="87"/>
+    <sprite n="Torchwood_07.png" x="457" y="413" w="87" h="71" oX="0" oY="0" oW="73" oH="87" r="y"/>
+    <sprite n="Torchwood_08.png" x="864" y="769" w="81" h="71" oX="0" oY="5" oW="73" oH="87" r="y"/>
+</TextureAtlas>

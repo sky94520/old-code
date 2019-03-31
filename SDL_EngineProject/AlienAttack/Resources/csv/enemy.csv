@@ -1,0 +1,7 @@
+ name,type,health,speed,worth,fire_interval,normal_format,normal_count,dead_format,dead_count
+Glider,Glider,3,3,3,-1,sprite/enemy1.png,1,explosion%d.png,9
+ShotGlider,ShotGlider,2,3,2,1.5,sprite/enemy2.png,1,explosion%d.png,9
+Eskeletor,Eskeletor,3,3,5,1,enemy3_%d.png,3,explosion%d.png,9
+Turret,Turret,5,0,6,0.5,sprite/turret.png,1,explosion%d.png,9
+RoofTurret,RoofTurret,5,0,6,0.5,sprite/turret.png,1,explosion%d.png,9
+Level1Boss,Level1Boss,40,2,20,1,sprite/boss1.png,1,largeexplosion%d.png,9

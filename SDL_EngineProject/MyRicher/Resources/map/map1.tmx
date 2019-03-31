@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="21" height="16" tilewidth="32" tileheight="32" nextobjectid="4">
+ <tileset firstgid="1" name="map1_tile" tilewidth="32" tileheight="32" tilecount="357" columns="21">
+  <image source="map1_tile.png" trans="ff00ff" width="699" height="549"/>
+  <tile id="3">
+   <properties>
+    <property name="type" value="strength 30"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="type" value="strength 50"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="type" value="strength 80"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="type" value="random event"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="type" value="lottery"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="type" value="stock"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="ground" width="21" height="16">
+  <data encoding="base64" compression="zlib">
+   eJyN0lVTVVEYBuBzxtExZxTBFgsDbMVWQsBAwQQEVMTu7u5ub+zmyu668Ub/gV7oP7C7bvRhgPEoxxkvnvnWt+Zb795r9q4TCATqUo/6NKAhjWhMNE1oSjOa04IYWtKK1rQhljja0o72dKAjnehMF7oSTze604Oe9KI3fehLPxJIJIlk+pNCKmkMYCCDGEw6QxhKBpkMYzgjGMkoRpNFNjmMIZc88hnLOMZTwAQKmcgkJjOFqUxjOjOYySxmM4e5zGM+C1jIIhazhKUsYzkrWMkqVrOGtaxjPRvYyCY2s4WtbGM7O9jJLnazh73sYz8HOMghalKLCGpzmCMc5RjHOcFJTnGaM5zlHOcpCjlfFJJ5gYtc4jJXuMo1rnODm9ziNne4yz3u84BKwZLsssyHpaJC9h7xOKT/V40onfs78wlPA3/uPeN5mIxwzwmX+YKXvOI1b3jLO97zgY984jNf+Mo3vvMjTOZPAsHffQXrSLVisGS2eF1ZrUJVqlGdGsGSsz/DZEbqo4Ll/4OyWrYfbaZJsPzdY4LlM2P1cf+R2dVMfMhcZOl37RUmM0GfSBLJ9CeFVNIYwEAGMZh0hjCUDDLDZJa9T5b9bHIYQy555DOWcYyngAkUBv+8U7FfdqhsEg==
+  </data>
+ </layer>
+ <layer name="way" width="21" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4D6gBOImYGYA0qzQ2l0zIJFjB2HmWxofCYS3INLLbo4NcyE+RXmN3S/s6GJsyLJEetOUtyESy8rDcykhTuxpR1Y2HIyoKYbGBs53dESAACa8wDz
+  </data>
+ </layer>
+ <layer name="land" width="21" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4CBgZFMjMssarhn1MxRM2lhJrI4pekdAE1gACw=
+  </data>
+ </layer>
+ <objectgroup name="object layer">
+  <object id="1" name="Player1" x="96" y="288" width="32" height="32">
+   <properties>
+    <property name="dir" value="0"/>
+    <property name="texture" value="sprites/luffy.png"/>
+   </properties>
+  </object>
+  <object id="3" name="Player2" x="256" y="224" width="32" height="32">
+   <properties>
+    <property name="dir" value="2"/>
+    <property name="texture" value="sprites/naruto.png"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
