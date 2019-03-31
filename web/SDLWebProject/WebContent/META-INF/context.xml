@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource name="TestJNDI" type="javax.sql.DataSource" auth="Container"
+		driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+		url="jdbc:sqlserver://localhost:1433;databaseName=RealEstateDB"
+		username="sa" password="sa" maxActive="4" maxIdle="2" maxWait="6000">
+	</Resource>
+</Context>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>欢迎新用户</title>
+</head>
+<body align="center">
+<div >
+	<img src="picture.gif" width="50%" height="74" alt="图片无法显示"><br>
+	<h3 align="center">欢迎您的光临，这只是一个演示，实际的注册需要将数据插入数据库</h3>
+	<script type="text/javascript">
+	todayDate = new Date();
+	date = todayDate.getDate();
+	month = todayDate.getMonth()+1;
+	year = todayDate.getYear();
+	document.write("今天是");
+	if(navigator.appName == "Netscape")
+		document.write(1900+year+"年"+month+"月"+date+"日");
+	if(navigator.appVersion.indexOf("MSIE") != -1)
+		document.write(year+"年"+month+"月"+date+"日");
+	if(todayDate.getDay() == 0) document.write("周日");
+	if(todayDate.getDay() == 1) document.write("周一");
+	if(todayDate.getDay() == 2) document.write("周二");
+	if(todayDate.getDay() == 3) document.write("周三");
+	if(todayDate.getDay() == 4) document.write("周四");
+	if(todayDate.getDay() == 5) document.write("周五");
+	if(todayDate.getDay() == 6) document.write("周六");
+	function goback()
+	{
+		history.go(-1);
+	}
+	</script>
+</div>
+<form name="frm">
+	<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+	<p align="center">
+		<input name="button" type="button" onclick="goback()" value="返回上一页">
+	</p>
+</form>
+<table width="50%" align="center" bordercolor="#A6CAF0" border="1">
+<tr>
+	<td>网页制作中心</td>
+	<td>tel:025-1111111 Email:123@163.com</td>
+</tr>
+</table>
+</body>
+</html>

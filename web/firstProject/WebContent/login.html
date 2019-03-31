@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>登陆</title>
+</head>
+<script language="javascript">
+function check(theform)
+{
+	if(theform.username.value=="")
+	{
+		alert("用户名不能为空");
+		theform.username.focus();
+		return false;
+	}
+	if(theform.passwrd.value=="")
+	{
+		alert("密码不能为空");
+		theform.username.focus();
+		return false;
+	}
+	if(!document.getElementById("boss").clicked && !document.getElementById("client").clicked)
+	{
+		alert("error");
+		return false;
+	}
+	return true;
+}
+</script>
+<body>
+<form action="yy.jsp" method="post" onsubmit="return check(this)">
+<table border="0" width="300" height="100">
+	<tr>
+		<td width="60">用户名:</td>
+		<td width="100">
+			<input type="text" name="username"/>
+		</td>
+	</tr>
+	<tr>
+		<td width="60">密码:</td>
+		<td width="100">
+			<input type="password" name="passwrd" />
+		</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>
+			<input type="radio" name="user" id="boss">管理员
+			<input type="radio" name="user" id="client">普通用户
+		</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>
+		<input type="submit" value="提交">
+		<input type="reset" value="重置"></td>
+	</tr>
+</table>
+</form>
+</body>
+</html>

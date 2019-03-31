@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<style type="text/css">
+.hidden
+{
+position:absolute;
+left:-1500em;
+}
+</style>
+<script type="text/javascript">
+window.onload = function()
+{
+	init();
+};
+function init()
+{
+	var optional = document.getElementById("optional");
+	optional.className="hidden";
+	var readYes = document.getElementById("readYes");
+	readYes.onclick = showOptional;
+	
+	var readNo = document.getElementById("readNo");
+	readNo.onclick = hideOptional;
+}
+function showOptional()
+{
+	var optional = document.getElementById("optional");
+	optional.className="";
+	return true;
+}
+function hideOptional()
+{
+	var optional = document.getElementById("optional");
+	optional.className="hidden";
+	return true;
+}
+</script>
+<body>
+<form action="">
+<fieldset>
+<legend>Character</legend>
+<p>你阅读过金瓶梅吗？</p>
+<input type="radio" name="read" id="readYes">
+<label for="readYes">Yes
+</label>
+<input type="radio" name="read" id="readNo">
+<label for="readNo">No
+</label>
+
+<div id="optional">
+	<label for="character">你最喜欢哪个人物<br></label>
+	<select id="character" name="character">
+	<option value="A">潘金莲</option>
+	<option value="B">西门庆</option>
+	</select>
+</div>
+</fieldset>
+</form>
+</body>
+</html>

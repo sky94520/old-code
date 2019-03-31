@@ -1,0 +1,24 @@
+Array.pototype.push = function()
+{
+	for(var i=0;i<arguments.length;i++)
+		this[this.length] = arguments[i];
+	return argument[i-1];
+};
+Array.pototype.splice = function()
+{
+	var temp = [];
+	for(var i=a+b;i<this.length;i++)
+		temp[temp.length] = this[i];
+	//get the delete elements
+	var rem = [];
+	for(i=a;i<a+b;i++)
+		rem[rem.length] = this[i];
+	//make the length to a
+	this.length = a;
+	//add the arguments' last elements
+	for(i=2;i<arguments.length;i++)
+		this[this.length] = arguments[i];
+	for(i=0;i<tmp.length;i++)
+		this[this.length] = tmp[i];
+	return rem;
+};

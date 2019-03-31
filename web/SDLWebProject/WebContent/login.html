@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>登陆</title>
+<script language="javascript" type="text/javascript">
+function check(theform)
+{
+	if(theform.mail.value=="")
+	{
+		alert("用户名不能为空");
+		theform.mail.focus();
+		return false;
+	}
+	if(theform.password.value=="")
+	{
+		alert("密码不能为空");
+		theform.username.focus();
+		return false;
+	}
+	return true;
+}
+function check1(input,typeName)
+{
+	var test = document.getElementById("username");
+	if(input.value =="")
+	{
+		
+		var errorSpan = document.createElement("span");
+		var errorMsg = document.createTextNode("请输入"+typeName);
+		errorSpan.appendChild(errorMsg);
+		//errorSpan.className = "errorMsg";
+		var test = document.getElementById("errorSpan");
+		test.innerHTML = ("请输入"+typeName);
+		//test.appendChild(errorSpan);
+	}
+}
+</script>
+<link rel="stylesheet" type="text/css" href="css/login.css"/>
+<style type="text/css">
+body
+{
+	background-image:url(image/login-bg.jpg);
+}
+</style>
+</head>
+<body>
+<form id="loginForm" action="doLogin.jsp" method="post" onsubmit="return check(this);" class="login">
+	<div class="tit">欢迎登陆恋家网</div>
+	<p>
+		<label for="mail">邮&nbsp;&nbsp;&nbsp;&nbsp;箱:</label>
+		<input type="text" name="mail" id="mail" size="20">
+	</p>
+	<p>
+		<label for="password">密&nbsp;&nbsp;&nbsp;&nbsp;码:</label>
+		<input type="password" name="password" id="password" size="21">
+	</p><br>
+	<!-- button -->
+	<input type="submit" value="提交" class="login-submit">
+	<input type="reset" value="重置" class="login-submit">
+</form>
+</body>
+</html>

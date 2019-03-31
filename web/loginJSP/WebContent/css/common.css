@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+.errorMsg{
+	font-weight:bold;
+	font-size:80%;
+	color:#ff0000;
+}

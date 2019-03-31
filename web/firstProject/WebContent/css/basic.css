@@ -1,0 +1,28 @@
+body{
+	background-image:url(../image/body_bg.gif);
+	background-repeat:repeat-x;
+}
+table{
+	background-image:url(../image/table_bg.jpg);
+}
+td{
+	border:1px solid #990033;
+}
+a:link{
+	font-weight:bold;
+	color:#000000;
+	text-decoration:none;
+	border:0px nonoe #666666;
+}
+a:visited{
+	font-weight:bold;
+	color:#0000ff;
+	border:0px dotted #000000;
+}
+.head1{
+	font-weight:bold;
+	vertical-align:middle;
+	text-align:left;
+	white-space:pre;
+	padding-top:5px;
+}

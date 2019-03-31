@@ -1,0 +1,69 @@
+@CHARSET "UTF-8";
+div.image
+{
+	
+}
+div.buttongroup
+{
+	float:left;
+	display:inline;
+	width:25%;
+	background:#fedcbd;
+	border: 2px #ffff80 outset;
+}
+div.buttongroup ul
+{
+	list-style:none;
+	width:auto;
+	height:auto;
+}
+div.buttongroup li
+{
+	margin:20px 2px 2px 2px;
+}
+div.buttongroup ul li a:link,div.buttongroup ul li a:visited
+{
+	background:#0f1b20;
+	border:4px #000000 outset;
+	color:#ffffff;
+	text-decoration:none;
+	line-height:1.35em;
+	padding:3px 40px;
+	word-spacing:30px;
+	font-size:20px;
+}
+div.buttongroup ul li a:hover
+{
+	background:#80ffff;
+	color:#000000;
+	text-decoration:none;
+}
+div.buttongroup ul li a:active
+{
+	background:#80ff80;
+	color:#000000;
+	text-decoration:none;
+}
+div.include
+{
+	width:100%;
+	height:100%;
+	background:#ffff80;
+}
+div.common
+{
+	margin:20px 2px 5px 5px;
+	width:auto;
+	height:auto;
+}
+div.common label
+{
+	font-size:20px;
+	width:40%;
+	word-spacing:4px;
+	padding:4px 4px 4px 4px;
+}
+div.common input["password"]
+{
+	
+}

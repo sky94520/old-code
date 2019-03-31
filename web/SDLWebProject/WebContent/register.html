@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>注册</title>
+</head>
+<script language="javascript" type="text/javascript" src="script/register.js"></script>
+<style type="text/css">
+.warning
+{
+	color:#ff0000;
+	font-size:12px;
+}
+</style>
+<body>
+<h1 align="center">欢迎您注册本网站</h1>
+<hr>
+<h3 align="center">第一步</h3>
+<hr>
+<form action="./UserRegisterServlet" name="form1" method="post" onsubmit="return checkRegisterForm(this);">
+<table>
+<tr>
+	<td>*用&nbsp;&nbsp;户&nbsp;&nbsp;名:</td><td><input type="text" name="username" title="用户名" size="40"></td>
+</tr>
+<tr>
+	<td>*密&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;码:</td><td><input type="password" name="password1" title="密码" size="41"></td>
+</tr>
+<tr>
+	<td>*密码确认:</td><td><input type="password" name="password2" title="密码确认" size="41"></td>
+</tr>
+<tr>
+	<td>*邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱:</td><td><input type="text" name="mail" id="mail" title="邮箱" size="40" onblur="return checkMailRegistered(mail);"></td>
+	<td><label for="mail" id="mailError" class="warning"></label></td>
+</tr>
+<tr>
+	<td>*验&nbsp;&nbsp;证&nbsp;&nbsp;码:</td>
+	<td>
+		<input type="text" name="verify" size="20">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input type="button" id="verifyBtn" value="获取验证码" onclick="sendVerify(form1);">
+	</td>
+</tr>
+<tr>
+	<td colspan="2">
+		<input type="submit" value="立即注册">
+		<input type="reset" value="重置">
+	</td>
+</tr>
+</table>
+
+</form>
+</body>
+</html>

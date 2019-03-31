@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html;charset=gb2312" http-equiv="Content-Type">
+<title>DOM添加元素</title>
+</head>
+<script type="text/javascript">
+	var nr=0;
+	function addItem()
+	{
+		var list=document.getElementById("list");
+		var newNode = document.createElement("li");
+		var newLink = document.createElement("a");
+		newLink.setAttribute("href","doRegister.html");
+		nr++;
+		var newTextNode = document.createTextNode("结点"+nr);
+		newLink.appendChild(newTextNode);
+		newNode.appendChild(newLink);
+		newNode.setAttribute("id","结点"+nr);
+		list.appendChild(newNode);
+	}
+	function deleteItem()
+	{
+		if(nr <= 0)
+			return ;
+		var list = document.getElementById("list");
+		var op=document.getElementById("结点"+nr);
+		list.removeChild(op);
+		nr--;
+	}
+	function output()
+	{
+		var anchors = document.getElementsByTagName("a");
+		for(var i=0;i<anchors;i++)
+			anchors[i].className = "starLink";
+	}
+</script>
+<body>
+	<ul id="list"><li>结点序列</li></ul>
+	<input type="button" onclick="addItem()" value="增加新结点"/>
+	<input type="button" onclick="deleteItem()" value="删除结点"/>
+	<input type="button" onclick="output()" value="输出"/>
+</body>
+</html>

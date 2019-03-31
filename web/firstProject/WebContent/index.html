@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>自我介绍</title>
+<link rel="stylesheet" type="text/css" href="css/basic.css"/>
+<style type="text/css">
+h1{color:red}
+</style>
+</head>
+<body>
+	<table width="517" border="1" align="center">
+	<caption>个人简介</caption>
+	<tr>
+	<td width="69" height="33">姓&nbsp;&nbsp;&nbsp;名</td>
+	<td width="286"><b>喜羊羊</b></td>
+	<td width="140" rowspan="4">
+	<img src="image/xiyangyang.jpg" width="140" height="140" id="img_download">
+	<script language="javascript">
+	var img=document.getElementById("img_download");
+	img.onclick=function()
+	{
+		alert("单击了图片");
+	};
+	</script>
+	</td>
+	</tr>
+	<tr>
+	<td height="33">性&nbsp;&nbsp;&nbsp;别</td>
+	<td>男</td>
+	</tr>
+	
+	<tr>
+	<td height="33">出生年月</td>
+	<td>2008-1-1</td>
+	<tr>
+	<td height="33">个人网站</td>
+	<td><a href=http://you.video.sina.com.cn/tianranxy target="_balnk">
+	喜羊羊的博客</a>
+	</td>
+	</tr>
+	<tr>
+		<td>
+			<input name="button" value="打开新窗口" type="button"
+			onclick="window.open('NewFile.jsp','width=400,height=200,status=yes')">
+		</td>
+	</tr>
+	</table>
+</body>
+</html>
