@@ -1,0 +1,5 @@
+ID,Name,Type,ModelID,Atk,AtkSpeed,AtkRange,UpgradeCost,Resources,Bullet,AllFrameNum,attackNum,refillBulletNum
+英雄ID,名字,类别,模型ID,攻击力,攻击速度,攻击范围,升级消耗,资源文件,子弹,总帧数,攻击帧数,填弹帧
+6,炸弹塔1,6,6,5,1.5,150,5,sprite/hero/cannons,100,18,10,12
+7,炸弹塔2,7,7,10,1,200,10,sprite/hero/cannons,sprite/bullet/cannons-level2-bullet,20,11,14
+8,炸弹塔3,8,8,15,1,210,15,sprite/hero/cannons,sprite/bullet/cannons-level3-bullet,17,9,11

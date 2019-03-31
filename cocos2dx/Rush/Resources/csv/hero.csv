@@ -1,0 +1,4 @@
+ID,Name,Type,ModelID,Atk,AtkSpeed,AtkRange,UpgradeAt,UpgradeCost,Resources,Bullet
+英雄ID,名字,类别,模型ID,攻击力,攻击速度,攻击范围,升级攻击力,升级消耗,资源文件,子弹
+1,炮塔,1,1,5,100,150,2.2,5,sprite/hero/cannons,sprite/bullet/cannons-level1-bullet
+2,晓筱,2,2,10,100,200,2.5,10,sprite/hero/border_2.png,

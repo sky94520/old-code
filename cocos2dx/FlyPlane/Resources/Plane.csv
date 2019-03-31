@@ -1,0 +1,7 @@
+名称,生命,攻击力,移动速度
+name,hitPoints,damage,speed
+Small Plane,1,1,2
+Quick Plane,1,1,3
+Quicker Plane,1,1,5
+Middle Plane,5,2,2
+Large Plane,10,4,2

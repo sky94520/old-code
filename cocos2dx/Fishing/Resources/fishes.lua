@@ -1,0 +1,72 @@
+﻿--第一种鱼---
+Fish1 = {};
+Fish1.id = 1;
+Fish1.name = "小白鱼";
+Fish1.desc = "鱼中的小精灵，经常穿梭在鱼草中";
+Fish1.speed = 200;
+Fish1.weightMean = 20;--加权平均数，表示出现的概率
+Fish1.gold = 1;
+Fish1.colliableRect = "0,0,50,24";
+Fish1.scaredRect = "0,0,100,96";
+Fish1.walkFrame = 10;
+Fish1.deadFrame = 2;
+--第二种鱼
+Fish2 = {};
+Fish2.id = 2;
+Fish2.name = "小红鱼";
+Fish2.desc = "鲜艳美丽，但是并没有毒性";
+Fish2.speed = 180;
+Fish2.weightMean = 15;--加权平均数，表示出现的概率
+Fish2.gold = 2;
+Fish2.colliableRect = "0,0,55,28";
+Fish2.scaredRect = "0,0,110,110";
+Fish2.walkFrame = 10;
+Fish2.deadFrame = 2;
+--第三种鱼
+Fish3 = {};
+Fish3.id = 3;
+Fish3.name = "草鱼";
+Fish3.desc = "有人说草生鱼，反正我不信";
+Fish3.speed = 140;
+Fish3.weightMean = 10;--加权平均数，表示出现的概率
+Fish3.gold = 5;
+Fish3.colliableRect = "0,0,73,36";
+Fish3.scaredRect = "0,0,146,146";
+Fish3.walkFrame = 10;
+Fish3.deadFrame = 2;
+--第四种鱼
+Fish4 = {};
+Fish4.id = 4;
+Fish4.name = "小丑鱼";
+Fish4.desc = "看着挺萌的，但谁起的名字呢？";
+Fish4.speed = 100;
+Fish4.weightMean = 8;--加权平均数，表示出现的概率
+Fish4.gold = 10;
+Fish4.colliableRect = "0,0,60,30";
+Fish4.scaredRect = "0,0,120,120";
+Fish4.walkFrame = 10;
+Fish4.deadFrame = 2;
+--第五种
+Fish5 = {};
+Fish5.id = 5;
+Fish5.name = "波纹鱼";
+Fish5.desc = "身上的波纹闪闪发亮";
+Fish5.speed = 110;
+Fish5.weightMean = 5;--加权平均数，表示出现的概率
+Fish5.gold = 15;
+Fish5.colliableRect = "0,0,94,40";
+Fish5.scaredRect = "0,0,188,162";
+Fish5.walkFrame = 10;
+Fish5.deadFrame = 2;
+--第六种
+Fish6 = {};
+Fish6.id = 6;
+Fish6.name = "安內姆鱼";
+Fish6.desc = "奇怪的名字";
+Fish6.speed = 120;
+Fish6.weightMean = 2;--加权平均数，表示出现的概率
+Fish6.gold = 20;
+Fish6.colliableRect = "0,0,93,93";
+Fish6.scaredRect = "0,0,186,186";
+Fish6.walkFrame = 10;
+Fish6.deadFrame = 2;

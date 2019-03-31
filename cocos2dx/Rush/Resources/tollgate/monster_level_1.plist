@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>id</key>
+		<integer>1000</integer>
+		<key>showTime</key>
+		<integer>3</integer>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>id</key>
+		<integer>1000</integer>
+		<key>showTime</key>
+		<integer>8</integer>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>id</key>
+		<integer>1000</integer>
+		<key>showTime</key>
+		<integer>12</integer>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>id</key>
+		<integer>1000</integer>
+		<key>showTime</key>
+		<integer>14</integer>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>id</key>
+		<integer>1001</integer>
+		<key>showTime</key>
+		<integer>15</integer>
+	</dict>
+</dict>
+</plist>

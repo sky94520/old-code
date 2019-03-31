@@ -1,0 +1,4 @@
+ID,Name,Level,Type,ModelID,Defense,HP,MoveSpeed,Resources,up,down,horizontal,attack,dead
+怪物ID,名字,等级,类别,模型ID,防御,血量,移动速度,资源,上,下,水平,攻击,死亡
+1000,野猪,1,1,1,1,50,5,sprite/monster/boar,5,5,8,10,9
+1001,蝎子,1,2,2,10,100,2,sprite/monster/scorpion,9,9,9,23,9

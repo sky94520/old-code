@@ -1,0 +1,3 @@
+ID,Name,Type,RunFrame,AtkFrame,Resource
+子弹ID,名称,类别,运动帧,攻击帧,资源
+100,炮弹1级,1,1,10,sprite/bullet/cannons-level1-bullet

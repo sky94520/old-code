@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DoubleBulletDuration</key>
+	<string>15</string>
+	<key>DoubleBulletItemIntervalTime</key>
+	<string>20</string>
+	<key>PTM_RATIO</key>
+	<integer>32</integer>
+	<key>enemyPath</key>
+	<string>enemy.csv</string>
+	<key>info_service</key>
+	<string>信息与服务</string>
+	<key>lblHighScore</key>
+	<string>最高分：</string>
+	<key>lblMusic</key>
+	<string>背景音：</string>
+	<key>lblSound</key>
+	<string>音 效：</string>
+	<key>music</key>
+	<string>音乐</string>
+	<key>sound</key>
+	<string>音效</string>
+	<key>test</key>
+	<string>测试</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>str1</key>
+	<string>您当前没有选择项，请重新选择</string>
+	<key>str2</key>
+	<string>恭喜您，回答正确，您获得了额外的出手次数</string>
+	<key>str3</key>
+	<string>啊哦，回答错误，扣除您一次出手次数哦</string>
+	<key>str4</key>
+	<string>您已经用光了本关的答题次数，不能再答题了哦~</string>
+	<key>str5</key>
+	<string>继续</string>
+	<key>str6</key>
+	<string>返回到关卡选择界面</string>
+</dict>
+</plist>
