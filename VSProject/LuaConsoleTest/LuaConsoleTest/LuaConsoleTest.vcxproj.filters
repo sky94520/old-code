@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{3e198a55-a45f-4137-ad54-ad99f1a8c845}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="实体">
+      <UniqueIdentifier>{7c7674d1-583e-4b94-a7b8-c52d8bf94373}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="场景">
+      <UniqueIdentifier>{c3fa269f-ee72-4738-a0be-a224dccd024c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="rapidxml">
+      <UniqueIdentifier>{697f0b06-8966-46b4-ad88-a88dd09fd876}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="数据相关">
+      <UniqueIdentifier>{9276ccf0-4a18-4e6e-b82c-6521a066a400}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="MainLua.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Size.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>实体</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>实体</Filter>
+    </ClCompile>
+    <ClCompile Include="PackageLayer.cpp">
+      <Filter>场景</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>场景</Filter>
+    </ClCompile>
+    <ClCompile Include="FightLayer.cpp">
+      <Filter>场景</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>实体</Filter>
+    </ClCompile>
+    <ClCompile Include="FieldMap.cpp">
+      <Filter>场景</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalFunctions.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="StringUtils.cpp">
+      <Filter>数据相关</Filter>
+    </ClCompile>
+    <ClCompile Include="UserDefault.cpp">
+      <Filter>数据相关</Filter>
+    </ClCompile>
+    <ClCompile Include="Value.cpp">
+      <Filter>数据相关</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicData.cpp">
+      <Filter>数据相关</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainLua.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Size.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SEMath.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>实体</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>实体</Filter>
+    </ClInclude>
+    <ClInclude Include="PackageLayer.h">
+      <Filter>场景</Filter>
+    </ClInclude>
+    <ClInclude Include="PlatformMarcos.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalFunctions.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>场景</Filter>
+    </ClInclude>
+    <ClInclude Include="rapidxml\rapidxml.hpp">
+      <Filter>rapidxml</Filter>
+    </ClInclude>
+    <ClInclude Include="rapidxml\rapidxml_iterators.hpp">
+      <Filter>rapidxml</Filter>
+    </ClInclude>
+    <ClInclude Include="rapidxml\rapidxml_print.hpp">
+      <Filter>rapidxml</Filter>
+    </ClInclude>
+    <ClInclude Include="rapidxml\rapidxml_utils.hpp">
+      <Filter>rapidxml</Filter>
+    </ClInclude>
+    <ClInclude Include="FightLayer.h">
+      <Filter>场景</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>实体</Filter>
+    </ClInclude>
+    <ClInclude Include="FieldMap.h">
+      <Filter>场景</Filter>
+    </ClInclude>
+    <ClInclude Include="StringUtils.h">
+      <Filter>数据相关</Filter>
+    </ClInclude>
+    <ClInclude Include="UserDefault.h">
+      <Filter>数据相关</Filter>
+    </ClInclude>
+    <ClInclude Include="Value.h">
+      <Filter>数据相关</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicData.h">
+      <Filter>数据相关</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>实体</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

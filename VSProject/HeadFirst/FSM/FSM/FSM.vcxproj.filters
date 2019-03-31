@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Claases">
+      <UniqueIdentifier>{7c6baad8-e7a4-4133-a46f-8df5834bffd4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Claases</Filter>
+    </ClCompile>
+    <ClCompile Include="HeroineState.cpp">
+      <Filter>Claases</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Heroine.h">
+      <Filter>Claases</Filter>
+    </ClInclude>
+    <ClInclude Include="HeroineState.h">
+      <Filter>Claases</Filter>
+    </ClInclude>
+    <ClInclude Include="SystemUtils.h">
+      <Filter>Claases</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

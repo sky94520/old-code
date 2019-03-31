@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{501d59a2-ca47-4855-b54b-2a3a1b907ab6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CeilingFan.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Command.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Control.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CeilingFan.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Command.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Control.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

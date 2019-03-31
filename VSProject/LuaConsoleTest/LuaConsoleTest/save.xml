@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<hp>50</hp>
+	<agility>1</agility>
+	<atk>1</atk>
+	<weapon>StoneAxe</weapon>
+	<gold>62</gold>
+	<packages>0 Heirloom,0 StoneAxe</packages>
+</root>
+
