@@ -1,0 +1,9 @@
+显示文本文件的内容。
+
+TYPE [drive:][path]filename
+显示文本文件的内容。
+
+TYPE [drive:][path]filename
+显示文本文件的内容。
+
+TYPE [drive:][path]filename

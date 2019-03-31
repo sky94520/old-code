@@ -1,0 +1,39 @@
+#include<iostream>
+using namespace std;
+//类模板
+template<typename T>
+class Compare
+{
+	private:
+		T x,y;
+	public:
+		Compare(T a,T b){x = a;y = b;}
+		T max()
+		{return (x > y)?x:y;}
+		T min()
+		{return (x < y)?x:y;}
+};
+//复数类，重载了 > <
+class Intger
+{
+	private:
+		int real;
+	public:
+		Intger(int r):real(r){}
+		//>
+		bool operator>(const Intger &c2)
+		{
+			return real>c2.real?true:false;
+		}
+		bool operator<(const Intger &c2)
+		{
+			return real<c2.real?true:false;
+		}
+};
+int main()
+{
+	Compare<Intger> com(Intger(8),Intger(6));
+	Intger n = com.max();
+
+	return 0;
+}

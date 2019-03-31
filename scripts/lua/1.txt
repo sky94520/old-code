@@ -1,0 +1,14 @@
+lua5.3手册
+4.2
+When you call a Lua function without a fixed number of results (see lua_call),
+ Lua ensures that the stack has enough space for all results, 
+but it does not ensure any extra space. So, before pushing anything in the stack
+ after such a call you should use lua_checkstack.
+2.int lua_checkstack (lua_State *L, int n);
+Ensures that the stack has space for at least n extra slots (that is, that you can safely 
+push up to n values into it). It returns false if it cannot fulfill the request,
+ either because it would cause the stack to be larger than a fixed maximum size 
+(typically at least several thousand elements) or because it cannot 
+allocate memory for the extra space. This function never shrinks the stack; 
+if the stack already has space for the extra slots, it is left unchanged.
+确保栈中有至少n个额外的内存空间
